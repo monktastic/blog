@@ -29,7 +29,7 @@ Next, you might try to use a `Lambda` layer to extract the image from the input:
 ```
 
 If `x = [[1], [2], [3]]` (i.e., a bunch of arrays of shape `(1,)`), then
-we want to turn it into `[1, 2, 3]`, so we `flatten it`. Recall that
+we want to turn it into `[1, 2, 3]`, so we `flatten` it. Recall that
 `x_train[[1, 2, 3]]` is the same as `x_train[[1, 2, 3], : , : , : ]`,
 which selects images 1, 2, and 3.
 
@@ -205,4 +205,5 @@ ValueError: None values not supported.
 ```
 
 The problem (_obviously_) is that Keras doesn't know how to backpropagate
-through this layer.
+through this layer. In our next lesson, we'll see how to provide a
+custom gradient function for our layer.
