@@ -59,24 +59,6 @@ important details, please
 better) fork [the GitHub repository for this website](https://github.com/kbroman/simple_site),
 make modifications, and submit a pull request.
 
-
-Python:
-```python
-import numpy as np
-
-import tensorflow as tf
-
-import keras
-from keras.layers import Input, Lambda, Flatten
-from keras.models import Model
-from keras.applications.vgg16 import VGG16
-
-# Load VGG16
-net = VGG16(include_top=True, weights='imagenet', input_shape=(224, 224, 3))
-x_train = np.zeros((1, 224, 224, 3), dtype=np.float32)
-y_train = np.zeros((1, 1), dtype=np.float32)
-```
-
 ---
 
 The source for this minimal tutorial is [on github](https://github.com/kbroman/simple_site).
