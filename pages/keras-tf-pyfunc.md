@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Making an independent website
-description: How to make an independent website with GitHub Pages.
+title: A Keras layer that loads images by index
+description: How to use tf.py_func in a keras model
 ---
-
-### A Keras layer that loads images by index
 
 Say you have a Keras model that processes images in your training set,
 stored in numpy array `x_train`. Suppose you want it to instead take
@@ -33,7 +31,8 @@ we want to turn it into `[1, 2, 3]`, so we `flatten` it. Recall that
 `x_train[[1, 2, 3]]` is the same as `x_train[[1, 2, 3], : , : , : ]`,
 which selects images 1, 2, and 3.
 
-Next, we don't want to hardcode the use of `x_train`:
+Next, we don't want to hardcode the use of `x_train`, so we take it
+as a parameter:
 ```python
  def fetch_img(x_train):
    def _fetch_img(x):
@@ -70,7 +69,7 @@ Seems like it works! The following `assert` passes:
     def _fetch_img(x):
       return tf.py_func(lambda x: x_train[x.flatten()],
                         [x], tf.float32)
-   return _fetch_img
+    return _fetch_img
 
   inp = Input(shape=(1,), dtype=tf.uint16)
   fetched_imgs = Lambda(fetch_img(x_train))(inp)
