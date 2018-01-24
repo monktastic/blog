@@ -24,11 +24,14 @@ other distributions:
 
 * P(z): what is the overall distribution of latent variables?
 
-
 p(x) = int p(x|z) * p(z) dz
 
+p(x) = int p(x,z) dz  # Why not just calculate this?
 
+p(x|z) = p(x, z) / p(z)
+p(x|z) = p(x, z) / (int p(x,z) dx)
 
+$$\sigma$$
 
 
 
