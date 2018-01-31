@@ -41,23 +41,18 @@ A, and a rotation operator R. Some questions:
 
 ---
 
-##### Q1
-
-Given some vector w, which vector is w rotated by R?
+**Q1.** Given some vector w, which vector is w rotated by R?
 
   1. Rw
   1. R<sup>-1</sup>w
 
-##### Q2
-
-Which of the following would give you the _representation of w_ in
-the basis {Rx, Ry}?
+**Q2.** Which of the following would give you the _representation of w_
+in the basis {Rx, Ry}?
 
   1. Writing Rw in the original basis.
   1. Writing R<sup>-1</sup>w in the original basis.
 
-##### Q3
-
+**Q3.**
 Which operator behaves like A but with respect to basis {Rx, Ry}? For
 example, if A projects onto x, then this operator projects onto Rx.
 
@@ -66,8 +61,7 @@ example, if A projects onto x, then this operator projects onto Rx.
   3. RAR<sup>-1</sup>
   4. R<sup>-1</sup>AR
 
-#### Q4
-
+**Q4.**
 Which of these vectors, when written in the original basis, will give
 the *representation* of A with respect to {Rx, Ry}?
 
@@ -76,18 +70,16 @@ the *representation* of A with respect to {Rx, Ry}?
   3. RAR<sup>-1</sup>
   4. R<sup>-1</sup>AR
 
+---
 
-#### A1
-
+**A1.**
 Rw, by definition.
 
-#### A2
-
+**A2.**
 R<sup>-1</sup>w. Rotating the axes counterclockwise has the same effect
 as rotating the vector clockwise.
 
-#### A3
-
+**A3.**
 RAR<sup>-1</sup>.
 
 RAR<sup>-1</sup>w = (R(A(R<sup>-1</sup>w))). This has the effect of
@@ -97,8 +89,7 @@ For example, if w = Rx then this unrotates it so that w = x, then
 applies the projector A (which is a no-op), and then rotates it back to
 Rx, thus giving us the no-op we wanted in the new basis.
 
-#### A4
-
+**A4.**
 R<sup>-1</sup>AR.
 
 It is slightly harder to give an intuitive answer for this one, but you
