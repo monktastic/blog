@@ -97,7 +97,7 @@ is a good exercise to work the math out for yourself.
 In the following explanation, you must switch from thinking of the
 w, A, and R as vectors and operators, to thinking of them as sequences
 or matrices of numbers (namely, their representations in the original
-basis. Yes, this is a *terrible* idea).
+basis. Yes, this is a *terrible* idea; don't try this at home).
 Let B be the matrix we are trying to find.
 
   * R<sup>-1</sup>Aw can be thought of as either (R<sup>-1</sup>A) applied
