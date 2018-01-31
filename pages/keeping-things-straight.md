@@ -46,7 +46,7 @@ A, and a rotation operator R. Some questions:
   1. R<sup>-1</sup>w
 
 **Q2.** Which of the following would give you the _representation of w_
-in the basis {Rx, Ry}?
+with respect to the basis {Rx, Ry}?
 
   1. Writing Rw in the original basis.
   1. Writing R<sup>-1</sup>w in the original basis.
@@ -61,7 +61,7 @@ example, if A projects onto x, then this operator projects onto Rx.
   4. R<sup>-1</sup>AR
 
 **Q4.**
-Which of these vectors, when written in the original basis, will give
+Which of these operators, when written in the original basis, will give
 the *representation* of A with respect to {Rx, Ry}?
 
   1. RA
