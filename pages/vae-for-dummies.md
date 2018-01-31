@@ -24,7 +24,11 @@ other distributions:
 
 * P(z): what is the overall distribution of latent variables?
 
+Generative model:
 p(x) = int p(x|z) * p(z) dz
+
+Maximize likelihood of data under model:
+max(theta) p_theta(x)
 
 p(x) = int p(x,z) dz  # Why not just calculate this?
 
@@ -32,6 +36,10 @@ p(x|z) = p(x, z) / p(z)
 p(x|z) = p(x, z) / (int p(x,z) dx)
 
 $$\sigma$$
+
+
+
+
 
 
 

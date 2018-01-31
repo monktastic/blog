@@ -22,7 +22,6 @@ If you can't even imagine thinking such a ludicrous thought, good
 for you. You _grok_ math at a certain level that not everyone does,
 believe it or not.
 
-
 #### Example 2
 
 We know that the formula y = x<sup>2</sup> traces out a parabola. What
@@ -92,20 +91,83 @@ Rx, thus giving us the no-op we wanted in the new basis.
 **A4.**
 R<sup>-1</sup>AR.
 
-It is slightly harder to give an intuitive answer for this one, but you
-can work the math out for yourself.
+It is slightly harder to give an intuitive answer for this one, but it
+is a good exercise to work the math out for yourself.
 
-Notice the analogy Rw : R<sup>-1</sup>w :: RAR<sup>-1</sup> : R<sup>-1</sup>AR
+In the following explanation, you must switch from thinking of the
+w, A, and R as vectors and operators, to thinking of them as sequences
+or matrices of numbers (namely, their representations in the original
+basis. Yes, this is a *terrible* idea).
+Let B be the matrix we are trying to find.
+
+  * R<sup>-1</sup>Aw can be thought of as either (R<sup>-1</sup>A) applied
+in the original basis, or as Aw written in the new basis (per **A2**).
+
+  * BR<sup>-1</sup>w is another way of writing Aw in the new basis:
+R<sup>-1</sup>w is w in the new basis, and by hypothesis B
+is the representation of A in that basis.
+
+Therefore, R<sup>-1</sup>A = BR<sup>-1</sup>. Right-multiply by R to get
+B = R<sup>-1</sup>AR.
+
+Also notice the analogy Rw : R<sup>-1</sup>w :: RAR<sup>-1</sup> : R<sup>-1</sup>AR
 
 Rotating a vector (or operator) is the opposite of writing it in the
 rotated basis.
 
 ---
 
-If you had no trouble with that, good job! Witness Sal Khan confusing
-it [here](https://youtu.be/PiuhTj0zCf4?t=11m42s) (through 12:40) and
-then reiterating the correct reasoning at [13:55](https://youtu.be/PiuhTj0zCf4?t=13m55s).
+If that was all blindingly obvious to you, good job! I have to plod my
+way through it every time I encounter it, and often lose the plot.
+In a sense there's only one way to go wrong, but there are many places
+you can make that one mistake in a problem like **Q4**.
 
+Witness Sal Khan confusing it
+[here](https://youtu.be/PiuhTj0zCf4?t=11m42s) (through
+12:40) and then reiterating the correct reasoning at
+[13:55](https://youtu.be/PiuhTj0zCf4?t=13m55s).
+
+
+#### Bonus question
+
+On an NYC subway line, there is a local and express version of the
+train. The express train only visits a subset of the stops, except
+late at night, when it makes all stops. This is a partial image of the
+express train schedule:
+
+<img src="a-train.jpg" width="300" height="300" />
+
+You're waiting at W 4th St and need to get on a train that makes all
+stops. Problem is, you're not sure at what time of night the change
+happens. There's an express train approaching. Is it safe to get on?
+
+You're pretty sure you've gotten on during the day at W 4th. Also that
+crescent looks suspiciously like a moon.
+
+**Answer**: During the day it *only* makes black stops, and at night it
+*also* makes crescent stops. So seeing it stop at W 4th is no indication
+of whether it's making local stops yet. Wait for the local train.
+
+Alternatively, you might correctly reason that "it *only* makes crescent
+stops at night" (as in "the only time it makes crescent stops is at
+night") but then a few seconds later misinterpret it as "at night it
+*only* makes crescent stops" and thus, since it's stopping at W 4th,
+it's running on the daytime schedule, and therefore it's making only express
+stops, but wait a minute that makes no sense, but what if I'm wrong and
+end up in Harlem.... Also, maybe I should invert my reasoning because
+I'm *not* sure I've gotten on at W 4th during the day, and
+again because the black circles look like a dark sky, oh wait now I
+have four times as many cases to work through....
+
+Can you imagine being that silly? No?
+
+Well la-di-da, Ms. Fields Medalist.
+
+(Now imagine that this is about something more abstract than trains,
+and somehow you haven't even realized that you have to mentally distinguish
+express *trains* from express *stops*, and there are a dozen **known**
+unknown axes, and yet a dozen _more_ **unknown** unknown ones. Yeah,
+welcome to software.)
 
 ### Conclusion
 
