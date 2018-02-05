@@ -101,7 +101,7 @@ basis. Yes, this is a *terrible* idea; don't try this at home).
 Let B be the matrix we are trying to find.
 
   * R<sup>-1</sup>Aw can be thought of as either (R<sup>-1</sup>A) applied
-in the original basis, or as Aw written in the new basis (per **A2**).
+to w in the original basis, or as Aw written in the new basis (per **A2**).
 
   * BR<sup>-1</sup>w is another way of writing Aw in the new basis:
 R<sup>-1</sup>w is w in the new basis, and by hypothesis B
