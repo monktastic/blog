@@ -4,28 +4,42 @@ title: Transcending metaphysics
 description: What remains when you stop believing?
 ---
 
-## Summary
-
 > "Reality is that which, when you stop believing in it, doesn't go away." --
 Philip K Dick
 
-* It is not possible to prove that the past really happened. We cannot
-even say that it "probably" happened without making assumptions that
-can only be justified through circular reasoning. Ultimately, our
-decision to believe in time is *pure preference*.
+## Summary
 
-* It is possible and beneficial to have a *functional* belief in physical
-reality without taking it *literally*.
+* You believe in the past because it is *convenient*, not because it
+is *logically justified.*
+
+* Even if you understand this intellectually, it will still *feel* like
+time exists.
+
+* You think this feeling is imposed externally, but actually you are
+*creating* it. It is incredibly valuable to see *how* you are creating it.
 
 * To do so, you will need to "root your mind" and gain access to the
-layers that give rise to your metaphysics.
+layers that give rise to your metaphysics. What you find underneath
+will surprise you.
 
-* There are some practical benefits that are easy to communicate.
+* There are large practical benefits that are easy to communicate.
 
-* There are other benefits which can only sound like lunacy until you
-have at least partially unveiled the metaphysical machinery.
+* There are even larger benefits which can only sound like lunacy until
+you have at least partially unveiled the metaphysical machinery.
 
 ## Unpacked
+
+### Radical skepticism
+
+As far as you know, the world popped into existence *just now*. Your
+first instinct may be to say "okay, that's *possible*, but it's very
+*improbable*." You [will find](pages/radical-skepticism.html), however,
+that this claim can only be justified by circular reasoning. Instead,
+your belief in a real past is purely a *preference*.
+
+At first, this may seem like a pointless argument: *okay, but so what?*
+This document is about the "so what?"
+
 
 ### Layers of mind
 
