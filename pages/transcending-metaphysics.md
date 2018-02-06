@@ -9,20 +9,20 @@ description: What remains when you stop believing?
 > "Reality is that which, when you stop believing in it, doesn't go away." --
 Philip K Dick
 
-It is not possible to prove that the past really happened. We cannot
+* It is not possible to prove that the past really happened. We cannot
 even say that it "probably" happened without making assumptions that
 can only be justified through circular reasoning. Ultimately, our
 decision to believe in time is *pure preference*.
 
-It is possible and beneficial to have a *functional* belief in physical
+* It is possible and beneficial to have a *functional* belief in physical
 reality without taking it *literally*.
 
-To do so, you will need to "root your mind" and gain access to the
+* To do so, you will need to "root your mind" and gain access to the
 layers that give rise to your metaphysics.
 
-There are some practical benefits that are easy to communicate.
+* There are some practical benefits that are easy to communicate.
 
-There are other benefits which can only sound like lunacy until you
+* There are other benefits which can only sound like lunacy until you
 have at least partially unveiled the metaphysical machinery.
 
 ## Unpacked
