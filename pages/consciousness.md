@@ -84,8 +84,11 @@ yourself. This game of hide-and-seek is known as Awakening, and they say it can
 go on for as many cycles (lifetimes) as you wish.
 
 > So close you can't see it
+>
 > So simple you can't believe it
+>
 > So deep you can't fathom it
+>
 > So good you can't accept it
 >
 > -- Tibetan Buddhist saying
