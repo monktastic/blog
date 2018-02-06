@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Keeping things straight
-description: Learning how to not be confused
+title: Consciousness as the ontological primitive
+description:
 ---
 
 Let us try to unravel our metaphysics. To do so, we will need to use poetic
