@@ -4,55 +4,190 @@ title: Keeping things straight
 description: Learning how to not be confused
 ---
 
+## Summary
+
 > "Reality is that which, when you stop believing in it, doesn't go away." --
 Philip K Dick
 
-I want to play with your sense of reality a bit. If it becomes
-uncomfortable, feel free to stop. Even if you don't, it's probably fine:
-your mind has potent defense mechanisms to prevent investigating more
-deeply than you're ready for.
+It is not possible to prove that the past really happened. We cannot
+even say that it "probably" happened without making assumptions that
+can only be justified through circular reasoning. Ultimately, our
+decision to believe in time is *pure preference*.
+
+It is possible and beneficial to have a *functional* belief in physical
+reality without taking it *literally*.
+
+To do so, you will need to "root your mind" and gain access to the
+layers that give rise to your metaphysics.
+
+There are some practical benefits that are easy to communicate.
+
+There are other benefits which can only sound like lunacy until you
+have at least partially unveiled the metaphysical machinery.
+
+## Unpacked
+
+### Layers of mind
+
+The mind is made up of many layers. Normally we only have access to
+very superficial layers, in which our conscious thought is
+unfolding. Your thoughts as you read this reside in these upper layers.
+
+When you begin to meditate, you will discover layers of thought that
+you normally do not notice but are nonetheless consciously accessible.
+A good analogy is when you are reading a book, only to discover
+that your eyes have been scanning the page while your mind was
+elsewhere. Those thoughts are consciously accessible, but below the
+threshold of awareness.
+
+You have many thousands of such thoughts a day. If you learned to notice
+them, a lot of your mood and personality could be understood on a level
+that is not possible otherwise. This accounts for the commonly
+recognized benefits of meditation.
+
+### What lies beneath
+
+If you keep digging, you will discover the extremely subtle mental
+processes that give rise to your experience of reality itself, and
+discover how they are self-reinforcing. The mind labels an experience
+as "memory," which it takes as evidence for a real past. Being such a
+deep layer of mind, that conclusion manifests as a visceral *experience
+of* time. This produces the illusion that the experience is happening
+*to you* (rather than you fabricating it), and this "external
+validation" provides justification for itself.
+
+In a remarkable twist, you discover that your metaphysics is not
+*false,* per se: rather, *it is true because you make it so*.
+
+At this point, the smokescreen is woven tightly enough that it can
+trivially parry intellectual attacks from higher layers. Behold the
+dazzling array of techniques your mind is currently employing to
+disbelieve what is written here. There is a **profoundly meaningful**
+sense in which our own mind gives rise to the entire
+thing-we-call-reality (henceforth, just "reality"),
+but without seeing it for ourselves, the most we are willing to do is
+approximate this with something like "there is a *real* reality, and our
+*brain* gives rise to our personal experience of it." This is a powerful
+defense mechanism, and you should be grateful for it.
+
+What remains when you stop believing cannot be put into words, and
+whatever approximation you are forming right now is hopelessly
+inaccurate.
+
+### The glory
+
+If you manage to stop taking reality for granted for even a moment, it
+is felt as profoundly liberating. This is similar to not taking some
+particular thing (say, your health) for granted, but *infinitely* more
+expansive. It is as though you are repeatedly overwhelmed with the
+incomprehensible miracle of existence, and are suddenly free to
+reinterpret life events in a healthier context.
+
+The sheer glory, awe, and wonder can only be approximated with very
+low fidelity while remaining shoehorned inside your worldview, such as
+when you are in awe of a scientific theory. And even
+when we do have a genuinely transcendent experience, our mind rushes
+to fit it into a framework (whether scientific or religious).
+
+As you put your world in a healthier context, things in life often seem
+to work out better. You utterly forgive your wife for a long-held
+grudge, and she suddenly becomes more loving. Sometimes this kind of
+thing happens even when your worldview cannot accommodate it: your wife
+was halfway around the world, and you hadn't even communicated.
+
+### The mission
+
+You are confronted with a choice: do I stay comfy in my metaphysics
+and potentially circumscribe the degree of healing that is possible,
+or do I venture out into the unknown? Do I continue to fabricate a
+world in which such things have never happened, giving me the evidence
+I need to demonstrate that they can't?
+
+How you respond will depend on your training and readiness.
+
+### The path
+
+Insanity is what occurs when the deepest layers of mind are generating
+a reality that higher layers refuse to align with. It is a distinct
+possibility if you try to force your way into realization without
+preparation, such as taking psychedelics for the "wrong reasons."
+
+The mission laid out by the Buddha (amongst others) is to progressively
+but completely relax this death-grip on our worldview and see for
+ourselves what remains. It would be absurd to believe you have any
+such ability without significant practice. A high IQ can easily be used
+to strengthen the mind's deceptions. Luckily, in conjunction with
+meditation, there are many complementary practices we can employ:
+radical gratitude, radical forgiveness, radical self-compassion....
+
 
 ## Time is a lie
 
 Young earth creationists believe that the earth was created in the past
-ten thousand years. The neo-creationist Omphalos Hypothesis points out
+ten thousand years. The neo-creationist Omphalos Hypothesis explains
 that dinosaur bones and other seemingly old artifacts might have been
-planted there by God as a test of our faith.
+planted there recently by God as a test of our faith.
 
 As ludicrous as this may strike you, there is no logical contradiction
 in it. In fact, there is no way to disprove that the universe sprang
 into existence, fully-formed, last Thursday. The
-philosopher-mathematician Bertrand Russell took it one step further:
+mathematician-philosopher Bertrand Russell took it one step further:
 
 > "There is no logical impossibility in the hypothesis that the world
 sprang into being five minutes ago, exactly as it then was, with a
 population that 'remembered' a wholly unreal past."
 
-Taken to its logical limit, this may all have appeared freshly in this
-very moment, the past being nothing but an illusion. But while such a
-claim is not logically impossible, it is certainly very improbable.
-Right?
+Taken to its logical limit, this may all have appeared freshly in *this*
+very moment, the past being nothing but an illusion. You can even
+apply that reasoning now. Or now. Or now. Perhaps you never actually
+read the above paragraphs, but just popped into existence with the
+memory of having done so.
 
-Well, stop for a moment and consider how you might calculate such a
-probability. Since (by construction) the Russell world looks in all
-ways identical to this one, no evidence from the world should bias
-your belief. You can try to use a theoretical justification like
-Ockham's Razor, but you're not permitted to justify it by pointing out
-how well it has worked in the past. You may insist that it's ludicrous
-to believe that such an intricate world could pop into existence out of
-nowhere, but again, that presupposes the view it is trying to justify.
-It amounts to an argument from indignation.
+But while such a claim is not logically *impossible*, it is certainly
+very *improbable*. Right?
 
-If you're careful and honest, you will discover that through evidence
-and reason alone, we should not assign a higher probability to our usual
-worldview than Russell's (or numerous other equally strange ones). And
-yet, it seems totally unproductive to question it.
+Well, stop for a moment and consider how you might evaluate such a
+probability. Suppose you have two models to choose from: one in which
+everything suddenly appeared exactly as it is now (let's call this the
+Russell metaphysics), and the other is the default model of materialism.
+What evidence will you use to decide in favor of one or the other?
 
-For this reason, Russell himself refused to take radical skepticism seriously:
+A moment's thought will reveal that any facts gleaned from the world
+are fully compatible with either model. As such, they should not bias
+you toward believing in one or the other. As an example, suppose you are
+trying to determine whether an unseen coin is a nickel or a quarter. If
+you are told that it was flipped and came up heads, this shouldn't cause
+you to favor either answer. Even if you were told the results of one
+thousand tosses, you still have learned nothing. You need evidence that
+*differs* in the two cases, and we've purposely constructed Russell to
+be *identical* in all appearances to materialism.
 
-> “Skepticism, while logically impeccable, is psychologically impossible,
-and there is an element of frivolous insincerity in any philosophy
-which pretends to accept it.”
+Okay, so all physical evidence is out. You could try to argue that on
+theoretical grounds, it's absurdly unlikely for such a complex world to
+spring into existence from nowhere. But this involves circular
+reasoning: it *presupposes* that what we know about the world is true.
+
+You may try to use Occam's Razor to make a case, but again you must be
+careful. If your argument relies on anything from the past -- such as
+evidence suggesting that simpler models tend to be correct -- then
+you are again *assuming* your metaphysics in order to prove it. You may
+use Occam's Razor in its aesthetic form (namely, that simpler models are
+more beautiful and thus preferable), but then you are not stating a
+*probability* but a *preference*.
+
+No matter how you slice it, the only way you can say it is "likely" that
+the past really happened is by making assumptions that can only be
+justified through circular reasoning. Ultimately, your decision to
+believe in time is *pure preference*.
+
+Nonetheless, it is such an incredibly *strong* preference that it may
+be hard to recognize as one. Such a conclusion is uncomfortable, and
+this discomfort is good enough reason to believe in time -- logic be
+damned. Russell:
+
+> “Skepticism, while **logically impeccable**, is **psychologically
+impossible**, and there is an element of frivolous insincerity in any
+philosophy which pretends to accept it.”
 
 Same with David Hume (whose brilliant Problem of Induction similarly
 refutes the rationality of using the past to make any predictions about
@@ -67,64 +202,67 @@ my friends and when after three or four hours of amusement I would return
 to these speculations, they appear so cold and strange and ridiculous
 that I cannot find in my heart to enter into them any further. Thus the
 skeptic still continues to reason and believe, though he asserts he
-cannot defend his reason by reason."
+**cannot defend his reason by reason.**"
 
 And finally, modern physicist Sean Carroll:
 
-> “There is no way to distinguish between the scenarios by collecting
-new data.
-
+> “There is **no way** to distinguish between the scenarios by
+collecting new data.
+>
 > What we’re left with is our choice of prior credences. We’re allowed
 to pick priors however we want—and every possibility should get some
 nonzero number. But it’s okay to set our prior credence in radically
 skeptical scenarios at very low values, and attach higher prior credence
 to the straightforwardly realistic possibilities.
-
+>
 > Radical skepticism is less useful to us; it gives us no way to go
 through life. All of our purported knowledge, and all of our goals and
 aspirations, might very well be tricks being played on us. But what
 then? We cannot actually act on such a belief, since any act we might
-think is reasonable would have been suggested to us by that annoying demon.
-Whereas, if we take the world roughly at face value, we have a way of moving
-forward. There are things we want to do, questions we want to answer, and
-strategies for making them happen. We have every right to give high credence to
-views of the world that are productive and fruitful, in preference to those that
-would leave us paralyzed with ennui.”
+think is reasonable would have been suggested to us by that annoying
+demon. Whereas, if we take the world roughly at face value, we have a
+way of moving forward. There are things we want to do, questions we
+want to answer, and strategies for making them happen. **We have every
+right to give high credence to views of the world that are productive
+and fruitful, in preference to those that would leave us paralyzed
+with ennui.**”
 
-In other words, there's no reason to believe in time, but it's deeply
-uncomfortable not to, so we should.
+In other words: since there is no logical justification for preferring
+one view over the other, we should just pick whichever is productive
+and comforting. Actually, without trusting the past and future, we
+cannot even confirm that our view is *productive*. What that leaves us
+with is that *we should believe in the past because it is comforting*.
 
-Actually, without trusting the past and future, we cannot even confirm that our
-view is productive. What that leaves us with is that we believe in time because
-it is comforting. We can't honestly say much more than that.
+Pause for a moment to appreciate this. Is your past really so
+comforting?
 
-The first time you realize this, it may be a bit unsettling. But then you
-quickly realize that it makes no difference in your life, and you quickly tire
-of the whole thing.
-
-Now I want to call your attention to the gaping chasm between understanding this
-intellectually, and what you feel in your gut. Yes, I understand that I have no
-reason to believe in time, but I still believe it very, very strongly, beyond
-what can be attributed to mere convenience. What gives rise to this
+Now I want to call your attention to the gaping chasm between
+understanding this point intellectually, and what you feel in your gut.
+You may *understand* that you have no reason to believe in time, but
+don't you nevertheless *feel* viscerally certain about it -- far beyond
+what can be attributed to mere convenience? What gives rise to this
 discrepancy?
 
 How about this: having an accurate model of reality confers evolutionary
-fitness, and since time and space really do exist, our so-called reptilian brain
-has evolved to model things this way.
+fitness, and since time and space really do exist, our reptilian brain
+has evolved to model things this way. Our higher brain can't help it!
 
-And just like that, our confidence in our model is restored, even though we just
-reasoned through why this is nonsensical circular reasoning. Your metaphysics
-has a self-healing, self-reinforcing property that is stunning, if only you
-allowed yourself to see it. Whew! Nothing to see here, move right along.
+And in the snap of a finger, your faith in the model is restored, even
+though we *just* saw why this is illogical. This remarkable self-healing
+property of your worldview should make you a little suspicious, and if
+it doesn't, then *that* should give you pause.
 
-This should utterly fascinate you. It is as though there is a conspiracy running
-in your own mind that's more secretive and effective than any agency you might
-try and imagine.
+*Reality is what remains when you stop believing. But there are some
+things you can't stop believing. And anyway if you tried it would be
+boring and pointless. Hey, remember that time we were mistreated?*
+
+This series is about how it is possible to have a *functional* belief
+in physical reality without taking it *literally*, and why this may be a
+very good thing.
 
 
 - Is there any value in radical skepticism? (My view helps me design things that
 help people. What does yours do?). To answer this, we'll need to dig in to:
-
 
 - Where does this assumption come from? We've just seen that it can't come from
 the evidence.
@@ -146,6 +284,7 @@ real?
 
 
 Layers of thought: a whirlwind tour of meditation
+
 Have you ever had the experience of reading a book, only to discover that your
 eyes are still scanning the page but your mind is elsewhere? If you're
 interrupted mid-reverie, chances are you can recall the past few seconds of
