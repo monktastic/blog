@@ -137,8 +137,8 @@ radical gratitude, radical forgiveness, radical self-compassion....
 
 ## Further reading (TBD)
 
-* [Radical skepticism](pages/radical-skepticism.html)
+* [Radical skepticism](radical-skepticism.html)
 * Layers of mind
-* [Consciousness as the ontological primitive](pages/consciousness.html)
+* [Consciousness as the ontological primitive](consciousness.html)
 * Quantum mechanics: the many-worlds interpretation and being the
 "sole observer" in your reality
