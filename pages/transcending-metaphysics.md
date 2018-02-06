@@ -9,20 +9,19 @@ Philip K Dick
 
 ## Summary
 
-* You believe in the past because it is *convenient*, not because it
-is *logically justified.*
+* Why do you believe that the past really happened? At first, you might
+think it's because the belief is *rational*. A bit of reasoning shows
+that this a lie; you believe because it's *convenient*.
 
-* Even if you understand this intellectually, it will still *feel* like
-time exists.
+* It is not convenient because it's *true*, but because deep layers
+of mind are stuck in a loop where you believe it's true because it
+feels true, and it feels true because you believe it's true.
 
-* You think this feeling is imposed externally, but actually you are
-*creating* it. It is incredibly valuable to see *how* you are creating it.
+* It is possible to "root your mind" and gain access to the layers that
+give rise to your beliefs about and experience of reality. What you find
+underneath will surprise you.
 
-* To do so, you will need to "root your mind" and gain access to the
-layers that give rise to your metaphysics. What you find underneath
-will surprise you.
-
-* There are large practical benefits that are easy to communicate.
+* Doing so has large practical benefits that are easy to communicate.
 
 * There are even larger benefits which can only sound like lunacy until
 you have at least partially unveiled the metaphysical machinery.
@@ -58,6 +57,8 @@ You have many thousands of such thoughts a day. If you learned to notice
 them, a lot of your mood and personality could be understood on a level
 that is not possible otherwise. This accounts for the commonly
 recognized benefits of meditation.
+
+Most meditators seem to stop here.
 
 ### What lies beneath
 
@@ -105,17 +106,19 @@ to fit it into a framework (whether scientific or religious).
 
 As you put your world in a healthier context, things in life often seem
 to work out better. You utterly forgive your wife for a long-held
-grudge, and she suddenly becomes more loving. Sometimes this kind of
-thing happens even when your worldview cannot accommodate it: your wife
-was halfway around the world, and you hadn't even communicated.
+grudge, and she suddenly becomes more loving.
+
+Sometimes this kind of thing happens even when your worldview cannot
+accommodate it: your wife was halfway around the world, and you hadn't
+even communicated.
 
 ### The mission
 
 You are confronted with a choice: do I stay comfy in my metaphysics
 and potentially circumscribe the degree of healing that is possible,
 or do I venture out into the unknown? Do I continue to fabricate a
-world in which such things have never happened, giving me the evidence
-I need to demonstrate that they can't?
+world in which such things have never happened, giving me all the
+evidence I need to demonstrate that they can't?
 
 How you respond will depend on your training and readiness.
 
