@@ -9,14 +9,22 @@ description:
 It is not possible to prove that the past really happened. We cannot
 even say that it "probably" happened without making assumptions that
 can only be justified through circular reasoning. Ultimately, our
-decision to believe in time is *pure preference*.
+decision to believe in time is *pure preference*, and no more rational
+than bizarre alternatives.
 
+It is possible to understand this intellectually and still completely
+miss its significance. When it is *grokked*, one cannot help but be
+overcome by profound humility and the heartfelt recognition that one
+has been taking existence utterly for granted. A space opens up,
+wherein one can function *as though* time and space work in the normal
+sense, while retaining the modesty that allows for other possibilities
+to emerge.
 
 ## Unpacked
 
 Young earth creationists believe that the earth was created in the past
 ten thousand years. The neo-creationist Omphalos Hypothesis explains
-that dinosaur bones and other seemingly old artifacts might have been
+that dinosaur bones and other seemingly-old artifacts might have been
 planted there recently by God as a test of our faith.
 
 As ludicrous as this may strike you, there is no logical contradiction
@@ -53,10 +61,20 @@ thousand tosses, you still have learned nothing. You need evidence that
 *differs* in the two cases, and we've purposely constructed Russell to
 be *identical* in all appearances to materialism.
 
-Okay, so all physical evidence is out. You could try to argue that on
-theoretical grounds, it's absurdly unlikely for such a complex world to
-spring into existence from nowhere. But this involves circular
-reasoning: it *presupposes* that what we know about the world is true.
+For example, suppose you say "but I have this picture of a vacation I
+went on last year!" But if the world really sprang into being just now,
+with that picture and that memory as they are now, you would be saying
+exactly the same thing. It does not need to be *likely* that such a
+thing is true, just that *if* it were, you would not be able to
+detect it.
+
+As far as you can tell, **this** is the first moment of existence. No
+physical evidence can help you decide the case -- at all.
+
+Next, you might try to argue that on theoretical grounds, it's absurdly
+unlikely for such a complex and internally-consistent world to spring
+into existence from nowhere. But this depends on circular reasoning:
+it *presupposes* that what you know about the world is true.
 
 You may try to use Occam's Razor to make a case, but again you must be
 careful. If your argument relies on anything from the past -- such as
@@ -73,16 +91,17 @@ believe in time is *pure preference*.
 
 Nonetheless, it is such an incredibly *strong* preference that it may
 be hard to recognize as one. Such a conclusion is uncomfortable, and
-this discomfort is good enough reason to believe in time -- logic be
-damned. Russell:
+comfort *is* a good enough reason to believe in time -- logic be
+damned.
+
+Russell:
 
 > “Skepticism, while **logically impeccable**, is **psychologically
 impossible**, and there is an element of frivolous insincerity in any
 philosophy which pretends to accept it.”
 
-Same with David Hume (whose brilliant Problem of Induction similarly
-refutes the rationality of using the past to make any predictions about
-the future):
+David Hume (whose brilliant Problem of Induction similarly
+deconstructs the future):
 
 > "Should it be asked me whether I sincerely assent to this argument which
 I have been to such pains to inculcate, whether I be really one of those
@@ -95,7 +114,7 @@ that I cannot find in my heart to enter into them any further. Thus the
 skeptic still continues to reason and believe, though he asserts he
 **cannot defend his reason by reason.**"
 
-And finally, modern physicist Sean Carroll:
+And finally, modern physicist Sean Carroll, discussing a similar case:
 
 > “There is **no way** to distinguish between the scenarios by
 collecting new data.
@@ -124,29 +143,25 @@ and comforting. Actually, without trusting the past and future, we
 cannot even confirm that our view is *productive*. What that leaves us
 with is that *we should believe in the past because it is comforting*.
 
-Pause for a moment to appreciate this. Is your past really so
-comforting?
+Isn't that at least a *little* uncomfortable to consider?
 
-Now I want to call your attention to the gaping chasm between
-understanding this point intellectually, and what you feel in your gut.
 You may *understand* that you have no reason to believe in time, but
 don't you nevertheless *feel* viscerally certain about it -- far beyond
 what can be attributed to mere convenience? What gives rise to this
 discrepancy?
 
-How about this: having an accurate model of reality confers evolutionary
+How about this: *having an accurate model of reality confers evolutionary
 fitness, and since time and space really do exist, our reptilian brain
-has evolved to model things this way. Our higher brain can't help it!
+has evolved to model things this way. Our higher brain can't help it!*
 
-And in the snap of a finger, your faith in the model is restored, even
-though we *just* saw why this is illogical. This remarkable self-healing
-property of your worldview should make you a little suspicious, and if
-it doesn't, then *that* should give you pause.
+And in another feat of circularity, your faith in the model is restored,
+even though we *just* saw why this is illogical. Pay close attention to
+these moments where your worldview magically heals itself and spits you
+out with a *"So what? Nothing to see here."*
 
-*Reality is what remains when you stop believing. But there are some
-things you can't stop believing. And anyway if you tried it would be
-boring and pointless. Hey, remember that time we were mistreated?*
+> *Reality is what remains when you stop believing! But, uh, there are
+some things you can't stop believing. No point in digging any deeper,
+because that would be boring and stupid. Time is real! How else
+would we hold on to all these grudges and regrets and complaints....*
 
-This series is about how it is possible to have a *functional* belief
-in physical reality without taking it *literally*, and why this may be a
-very good thing.
+
