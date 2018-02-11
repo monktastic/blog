@@ -4,11 +4,13 @@ title: Consciousness as the ontological primitive
 description:
 ---
 
-Let us try to unravel our metaphysics. To do so, we will need to use poetic
-language. Ignore the literal meaning of the words here, and allow them to be
-pointers to your own experience.
+The word "consciousness" is heavily overloaded. Here we will try to
+outline an experiential process intended to point you toward
+one very useful interpretation. To do so, we will need to use poetic
+language. Ignore the literal meaning of the words here, and allow them
+to be pointers to your own experience.
 
-Okay.
+---
 
 Silence is the absence of sound. Now, pay attention to any particular sound in
 your environment, and recognize it as the presence of sound. "A sound" is some
@@ -95,6 +97,8 @@ go on for as many cycles (lifetimes) as you wish.
 
 It would be premature to conclude that consciousness is real while everything
 else isn't. But, being the very fabric from which your beliefs are made, it is a
-good place to hunt for the thread that unravels it all.
+good place to hunt for the thread that unravels it all. Especially because,
+as we saw, you really have
+[no good reason to believe in anything else](radical-skepticism.html).
 
 

@@ -6,131 +6,189 @@ description:
 
 ## Summary
 
-The measurement problem in QM is frequently misunderstood.
+QM is misunderstood on all sides. Some people misunderstand and think
+that conscious observers are required, and others misunderstand *back*
+and say that consciousness is totally irrelevant. This see-sawing could
+go on forever. I'd like to explain the mess as simply as I can.
 
-In a meaningful sense, *you* are the only observer in your universe.
+As this article is part of a series on metaphysical idealism, you
+should be unsurprised by my conclusion. Nonetheless, I believe you
+are inevitably led to it. Specifically: *you* are the only observer
+in your world.
 
-## Unpacked
+## Modeling the world
 
-Quantum mechanics is famously hard to understand and interpret. As a
-result, there are all manner of horrible misinterpretations out there,
-both from new-agers and from the skeptical community.
+This will require a bit of math, but I'm going to simplify the notation.
+Bear with me.
 
-I'd like to cover some misconceptions.
+In the two-slit experiment, when the electron (`E`) encounters the
+screen, it can go one of two ways (left or right). The rest of the world
+(`W`) is in some arbitrary state. We normally write this using "tensor
+products" (`@`) and sums (`+`) (indicating *superposition*):
 
+`(E left + E right) @ (W arbitrary)`
 
-### The two-slit experiment
+But we can take some liberties with the math-English boundary and
+replace the symbols with words:
 
-I won't cover the experiment in detail here. You should watch this
-video if you need a refresher. It also serves as a good example of
-interpretation gone horribly wrong.
+`(E left or E right) and (W arbitrary)`
 
+At this point it is possible to detect the "or" by means of an
+interference experiment. This is what causes the light and dark bands.
 
+Now, if a detector (`D`) is placed at the slits, then the state becomes:
 
-In summary: electrons behave like waves, unless a detector is present, in which
-case they behave like particles. Somehow, detecting the location of a particle
-prevents it from behaving like a wave and producing interference.
+`[(E left and D left) or (E right and D right)] and (W arbitrary)`
 
-The “detector” in the video has an eye, and he calls it an “observer.”
-From this, people may get the strange idea that some kind of conscious observer
-is required to “collapse” the wave function. This is nonsense: any device
-capable of giving information about the electron’s path would prevent the
-interference pattern from forming.
+This is getting messy. Luckily, we can safely leave off the rest of the
+world (`W`) because of the `and`:
 
-The narrator also claims that the electron acted “as though it was aware it
-was being watched.” But there’s no reason to anthropomorphize the electron.
-When we bounce one pool ball off another, we don’t say that one pool ball
-“is aware that it is being hit.” It’s just *being hit*, and we can use math
-to predict the outcome. Similarly, when an electron wave encounters a detector,
-we can use straightforward math to describe their new (joint) wave function,
-and from it derive that there will be no interference. Fascinating, yes,
-but not all that spooky.
+`(E left and D left) or (E right and D right)`
 
-From this, many conclude that measurement problem is solved and that
-consciousness is irrelevant. This, too, is a mistake.
+As objects (such as the detector) interact with the experiment, they move
+from "rest of the world" into the experiment. In particular, since *you*
+have not seen the results yet, you are still part of the `W` that we're
+leaving off.
 
-### The measurement problem
+One interesting aside is that `E` is no longer in an `or` state by
+itself, and so it won't show an interference pattern. Sometimes people
+think this is the punchline, but it's really not.
 
-The real question is not why the interference pattern disappears. Rather,
-it is: *why do we only see one outcome when there are two ways the
-electron could have gone?*
+Anyway, when the electron hits the screen (`S`), the screen registers
+it on the left or right:
 
-To make this more precise, I'm going to use some math. Don't worry, I'll
-keep it as simple as possible.
+`(E left and D left and S left) or (E right and D right and S right)`
 
-In the below, read the `@` symbol (called the "tensor product") as "and,"
-and the `+` (denoting a superposition) as "or." This isn't technically
-correct, as superpositions are not either/or things, but it's good enough
-for now.
+You can probably see where this is going. *Every* physical object that
+encounters the system gets "split" in two, joining the superposition.
+If this is so, then when does the `or` disappear? When do we get
+**one** answer to which way the electron "really" went, instead of two?
 
-When the electron meets the screen and just before it encounters the
-detector, we can say "the electron went left *or* electron went right,
-*and* the detector is in its initial state":
+## The measurement problem
 
-`(E left + E right) @ (D initial)`
+This is the heart of the so-called "measurement problem" in QM, and
+there are a few attempts at answering it. I'll share two of the more
+common.
 
-The electron is in a superposition, which is what allows for it to
-interfere. But *after* it meets the detector, we know that "the electron
-went left and the detector reads 'left', *or* the detector went right
-and the detector reads 'right'":
+#### Collapse
 
-`(E left @ D left) + (E right @ D right)`
+One possibility is that "something" causes the system to suddenly
+collapse from two to one. The problem is, there doesn't seem to be
+anything that could qualify as that "something," since all physical
+systems (as far as we know) simply join the superposition. It is
+a sort of deus ex machina, and I think it lives on mostly
+for practical reasons, sidestepping the philosophical issues.
 
-There's still a superposition (`+`), but now it involves *both* E and D.
-Theoretically, there should be some experiment that would demonstrate
-interference for the joint system, even if we can't do it in practice.
-This is important because it means that the overall system is "still
-quantum": both the left and right possibilities still remain, as far as
-we know. This has been amply demonstrated in many simpler setups.
+In 1967 Nobel laureate Eugene Wigner famously proposed a thought
+experiment suggesting that not only does collapse occur, but only
+*conscious beings* cause it. Imagine that your friend encounters
+the experiment before you do. The math suggests that he "splits" and
+joins the superposition (like any other physical system), but this
+"appears absurd because it implies that my friend was in a state of
+suspended animation."[1] Clearly he must see one outcome or the other.
+Therefore, his consciousness must have collapsed the state.
 
-When the electron encounters the screen (S), one side of it records
-the contact:
+This is widely considered bogus, but as we shall soon see, Wigner's argument
+was actually more nuanced than that.
 
-`(E left @ D left @ S left) + (E right @ D right @ S right)`
+#### Many worlds
 
-As more and more physical objects encounter the experiment, this
-superposition just grows and grows. And yet, we only ever see *one*
-of sides of this sum: the electron either went left (and the world
-agrees) or it went right.
+Another popular answer, known as the Many-Worlds Interpretation (MWI)
+is that the two *never* become one. The
+world-eating superposition grows *forever*. If that is the case, why
+do I see only one result? Simple: *I don't*. "One copy" of
+me sees one result, and another copy sees the other result.
 
-The question of how this happens is called the measurement problem. Put
-simply: why do we see only *one* outcome when the math shows many?
+Problem neatly solved, right?
 
-### Common solutions
+Not so fast. Consider how things look for any "copy" of me.
 
-There are two common solutions to the problem (though others exist).
+*Before* I
+encounter the experiment, I must model the state as a superposition.
+The different branches can theoretically still interfere with each
+other, and I should track them both. In *practice*, this is extremely
+hard to do (because countless trillions of particles are interacting
+with any macroscopic system), but in theory it should be possible.
+This difficulty even has a shorthand: we say that it is impossible
+*FAPP* ("for all practical purposes"). This is known as "decoherence."
 
-One camp says that something called a "collapse" happens, which reduces
-the state into just one part. But this comes with a host of problems
-(nobody is sure why or when it would happen, and it introduces a new
-time-irreversible law that's rather ugly). Plus, there just isn't a lot
-of evidence for it. As far as I can tell, it's mostly used for
-convenience to bypass the philosophical issues.
+What about *after* I encounter the experiment? When I see that the
+electron went left, I am no longer free to say that it is in an
+indeterminate state -- even if it is, from a "god's eye perspective."
+I cannot model what is happening to my twin in the other branch, and
+so I am no longer able, *even in principle*, to model this as two
+branches. It has become one.
 
-The second is the "many worlds interpretation" (MWI). It says that the
-system *never* reduces to one. Instead, when you encounter the system,
-*you* join the superposition. There are then *two* copies of you: one
-that sees the electron go left and one that sees it go right. So the
-question "why do I only see one outcome" is "you don't!"
+This is functionally equivalent to collapse, but now
+instead of being caused by arbitrary conscious observers, it only
+happens when *I* encounter the system. I am the sole observer. It is
+of little consolation that this is true of "both of me."
 
-### Consciousness
+The deus ex machina has been visibly shrunken and relocated, but it's
+still alive and kicking. Actually, as we shall now see, it hasn't even
+been relocated. The difficulty remains where it always was, in a place
+where we would rather not find it.
 
-Let's revisit the measurement problem: "why do I see only one outcome?"
-What do we mean by "I see"? We mean "I experience"; "I am conscious
-of." The measurement problem arises as a natural result of the sense
-that *I experience a (singular) world.*
+## The measurement problem, take two
 
-For all I know, maybe this applies to other objects and people, too.
-I'd certainly like to *believe* it's true of other people, but maybe
-I'll never know.
+Let's take a step back and re-examine the measurement problem. It asks,
+basically, "why do we see only one outcome, when the math predicts two?"
+But "we" never see anything; only "I" do, as far as I can ever know. So
+I am really asking, "why do I experience just one world?"
 
-But I *do* know that it seems like a world is appearing before me now.
-So while there might be "another me" asking the same question in another
-world, it's still interesting to ask about "this one."
+The measurement problem is a question about my *experience* of the
+world. Yes, *maybe* other people and objects have the same difficulty,
+but I'll never be able to take on their perspective and know. It makes
+no difference to me.
 
+In the case of MWI, something happens when "I encounter" the system,
+but notice what
+happens when we try to pin that down. What if my *toe* encounters the
+experiment? No reason "I" can't treat it like any other physical system
+and preserve the two branches. The change happens when the experiment
+encounters... "I."
 
-### You are the sole observer
+But where *exactly* do we find this I?
 
+This is just the question of consciousness in drag. But not just *any*
+consciousness; *my* consciousness. We see that Wigner understood this
+well[2]:
 
+```
+This takes place whenever the result of an observation enters the
+consciousness of the observer - or, to be even more painfully precise,
+my own consciousness, since I am the only observer, all other people
+being only subjects of my observations.
+```
 
+Not that he particularly endorsed this conclusion:
 
+```
+However, to deny the existence of the consciousness of a friend to this
+extent is surely an unnatural attitude, approaching solipsism, and few
+people, in their hearts, will go along with it.
+```
+
+But to avoid the conclusion of solipsism, he had to inject other
+acrobatics. Ones that we can, in principle, falsify.
+
+If you carefully avoid sweeping things under the rug, and follow the
+empirical and theoretical results closely, you are inevitably led back
+to the same squirmy conclusion: *you* are the sole observer in "your
+branch of the multiverse" -- aka, what you call "the universe."
+
+## You and consciousness
+
+As we've seen, [consciousness](consciousness.html) can more usefully be
+thought of not as a property that you have, but the very fabric from
+which your world is made. From this perspective, it should come as no
+surprise that this is where the rubber meets the road: it is precisely
+where the world is manifested.
+
+---
+
+## References and notes
+
+[1] Wigner. Remarks on the Mind-Body Question, Symmetries and Reflections, p.180
+
+[2] Wigner. Two Kinds of Reality, Symmetries and Reflections p.185
