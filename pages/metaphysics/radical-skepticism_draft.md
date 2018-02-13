@@ -6,17 +6,25 @@ description:
 
 ## Summary
 
-Your belief in time is based entirely on circular reasoning. As such,
-it has **no** justification other than "it feels good."
+Your belief in time is based entirely on circular reasoning. You have
+no reason to believe in it, yet feel *very* strongly that you have
+very good reasons.
 
 This conclusion is unavoidable, but probably rubs you the wrong way.
 When you try to understand *why* it rubs you the wrong way, you fall
 into the jaws of circular reasoning again, you silly bastard.
 
-If you can avoid this trap for long enough to see what's really going
-on in your mind, you cannot help but be overcome by profound humility
-and the heartfelt recognition that one has been taking existence utterly
-for granted, for the misguided reason that "it feels good."
+If you can meet this realization without flinching, ground will suddenly
+be pulled out from under your feet. In that brief interlude a choice is
+offered: do I go back to the old story, or is it time to investigate
+others?
+
+<!--
+Your mind has been playing a
+remarkably convoluted trick on itself, narrating itself the most
+fantastic fairytale. And for the briefest moment, the curtain is drawn
+and the charade is revealed.
+-->
 
 ## Proving the past
 
@@ -31,7 +39,7 @@ with that picture in place to fool you, and memories to go along with it.
 way.
 
 It doesn't work that way *assuming what you've learned in the past is
-true*.
+true*. This is circular.
 
 * Fine, but Occam's Razor suggests that time is the simpler explanation.
 
