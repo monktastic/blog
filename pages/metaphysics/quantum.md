@@ -29,9 +29,8 @@ tragic, this author feels that a much greater tragedy is perpetrated
 when the pendulum swings the other way, and the issue is swept under
 the rug.
 
-The problem *is* genuinely head-scratching, and for better or worse, it
-is head-scratching for precisely the reasons that at least *some* New
-Agers have gotten more or less right.
+There's something genuinely head-scratching here that we don't want to
+confront too directly.
 
 This is from Edward Witten, a physicist so overpoweringly smart that
 his fellow theoretical physicists casually throw around terms like
@@ -56,7 +55,7 @@ For this reason, I would like to present you with the case as clearly
 as I can.
 
 As this article is part of a series on metaphysical idealism, you
-should be unsurprised by my conclusion. Nonetheless, I advise you to
+should be unsurprised by my own conclusion. Nonetheless, I advise you to
 draw your own.
 
 ### Required background
@@ -98,18 +97,30 @@ alone. In other words, we won't see an interference pattern once the
 electron is detected. We *can* show it on the `E` and `D` joint system,
 but as more particles get involved, this becomes harder in practice.
 
-This is the point at which most people lose the plot. See, for example,
+This is the point at which some people lose the plot. See, for example,
 the [4:25 mark](https://www.youtube.com/watch?v=DfPeprQ7oGc) from
 the clip in the intro:
 ```
 The electron decided to act differently, as though it was aware that
-it was being watched.
+it was being watched!
 ```
 Sounds spooky, right? They even give the detector an eyeball with
 creepy eyelashes. But it didn't "decide" anything and it wasn't "aware"
 of anything -- unless you also think a pool ball is "aware" of the
-cue ball hitting it and "decides" to move as a result. It's just
-straightforward physics and math[5].
+cue ball hitting it and "decides" to move as a result. It's really
+just straightforward physics and math[5], although some misunderstand
+and think that detectors must be conscious.
+
+The detector has in *one* sense "measured" the electron: in each
+"branch" of that superposition, the detector is correctly displaying
+the electron's path. On the other hand, *both branches still exist*.
+We can confirm this (in principle) by doing the joint interference
+experiment we referred to above. Here some misunderstand this as
+suggesting that the "measurement problem" has been solved. That, too,
+is wrong as we shall see.
+
+<!-- TODO: Draw a parallel with the first- vs third-person conscious
+definitions. -->
 
 Anyway, as objects (such as the detector) interact with the experiment,
 they become part of it. In particular, since *you* have not seen the
@@ -152,16 +163,19 @@ joins the superposition (like any other physical system):
 
  `(E left and D left and ... and Friend sees left) or (... right)`
 
-but this
+Notice how `Friend` appears in both branches, just like everything else.
+Wigner felt that this
 "appears absurd because it implies that my friend was in a state of
 suspended animation."[1] "Clearly" she must see one outcome or the
-other. Therefore, her consciousness must collapse the state into one,
+other! Therefore, she must have collapsed the state into one,
 for example:
 
 `E left and D left and ... and Friend sees left`
 
-The "or" has disappeared. This is widely considered bogus, but as we
-shall soon see, Wigner's argument was actually more nuanced than that.
+The "or" has disappeared. The idea that humans have the magical property
+of being the only things in the universe that can cause "collapse" is
+widely considered bogus, but as we shall soon see, Wigner's argument
+was actually more nuanced than that.
 
 #### Many worlds
 
@@ -174,8 +188,9 @@ sees one result, and another copy sees the other result:
 `(E and D and S and Me left) or (... right)`
 
 In other words: there were two possibilities before you saw it, but
-there are still two after you see it, so there's nothing to explain!
-You only *think* there's one because you are "trapped" in your branch.
+there are still two after you see it. Each copy of you *thinks* there's
+only one, but that's only because they don't have the full picture. So
+there's nothing to explain!
 
 Problem neatly solved, right?
 
@@ -189,10 +204,12 @@ possibilities still exist -- even if that's *really really hard* to
 demonstrate in practice[3]. This is true even if your friend has already
 seen it.
 
-I want to drive this point home: theory predicts, and MWI does not deny,
+I want to drive this point home: standard QM theory predicts, and MWI
+does not deny,
 that before you encounter the experiment *it is **not** valid to say
 that "one result has **really** taken place but I don't know which*"
--- other than as a (very useful) practical approximation.
+-- other than as a (very useful) practical approximation. Both
+possibilities really remain.
 
 *After* you see it, yes, there *is* a well-defined sense in which there
 are still two possibilities. The question you must answer for yourself
@@ -201,15 +218,22 @@ other words, when confronted with a
 [decomposing cat](https://en.wikipedia.org/wiki/Schr%C3%B6dinger%27s_cat),
 are you entitled to say "yes, this cat is *really* dead?"
 
-If so, then the problem has not disappeared; it has only gotten worse.
-From the perspective of one copy of you, *something* happened when you
+If so, what exactly happened in the moment you saw it? What changed,
+for you to be able to say "this cat is really dead" when a moment ago
+you could not? The answer cannot be "my knowledge of the pre-existing
+result," for as we took pains to point out, *there was no pre-existing
+result.* "Maybe there was, but we just don't know about it" doesn't cut
+it either, unless QM is wrong.
+
+(And if not, then congratulations: I dub thee *quantum physicist*. Now
+[shut up and calculate](https://en.wikiquote.org/wiki/Shut_up_and_calculate).)
+
+So MWI has not solved the problem; it has only gotten worse.
+From the perspective of (one copy of) you, *something* happened when you
 saw it, in a way that *didn't* happen when your friend did (despite it
 being *very slippery* to make precise that "something"). In that case,
 it is not "conscious beings" that are important, but *you in
 particular*.
-
-(And if not, then congratulations: I dub thee *quantum physicist*. Now
-[shut up and calculate](https://en.wikiquote.org/wiki/Shut_up_and_calculate).)
 
 
 ## The measurement problem, take two
@@ -226,8 +250,8 @@ closely connected to the question of experience, i.e., consciousness.
 We saw that something happens when "I encounter" the system,
 but notice what happens when we try to pin that down. What if my *toe*
 encounters the experiment? No reason "I" can't treat it like any other
-physical system and preserve the two branches. The change happens when
-the experiment encounters... "I."
+physical system and preserve the two branches[6]. The change happens
+when the experiment encounters... "I."
 
 So where *exactly* do we find this I?
 
@@ -243,31 +267,49 @@ being only subjects of my observations.
 ```
 
 Not that he particularly endorsed this conclusion:
-
 ```
 However, to deny the existence of the consciousness of a friend to this
 extent is surely an unnatural attitude, approaching solipsism, and few
 people, in their hearts, will go along with it.
 ```
 
-But to avoid the conclusion of solipsism, he had to inject other
-acrobatics -- ones that we can, in principle, falsify. MWI does a
-better job of hiding this sleight of hand, but ultimately falls, too.
+But to avoid the conclusion of being the only observer (something akin
+to solipsism), he had to inject other acrobatics -- ones that we can,
+in principle, falsify. MWI does a better job of hiding this sleight of
+hand, but ultimately falls, too.
 
 If you carefully avoid sweeping things under the rug, and follow the
-empirical and theoretical results closely, you are inevitably led back
-to the same squirmy conclusion: *you* are the sole observer in "your
-branch of the multiverse" -- aka, what you call "the universe."
+empirical and theoretical results closely, it is hard to avoid this
+conclusion: *your* encountering the world is, in some sense,
+*the* point at which many possibilities become one.
+
+And it's not just about the occasional electron in a lab somewhere.
+*Everything* around you is continually evolving in many directions at
+once.
 
 ## You and consciousness
 
-As we've seen, [consciousness](consciousness.html) can more usefully be
-thought of not as a property that you have, but the very fabric from
-which your world is made. From this perspective, it should come as no
-surprise that this is where the rubber meets the road: it is precisely
-where the world is manifested.
+Okay, so consciousness is not a property that other people have. But
+actually, it is not even a property that *you* have.
 
-As much as we try to deny it, Wigner had it right all along:
+Instead, as we saw [here](consciousness.html), consciousness usefully be
+thought of as the very *fabric* from which your reality is made. In
+its present configuration, it is manifesting "your perspective." This
+is an experiential realization that doesn't rely on or support QM, but
+meshes with it quite naturally.
+
+Looked at in this way, it should come as no surprise that this is where
+the rubber meets the road: it is precisely where the world is made
+"real."
+
+This may shed some light on why such brilliant thinkers as Ed Witten
+do not believe that consciousness will become part of physics (or
+biology or neuroscience...). Physics is about *things*, and *things*
+rigidly obey the laws of QM. "Consciousness" does not refer to a
+*thing* in this sense, but the remarkable fact that this theoretical
+sea of things somehow becomes *real*.
+
+As much as we try to deny it, it seems Wigner had it right all along:
 ```
 it will remain remarkable, in whatever way our future concepts may
 develop, that the very study of the external world led to the conclusion
@@ -367,3 +409,6 @@ If you calculate the probability of `|psi'>` being measured as `|B>`
 50%, as would be predicted if the particle were in a classically
 uncertain mixture of `|0>` and `|1>`. The interference has
 "disappeared."
+
+[6] Leaving aside the fact that in practice, information travels up
+from my toe and probably reaches "me" very rapidly.

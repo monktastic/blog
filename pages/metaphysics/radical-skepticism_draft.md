@@ -8,16 +8,31 @@ description:
 
 Your belief in time is based entirely on circular reasoning. You have
 no reason to believe in it, yet feel *very* strongly that you have
-very good reasons.
+good reasons.
 
 This conclusion is unavoidable, but probably rubs you the wrong way.
 When you try to understand *why* it rubs you the wrong way, you fall
 into the jaws of circular reasoning again, you silly bastard.
 
-If you can meet this realization without flinching, ground will suddenly
-be pulled out from under your feet. In that brief interlude a choice is
-offered: do I go back to the old story, or is it time to investigate
-others?
+If you can see this clearly, the ground will suddenly be pulled out
+from under your feet. Your mind discovers its own limits and briefly
+drops away. Perhaps you feel some gratitude. The meaning of "this is
+the only moment you have" takes on entirely new dimensions, ones
+that can open up possibilities you couldn't have seen before when you
+were *so sure* about it all.
+
+Of course, that level of insight usually requires a multi-pronged
+approach. This is just one that works for a certain kind of person,
+and almost never all at once.
+
+To be clear: the purpose of this piece is not to convince you that time
+does not exist. It is my attempt to get you to see for yourself what
+happens when your mind genuinely discovers that it has no reason
+whatsoever to believe that it does.
+
+The set of objections addressed here is certainly not exhaustive. I
+encourage you to look for circularity in any that you have which are
+not addressed.
 
 <!--
 Your mind has been playing a
@@ -41,13 +56,28 @@ way.
 It doesn't work that way *assuming what you've learned in the past is
 true*. This is circular.
 
-* Fine, but Occam's Razor suggests that time is the simpler explanation.
+* Fine, but Occam's Razor says that simpler explanations are better.
+Time is the simpler explanation.
 
 And how do you justify Occam's Razor?
 
 * It has worked in the...
 
-Past? Nice try. What else you got?
+Past? Nice try. Reality popped into being *just now*. What else you got?
+
+* What?! You said it popped into being like ten seconds ago.
+
+You never *actually* read that, that's a false memory planted just as
+you came into being... **now**.
+
+---
+
+Perhaps you're thinking: "this is stupid; you can repeat that argument
+all you like but it doesn't prove anything."
+
+Remember: we're not *trying* to prove anything. We're trying to
+discover how we justify our belief in it, without implicitly assuming
+it.
 
 * Well, at least it is the most *productive* belief.
 
