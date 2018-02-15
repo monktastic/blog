@@ -25,41 +25,17 @@ around with some of the ideas here.
 
 Based on evidence and logic alone, you have no reason to believe in
 the existence of time. You cannot even say it is "likely" that
-time exists without making assumptions that presuppose it. Belief in
-time is thus *pure preference*. Even if you understand this, you will
-continue to convince yourself that it *is* totally rational, because
-you *really* want to be rational.
+time exists without making assumptions that can only be justified by
+presupposing time. Belief in time is thus *pure preference*.
 
-There are a few possible reactions:
+If you can consider this fact with total openness -- "the past may
+genuinely be an illusion, and I cannot even say that this is '*unlikely*'"
+-- then you may experience a brief "oh, sh*t" moment. This is a tiny
+incision in your worldview. The self-healing mechanism will repair it
+very rapidly, but not completely.
 
-1. Denial: "Nonsense! It *is* justified, because ...." If you are
-precise and sincere enough, you will discover that your argument is
-circular after all.
-
-1. "Yeah, so we can't prove it. That doesn't mean it's *false*."
-
-1. Dismissal: "So what? It works for me; this doesn't disprove it;
-it's the best theory we have; etc." These are all circular. It is a
-story you tell yourself to keep from waking up. It doesn't "work" for
-you; it is just too cozy to question right now.
-
-1. Acceptance: "Oh, sh*t." You briefly slice through the illusion of
-time. You sense that tugging on this thread might begin to unravel a
-sweater that you've very carefully been holding together.
-
-If you feel comfortable with (1) or (2), then, again, you should
-probably find something better to do.
-
-(3) is a very good intuition. You might sense that it comes from
-someplace deep inside you, and not from me or from your conceptual mind.
-If you want any hope of transcending your belief structure, *listen to
-this*. Here, I'll trigger it for you again:
-
-
-
-You are going to try to interpret everything here in terms of your
-current view. "That's not rational, because...." Insofar as you are
-able, remember that
+<!-- -->
+<!-- Why couldn't this all be a trick of the brain? -->
 
 
 This does *not* entitle you to open the floodgates to all

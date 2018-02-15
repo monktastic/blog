@@ -17,13 +17,11 @@ into the jaws of circular reasoning again, you silly bastard.
 If you can see this clearly, the ground will suddenly be pulled out
 from under your feet. Your mind discovers its own limits and briefly
 drops away. Perhaps you feel some gratitude. The meaning of "this is
-the only moment you have" takes on entirely new dimensions, ones
-that can open up possibilities you couldn't have seen before when you
-were *so sure* about it all.
+the only moment you have" takes on entirely new dimensions, opening up
+possibilities you couldn't have seen before when you were *so sure*
+about it all.
 
-Of course, that level of insight usually requires a multi-pronged
-approach. This is just one that works for a certain kind of person,
-and almost never all at once.
+Or maybe you just shrug and go "so, what." That's fine, too.
 
 To be clear: the purpose of this piece is not to convince you that time
 does not exist. It is my attempt to get you to see for yourself what
@@ -76,8 +74,10 @@ Perhaps you're thinking: "this is stupid; you can repeat that argument
 all you like but it doesn't prove anything."
 
 Remember: we're not *trying* to prove anything. We're trying to
-discover how we justify our belief in it, without implicitly assuming
-it.
+discover whether we have any justification for the past (that doesn't
+make any assumptions whose justification lies in the past).
+
+---
 
 * Well, at least it is the most *productive* belief.
 
