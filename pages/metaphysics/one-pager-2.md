@@ -4,7 +4,7 @@ title: Idealism in a nutshell
 description:
 ---
 
-Perhaps you've heard ideas like
+Perhaps you've encountered ideas like
 "[love is the purpose of existence](http://www.galactanet.com/oneoff/theegg_mod.html),"
 and though maybe some tiny part of you wishes they were true, the more
 logical parts of your mind acknowledge that they're nonsense or pure
@@ -20,6 +20,38 @@ convinced that it's the unavoidable Truth, then you might like to play
 around with some of the ideas here.
 
 ---
+
+### The setup
+
+There is *a meaningful sense* in which seemingly physical reality is
+entirely a manifestation of your mind.
+
+I'll use the phrase "a meaningful
+sense" repeatedly in this series.
+
+If you are forced to choose between taking some of these insights
+*literally* or rejecting them, your mind will often choose to reject
+them. For example, it would be scary to believe that the past
+*literally* never happened, so your mind will pretend it doesn't
+understand or care.
+
+On the other hand, if you don't take them seriously enough,
+you will miss the point entirely. For example, you might think "oh, he
+means *my brain* gives rise to *my experience of* reality." But that
+is very much *not* what I mean, and this habit of interpreting
+everything in terms of your existing beliefs is *precisely* the habit
+we are trying to undermine.
+
+Similarly, the word "God" *does* point to something meaningful, but
+that something cannot be recognized from within your usual conceptual
+structures. At the same time, you do not have to *abandon* those
+structures; you merely have to see through them.
+
+For these insights to be of any use, you will have to discover what
+happens when you take them as literally true. Only then can you really
+see what they are pointing at. It's sort of like lining up the
+
+--------
 
 [Radical skepticism](radical-skepticism.html)
 

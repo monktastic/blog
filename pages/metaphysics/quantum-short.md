@@ -80,9 +80,10 @@ have to own up to otherwise.
 
 ### The punchline
 
-In *some meaningful sense*, the truth of the cat's fate comes into
+If QM is correct, and collapse "interpretations" are wrong, then
+in *some meaningful sense*, the truth of the cat's fate comes into
 being simultaneously with *your* knowledge (direct or indirect) of it.
-This does not happen when your friends see it.
+And this does not happen when your friends see it.
 
 In *some* sense, you are the sole observer of your world.
 
@@ -97,7 +98,8 @@ Even the [von Neumann-Wigner](https://en.wikipedia.org/wiki/Von_Neumann%E2%80%93
 "consciousness causes collapse" theory may look preferable: there, at
 least, there are *other* conscious observers.
 
-Maybe QM is wrong. But I wouldn't bet on it.
+Who knows, maybe one of the alternative theories will turn out to be
+right. Or maybe they're just attempts at avoidance.
 
 #### My own conclusion
 
