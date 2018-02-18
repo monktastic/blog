@@ -24,8 +24,8 @@
 Alice and Bob are walking through an art fair. They stop to appreciate
 the brilliance of a piece. Is it two giraffes or an elephant?
 
-<img src="giraffe-elephant.gif" width="300" height="300" align="middle"
-style="display: block; margin-left: auto; margin-right: auto;"/>
+<iframe src="https://giphy.com/embed/5toEgZw8NbH1k0NV8Y" width="300"
+frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 **Alice**: It depends on which way you look at it.
 
