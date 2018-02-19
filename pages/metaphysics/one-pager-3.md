@@ -40,6 +40,7 @@ If you merely *understand* it, it will feel like "so what?" If you
 genuinely *see* it, it will feel like a brief "holy sh*t."
 Don't give up until you have the latter experience.
 
+<!-- TODO use this -->
 Life feels mundane precisely because of your death grip on a belief
 that has no basis: that there's nothing particularly special about
 this moment, since you had one just like it a moment ago (and a moment
