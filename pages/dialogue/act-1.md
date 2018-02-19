@@ -1,3 +1,9 @@
+---
+layout: page
+title: Act 1: The Fairground
+description:
+---
+
 
 >*When [Rechungpa] returned to Tibet after many years, his old master
   Milarepa came to welcome him on a barren plateau. After they had exchanged

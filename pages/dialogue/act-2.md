@@ -3,7 +3,7 @@
 
 **Alice**: On the other hand, might it just be that your current
 perspective doesn't allow for such possibilities, and *that* explains
-why you don't see it happening?
+why you don't see them happening?
 
 **Bob**: Hmm. That *is* internally consistent. On the other hand, let me
 test it out. "I hereby believe that reality can be shifted at will. I
