@@ -1,6 +1,6 @@
 
-My mind was rejecting the immense complexity of the project. It's hard
-to summarize, because there are so many different dimensions to it.
+I've tried many times to write a piece that captures the sheer confusion
+I experienced on a recent project.
 
 ---
 
@@ -12,10 +12,11 @@ also containerized, maybe in a VM. What does communication look like
 between them?
 
 Does the remote machine have single-route IO virtualization (SR/IOV)
-enabled? Is the cloud running a network overlay? Is it VxLAN?
-Multi-packet label switching (MPLS) over general routing encapsulation
+enabled? How about VirtIO? Is the cloud running a network overlay? 
+Is it VxLAN?
+Multi-packet label switching (MPLS)? General routing encapsulation
 (GRE)? Is there a smart NIC with full OVS offload? Did we install the
-right kernel drivers? How about virtIO?
+right kernel drivers? 
 
 Is Docker running in NAT or bridge mode? Why are DNS lookups failing?
 Am I running DnsMasq? Why is the DHCP range misconfigured? Are the
@@ -51,7 +52,7 @@ not saying something that makes absolutely no sense.
 > Just connect this nerve to that capillary.
 
 Dude, those aren't even the same kind of thing. What kind of doctor
-are you?
+did you say you were?
 
 ---
 
@@ -79,8 +80,7 @@ and return a websocket.
 ```
 
 Don't forget that this all has to be appropriately backpressured. And
-we're using Actors. For that, you'll need to write something like an
-ActorRefFlow.
+we're using Actors. For that, you'll need to write something like this:
 
 ```scala
     def actorRefFlow[In, Out](propsFunc: (WebsocketContext[In, Out]) => Props, inBufSz: Int = 256, outBufSz: Int = 256)
@@ -98,8 +98,105 @@ ActorRefFlow.
         }
         .join(Flows.mutualCompleter[In, Out])
     }
-
 ```
+
+Are you sure the KillSwitch and MutualCompleter are connected in such
+a way that when the client closes the Websocket, your Flow finishes as
+well?
+
+As it turns out, there's a bug in your json parser which quietly
+gets [swallowed by the framework](https://groups.google.com/forum/#!searchin/play-framework/aditya$20prasad%7Csort:date/play-framework/rtN1G2eRyGA/aGX_Et78DgAJ).
+
+Once you get through that, you discover a bug in the library: you have
+a websocket client writing to and reading from the above server. If your
+reading side terminates, the writing side should finish too:
+
+> "The Akka HTTP WebSocket API does not support half-closed connections which means that if the either stream completes the entire connection is closed."
+
+But it's not. And when you reach out to the mailing list, you get an
+[RTFM](https://groups.google.com/d/msg/akka-user/Bl4l0YsbkDE/uOmKmQ4UBwAJ).
+So you file a bug and discover that [nobody's quite sure](https://github.com/akka/akka/issues/21089#issuecomment-238182023) whether it's a bug
+or a documentation issue.
+
+So now you have to roll your own solution for killing on side of a Flow
+when the other side terminates:
+
+{: style="overflow:scroll; height:300px;"}
+```scala
+def fromSinkAndSource[I, O](sink: Graph[SinkShape[I], _], source: Graph[SourceShape[O], _]): Flow[I, O, Unit] = {
+  val p1 = Promise[Unit]()
+  val p2 = Promise[Unit]()
+  val tw1 = tw[I](p1.complete, p2)
+  val tw2 = tw[O](p2.complete, p1)
+  tw1.via(Flow.fromSinkAndSource(sink, source)).via(tw2)
+}
+
+abstract class KillableGraphStageLogic(val terminationSignal: Future[Unit], _shape: Shape) extends GraphStageLogic(_shape) {
+  override def preStart(): Unit = {
+    terminationSignal.value match {
+      case Some(status) ⇒ onSwitch(status)
+      case _ ⇒ terminationSignal.onComplete(getAsyncCallback[Try[Unit]](onSwitch).invoke)
+    }
+  }
+
+  private def onSwitch(mode: Try[Unit]): Unit = mode match {
+    case Success(_)  ⇒ completeStage()
+    case Failure(ex) ⇒ failStage(ex)
+  }
+}
+
+case class TerminationWatcher(callback: Try[Unit] ⇒ Any, promise: Promise[Unit]) extends GraphStageWithMaterializedValue[FlowShape[Any, Any], Unit] {
+  val in = Inlet[Any]("terminationWatcher.in")
+  val out = Outlet[Any]("terminationWatcher.out")
+  override val shape = FlowShape(in, out)
+
+  override def createLogicAndMaterializedValue(attr: Attributes) = {
+    val logic = new KillableGraphStageLogic(promise.future, shape) {
+      setHandler(in, new InHandler {
+        override def onPush(): Unit = push(out, grab(in))
+
+        override def onUpstreamFinish(): Unit = {
+          callback(Success[Unit](()))
+          completeStage()
+        }
+
+        override def onUpstreamFailure(ex: Throwable): Unit = {
+          callback(Failure(ex))
+          failStage(ex)
+        }
+      })
+
+      setHandler(out, new OutHandler {
+        override def onPull(): Unit = pull(in)
+
+        override def onDownstreamFinish(): Unit = {
+          callback(Success[Unit](()))
+          completeStage()
+        }
+      })
+    }
+    (logic, ())
+  }
+
+  override def toString = "TerminationWatcher"
+}
+
+def terminationWatcher[T](callback: Try[Unit] => Any, promise: Promise[Unit]): GraphStageWithMaterializedValue[FlowShape[T, T], Unit] =
+  TerminationWatcher(callback, promise).asInstanceOf[GraphStageWithMaterializedValue[FlowShape[T, T], Unit]]
+
+def tw[T](callback: Try[Unit] => Any, promise: Promise[Unit]) = Flow.fromGraph(terminationWatcher[T](callback, promise))
+```
+
+After a few months of this you discover that your *real* problem is that 
+the two main abstractions of the library (Streams and Actors) are
+not really meant to be used together:
+
+> "Sink.actorRef corresponds to leaving the end of the hose open and unconnected, placing a bucket below it that will hopefully catch most of the water.
+
+> So, to conclude: if you want to use our nice and watertight websockets, then you’ll have to use hoses (Streams) and not hammers (Actors). Of course you can use a hammer to build a “hose” but that will be a lot of work since you’ll effectively be smithing a manifold."
+
+In other words, your whole system is built on a leaky abstraction. Good
+luck!
 
 ---
 
@@ -142,7 +239,16 @@ inside a Linux container inside a VM.
 
 ---
 
+<!--
+TODO
 
+Whitebox switch
+Off-the-shelf components
+DPDK
+VirtIO
+
+
+-->
 
 
 

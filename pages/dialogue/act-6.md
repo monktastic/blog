@@ -121,11 +121,11 @@ for everything I call "reality"?
 
 **Alice**: Indeed. You even called your worldview "self-healing," as in
 *it* heals *itself*. You cannot yet admit that *you* are patching it
-back up, because then you would also see that you could **stop doing
-that**. That would in turn allow you to actually *test* my "crazy idea"
+back up, because then you would also see that you could *stop* doing
+that. That would in turn allow you to actually *test* my "crazy idea"
 instead of throwing weak circular arguments at it. But of course you
 don't want to do this, because part of you already knows what the
-result will be. That is the discomfort you feel.
+result will be. That is source of your discomfort.
 
 **Bob**: But if I already know how it will turn out, and that makes
 me uncomfortable, then the Truth -- whatever it is -- must be something
@@ -136,9 +136,9 @@ trapped all alone inside an endless dream.
 beautiful, than your fearful distortions of it.
 
 Tell me, why does the word "right" mean both "correct" and "good?" And
-why does "wrong" mean both "incorrect" and "bad"?
+why does "wrong" mean both "incorrect" and "bad?"
 
-**Bob**: Hm, I've never thought about that. Perhaps some part of us
+**Bob**: Hm, I've never thought about that. I guess some part of us
 feels that it's *correct* to be *good*?
 
 **Alice**: Okay. Have you ever felt that it was correct to be malicious?
@@ -149,9 +149,9 @@ they were right....
 **Alice**: Yes, but if you really stop and introspect, don't you always
 know that you should "do the right thing?"
 
-**Bob**: You're talking about my conscience. Yes, it seems to be always on
-the side of "good" -- even if I don't yet know what the right thing is.
-This is probably an evolutionary mechanism.
+**Bob**: You're talking about my conscience. Yes, it seems to be always
+on the side of "good" -- even if I don't always know what the right
+thing *is*. This is probably an evolutionary mechanism.
 
 **Alice**: It actually comes from beyond your dream, but because it is a
 Truth, it must appear *in* your dream in some form. The form you

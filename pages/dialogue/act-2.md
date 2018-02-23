@@ -16,7 +16,7 @@ you think that demonstrates anything? Do you really have complete
 command over your mind?
 
 **Bob**: If you'll recall, I do have a Ph.D. in theoretical physics from
-Harvard. So yeah, I'd say I have a pretty good command.
+Harvard[1]. So yeah, I'd say I have a pretty good command.
 
 **Alice**: I don't mean that kind of command. I mean for example, when
 you're reading a book, do you ever suddenly discover that your eyes
@@ -55,6 +55,13 @@ return to the breath.
 **Bob**: Fine, I'll take you up on this challenge.
 
 *Bob ships off to a monastery to meditate for three months.*
+
+---
+
+### Notes
+
+[1] It should be noted that your *author* does not have a Ph.D. in
+anything, nor a degree in physics, nor any affiliation with Harvard.
 
 ---
 

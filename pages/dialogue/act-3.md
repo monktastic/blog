@@ -37,7 +37,8 @@ time doing something called "meditation."
 **Bob**: Of course, why wouldn't it?
 
 **Alice**: You are far from done. You have not even penetrated the layer of
-mind that gives rise to the illusion of physical reality.
+mind that gives rise to the illusion of being an individual in a physical
+reality.
 
 **Bob**: I don't like where you are going with this. What do you mean
 "the illusion of?"

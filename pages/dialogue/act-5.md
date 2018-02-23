@@ -1,7 +1,7 @@
 
->Solipsism (/ˈsɒlɪpsɪzəm/; from Latin solus, meaning 'alone', and ipse,
+>Solipsism (/ˈsɒlɪpsɪzəm/; *from Latin solus, meaning 'alone', and ipse,
  meaning 'self') is the philosophical idea that only one's own mind is
- sure to exist.
+ sure to exist.*
 >
 > &nbsp;
 > [Wikipedia](https://en.wikipedia.org/wiki/Solipsism)
@@ -14,7 +14,7 @@ philosophers have failed to accept the logical consequences of their own
 most fundamental commitments and preconceptions.*
 >
 > &nbsp;
-> [Solipsism and the Problem of Other Minds](http://www.iep.utm.edu/solipsis/)
+> Internet Encyclopedia of Philosophy: [Solipsism and the Problem of Other Minds](http://www.iep.utm.edu/solipsis/)
 
 ---
 
@@ -26,9 +26,9 @@ most fundamental commitments and preconceptions.*
 >
 > &nbsp; ...
 >
-> However, to deny the existence of the consciousness of a friend to this
+> *However, to deny the existence of the consciousness of a friend to this
   extent is surely an unnatural attitude, approaching solipsism, and few
-  people, in their hearts, will go along with it.
+  people, in their hearts, will go along with it.*
 >
 > &nbsp;
 >
@@ -267,4 +267,27 @@ systems, but we don't know of a theoretical limitation.
 
 [Act 6](act-6.html)
 
+<!--
+TODO
 
+1. There is a time when I can demonstrate interference. At this point
+I *must* say that there is no well-defined result.
+
+2. After I "see the result," it becomes *theoretically impossible* from
+within this world. At this point I can say there is a well-defined
+result. It is meaningless for the cat to have a well-defined answer
+and still be in superposition.
+
+3. Therefore there is some point at which demonstrating interference
+becomes *theoretically impossible*. This is precisely the point at
+which there becomes a well-defined result in this world.
+
+4. Decoherence only explains when it becomes "practically impossible."
+
+5. Either this transition takes place via a physical event *before* I
+see it, or *when* I see it. It cannot happen after.
+
+---
+
+
+-->
