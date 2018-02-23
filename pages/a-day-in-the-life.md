@@ -101,6 +101,11 @@ def parse_arguments(argv):
 Okay, do I try to figure this out, or... hey, there's [this sweet node.js wrapper](https://github.com/zixia/node-facenet)
 that makes it easy as one click! I just have to run a `demo.ts`.
 
+<small>
+(A sheepish note here: the repo *does* have good instructions on how
+to use it. I just missed them.)
+</small>
+
 Now, not having any frontend skillz, I only vaguely recognize `.ts` as
 something called TypeScript. Some quick Googling suggests that I can
 run it with something called `ts-node`, which I hastily install. And now:
@@ -398,11 +403,14 @@ buried in the thread:
 
 Should be smooth sailing from here!
 
-{: style="font-size: 90%"}
-(Leaving aside that while debugging I removed
+<small>
+Leaving aside that while debugging I removed
 `/usr/local/opt/python/libexec/bin` from my `PATH` and forgot to put it back,
-trapping me in a spin cycle of misery....)
-
+trapping me in a spin cycle of misery....
+Also, lest you think that was actually the *end* of my Python woes, consider
+that I never actually fixed the fact that anything trying to access
+the system python2.7 will [still fail](more-python.html).
+</small>
 
 ## Wrangling TensorFlow
 

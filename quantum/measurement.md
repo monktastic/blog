@@ -1,4 +1,9 @@
 
+---
+layout: page
+title: The quantum measurement problem (and why many worlds don't save you)
+description:
+---
 
 ## Intro
 
