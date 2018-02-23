@@ -1,34 +1,48 @@
-
 ---
 layout: page
-title: The quantum measurement problem (and why many worlds don't save you)
-description:
+title: Collapse or solipsism: pick your poison
+description: Why decoherence and MWI do not solve the measurement problem
+---
+
+---
+
+## Collapse or solipsism: pick your poison
+
+#### Why decoherence and MWI do not solve the measurement problem
+
 ---
 
 ## Intro
 
-Like many quantum novices, I once thought that decoherence or the
-many-worlds interpretation solved the measurement problem -- namely,
-why I always see a definite state instead of a superposition. But
-that's not quite correct. Since many people seem to harbor the same
-misunderstandings, I thought I'd share this note.
+We consider a Schrodinger's Cat style experiment.
 
-### Summary
+There is a point in time before which you cannot say that there is an 
+answer, and after which you can. Therefore, there is a point in time 
+when this answer first comes into being. This transition either happens 
+due to some collapse mechanism, or upon **your** encountering the 
+experiment. And nobody likes collapse.
 
-Consider a Schrodinger's Cat style experiment.
+This conclusion is not rectified by either decoherence or many worlds, 
+though it is *very* tempting to think so. This note is the result of
+trying to clarify my own thinking. I hope it is of some use to others.
 
-Regardless of interpretation, there is a point in time before which
-you cannot say that there is an answer, and after which you can. From
-your perspective, an answer suddenly comes into being. This transition
-either happens due to some collapse mechanism, or upon your encountering
-the experiment.
+---
 
-This is not rectified by either decoherence or many worlds.
+#### Caveats
 
+* I am not a physicist but a software engineer with a little background
+in quantum information science.
 
-### Superposition, interference, and entanglement: a brief recap
+* The title is purposely provocative, but not far from the conclusion.
 
-Say we have a single particle that's in a superposition of two states[1].
+* If you disagree with what I have to say, please feel free to write me
+(email at bottom).
+
+---
+
+### Superposition, interference, and entanglement: a recap
+
+Suppose we have a single particle that's in a superposition of two states[1].
 We can do what's called an *interference experiment*[2] on it to
 demonstrate that it's really in a superposition, and not just "in one
 state but we don't know which."
@@ -72,18 +86,21 @@ potentially propagates away at the speed of light), acting as a sort
 of detector. If the "detector" is a device that kills (or doesn't kill) a 
 cat, then the unfortunate cat becomes a kind of detector.
 
+<img src="https://i.imgur.com/215aSTX.jpg" width="350" align="middle"
+style="display: block; margin-left: auto; margin-right: auto;"/>
+
 In either case, we would need control of *all* of those particles in 
 order to demonstrate the superposition that they all belong to, or to
 undo most of the entanglements so that we can demonstrate interference 
 on a much smaller subset. But that's virtually impossible with current
-or foreseeable technology.
+or foreseeable technology[13].
 
 Since we normally only have precise control over a tiny subset of these 
-particles, we cannot demonstrate interference[13].
+particles, we cannot demonstrate interference.
 
 That's basically what decoherence is. It's a way of explaining why
 macroscopic systems don't "look quantum" (e.g., they do not show
-interference patterns).
+interference patterns)[15].
 
 >"Whenever a quantum system gets entangled with another system, its coherence is reduced. However, the term 'decoherence' is typically reserved to situations in which the loss of coherence is **effectively** permanent and **difficult** to reverse or avoid." 
 
@@ -147,7 +164,7 @@ must happen at tiny scales (preventing us from getting inside the
 boundary)[7].
 
 It is also worth noting that some researchers are looking for evidence
-of irreversible decoherence. If such a thing is found, it should be
+of irreversible decoherence[16]. If such a thing is found, it should be
 physically indistinguishable from a "real collapse": the branches
 cannot interfere in principle, and so within each branch it looks like
 there suddenly became one final answer.
@@ -178,8 +195,9 @@ at some common objections:
 
 * Q: Big deal, you discover the answer when you encounter it.
 
-* A: Unless there was a collapse, there *was* no answer before you 
-encountered it.
+* A: Unless there was a collapse, the theory is clear that there *was no 
+answer* before you encountered it. If it's in a superposition, you
+can demonstrate it *in theory*.
 
 &nbsp;
 
@@ -197,13 +215,14 @@ the system can theoretically undo your entanglement, and so your answer
 is not really a "final answer."
 
 * A: Again, true but irrelevant. There is still a moment where an answer
-"pops into being," regardless of whether it can later be undone[12].
+"pops into being," regardless of whether it can later pops out of
+being[12].
 
 &nbsp;
 
 Whether or not there is a "real collapse," and regardless of 
 interpretation, from *your* perspective, there *is* a point at which 
-an answer "comes into being"; where there *is* an answer now but 
+an answer "comes into being" -- where there *is* an answer now but 
 *wasn't* before. 
 
 In addition, though we might be able to say now that the cat *has 
@@ -214,6 +233,17 @@ into being simultaneously.
 If you accept MWI and not collapse, then you must also accept that
 this "moment of truth" happens with *you*. You are the *only observer 
 in your branch of the universe* -- i.e., in the world[8].
+
+Not quite solipsism, but not very far, either.
+
+---
+
+### Other possibilities
+
+Our picture would be incomplete without mentioning the possibility
+that QM is wrong, and some modification is needed. This is the idea
+behind theories like [de Broglie - Bohm](https://en.wikipedia.org/wiki/De_Broglie%E2%80%93Bohm_theory). None of these is very
+popular yet.
 
 ---
 
@@ -244,6 +274,8 @@ that there really is one.
 I am of course free to try to extrapolate this conclusion to other 
 physical systems (such as detectors or other people), but they either
 end up in different worlds or cause collapse in mine (or ours).
+
+Also see Ed Witten's thoughts [14].
 
 ---
 
@@ -383,9 +415,9 @@ alike.
 vector reduction can be understood as coming about because the
 environmental system under consideration becomes inextricably entangled
 with its environment.[...] We think of the environment as extremely
-complicated and essentially 'random' [... but] there is no general 
+complicated and essentially 'random' [... but] there is **no general 
 principle providing an
-absolute bar to extracting information from the environment.[...]
+absolute bar to extracting information from the environment.**[...]
 Accordingly, such descriptions are referred to as FAPP [For All Practical
 Purposes].
 
@@ -487,3 +519,25 @@ lost: you can still show *most* of the interference, in principle.
     
 13. Though it should be noted that we *have* done this with at least
 trillions of carefully controlled atoms. See, e.g. [here](http://physicsworld.com/cws/article/news/2010/mar/18/quantum-effect-spotted-in-a-visible-object).
+
+14. Edward Witten, [towering genius of physics](http://www.nytimes.com/1987/10/18/magazine/a-theory-of-everything.html?pagewanted=all):
+    > *I’m not going to attempt to define consciousness, in a way that’s connected
+with the fact that I don’t believe it will become part of physics. And that
+has to do, I think, with the mysteries that bother a lot of people about quantum
+mechanics and its applications to the universe.*
+    >
+    > &nbsp; ...
+    >
+    > *Quantum mechanics kind of has an all-embracing property, that to completely make
+sense it has to be applied to everything in sight, including ultimately, the
+observer. But trying to apply quantum mechanics to ourselves makes us extremely
+uncomfortable. Especially because of our consciousness, which seems to clash
+with that idea. So we’re left with a disquiet concerning quantum mechanics,
+and its applications to the universe. And I do not believe that disquiet will go
+away. If anything, I suspect that it will acquire new dimensions.*
+
+
+15. It also may help solve the [preferred basis problem](https://physics.stackexchange.com/a/66258/118804), but that is beyond the scope of
+our discussion.
+
+16. This is an [interesting paper](https://arxiv.org/abs/1105.3796).
