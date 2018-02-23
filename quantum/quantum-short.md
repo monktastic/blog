@@ -1,5 +1,5 @@
 
-## The measurement problem: collapse, solipsism, or QM is wrong
+## Collapse, solipsism, or QM is wrong: pick your poison
 
 > *I suspect that a substantial majority of physicists who use quantum
   mechanics in their everyday work are uninterested in or downright
@@ -20,7 +20,7 @@ with the basics. If the redux and conclusion make no sense to you, or
 this is your first time with QM, or you want a refresher, it's worth 
 reading the "Intro to QM" section below.
 
-**Caveat**: I am not a physicist but a software engineer who has studied
+**Note**: I am not a physicist but a software engineer who has studied
 some QM.
 
 ---
@@ -101,13 +101,34 @@ personally, see it.
 like [de Broglie - Bohm](https://en.wikipedia.org/wiki/De_Broglie%E2%80%93Bohm_theory). Nobody seems to like these
 too much[5].
 
-In other words: collapse, solipsism, or QM is wrong.
+In other words: collapse, something like solipsism, or QM is wrong.
 
 (Actually, my own interpretation is that there is no "you" in the way
 you think; the stuff of conscious experience *is* the world; our various 
 perspectives happen neither sequentially nor in parallel, time being
 illusory; and the point of this game is for consciousness to awaken to 
 itself. More on that later.)
+
+---
+
+### A note on consciousness and QM
+
+Some people seem to think that measuring devices have to be conscious.
+As explained in the introduction, this is obviously nonsense.
+
+But then the pendulum swings the other way, with many people claiming 
+that QM has no connection with consciousness. This misses something 
+important.
+
+When you try to make precise step 2 from the "redux" section -- the
+point at which one can be certain that there *is* a result -- you
+will discover that you are trying to make precise the statement that
+you are *conscious* of a result.
+
+Maybe the result appears before this, but it does not ever happen after,
+somehow.
+
+Also see remarks from Ed Witten[6].
 
 ---
 
@@ -163,11 +184,10 @@ interference experiment.
 
    In the two-slit experiment, we don't have precise control over every
 particle of the detector, so we lose the *practical* ability to demonstrate 
-interference. That's why we don't see an interference pattern; it has
-nothing to do with detectors being conscious. This is only a 
-*practical* limitation[3].
+interference[3]. That's why we don't see an interference pattern; it has
+nothing to do with detectors being conscious.
 
-   In theory, the
+   But this is only a loss in practice; in theory, the
 particle + detector system is in superposition. Once it strikes
 the screen, the particle + detector + screen are in superposition. There
 are still two branches in the system.
@@ -283,3 +303,25 @@ Beyond some point we run into decoherence (see note [1]).
 [4] See, e.g. [here](http://physicsworld.com/cws/article/news/2010/mar/18/quantum-effect-spotted-in-a-visible-object).
 
 [5] [The most embarrassing graph in modern physics](www.preposterousuniverse.com/blog/2013/01/17/the-most-embarrassing-graph-in-modern-physics/).
+
+[6]
+
+> *I’m not going to attempt to define consciousness, in a way that’s connected
+with the fact that I don’t believe it will become part of physics. And that
+has to do, I think, with the mysteries that bother a lot of people about quantum
+mechanics and its applications to the universe.*
+>
+> &nbsp; ...
+>
+> *Quantum mechanics kind of has an all-embracing property, that to completely make
+sense it has to be applied to everything in sight, including ultimately, the
+observer. But trying to apply quantum mechanics to ourselves makes us extremely
+uncomfortable. Especially because of our consciousness, which seems to clash
+with that idea. So we’re left with a disquiet concerning quantum mechanics,
+and its applications to the universe. And I do not believe that disquiet will go
+away. If anything, I suspect that it will acquire new dimensions.*
+>
+> &nbsp;
+>
+> -- Edward Witten, only physicist to win a Fields Medal
+
