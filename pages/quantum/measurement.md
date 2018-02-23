@@ -174,19 +174,24 @@ there suddenly became one final answer.
 A more modern interpretation is that collapse *never* happens. Instead, 
 we must widen our lens.
 
-From a "God's-eye view," the superposition simply grows to *include* us
-when we encounter it. In one branch, a copy of us sees one result, and
-in another branch, another copy sees the other result. This is called
-the "many worlds interpretation" (MWI).
+From a "God's-eye view," the superposition simply grows to *include* us. 
+In one branch, a copy of us sees one result, and in another branch, 
+another copy sees the other result. This is called the "many worlds 
+interpretation" (MWI). In this interpretation, the state vector *never*
+collapses.
 
-But consider how things look for any single *copy* of you. This 
+There are various descriptions of when exactly worlds "branch," but the
+most common is that they "effectively branch" when decoherence is 
+"effectively irreversible." This is imprecise, but luckily the state 
+vector is all we need for analysis, and it is still a superposition.
+
+Now consider how things look for any single "copy" of you. This 
 shouldn't be too onerous, since are *always* just "one single copy of 
 you."
 
 If a collapse never happens, then the boundary between which there is
-*no* answer, and which there *is* an answer, is when I see it. The
-answer somehow "comes into being" when I see it -- *in a (theoretically) 
-physically verifiable sense.*
+*no* answer, and which there *is* an answer, is when you see it. The
+answer somehow "comes into being" when you see it.
 
 This is another place where people seem to lose the plot. Let's look
 at some common objections:
@@ -195,18 +200,20 @@ at some common objections:
 
 * Q: Big deal, you discover the answer when you encounter it.
 
-* A: Unless there was a collapse, the theory is clear that there *was no 
-answer* before you encountered it. If it's in a superposition, you
-can demonstrate it *in theory*.
+* A: Since we're denying collapse, the theory is clear that there *was 
+no answer* before you encountered it. It's in a superposition, which you
+can verify *in theory*. And there's no *other* reason to believe there's
+an answer.
 
 &nbsp;
 
-* Q: From a God's-eye view, it is *still* in a superposition, so there is
-never a point at which there becomes just one answer.
+* Q: From a God's-eye view, it is *still* in a superposition, so there 
+is never a point at which there becomes just one answer.
 
-* A: Yes, but from *your* perspective, there is. You, as a physicist with
-sufficiently advanced technology, will discover that this point only
-happens when you, personally, encounter the system.
+* A: Yes, but from *your* perspective, there is a point where you can
+say there is an answer. And with sufficiently advanced technology, you 
+should be able to discover that this happens only when you, personally, 
+encounter the system.
 
 &nbsp;
 
@@ -215,7 +222,7 @@ the system can theoretically undo your entanglement, and so your answer
 is not really a "final answer."
 
 * A: Again, true but irrelevant. There is still a moment where an answer
-"pops into being," regardless of whether it can later pops out of
+"pops into being," regardless of whether it can later pop out of
 being[12].
 
 &nbsp;
