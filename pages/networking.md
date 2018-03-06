@@ -1,6 +1,14 @@
 
 I've tried many times to write a piece that captures the sheer confusion
-I experienced on a recent project.
+I experienced while working on a recent project.
+
+---
+
+State machine of a placement.
+
+Document versioning.
+
+Serialization framework. Versioning. API versioning. Storage system.
 
 ---
 
@@ -187,6 +195,9 @@ def terminationWatcher[T](callback: Try[Unit] => Any, promise: Promise[Unit]): G
 def tw[T](callback: Try[Unit] => Any, promise: Promise[Unit]) = Flow.fromGraph(terminationWatcher[T](callback, promise))
 ```
 
+It turns out there's a simpler way to implement this, but it seems I had to
+first pay my dues before finding it.
+
 After a few months of this you discover that your *real* problem is that 
 the two main abstractions of the library (Streams and Actors) are
 not really meant to be used together:
@@ -197,6 +208,34 @@ not really meant to be used together:
 
 In other words, your whole system is built on a leaky abstraction. Good
 luck!
+
+---
+
+### Authentication and authorization
+
+A company using our cloud has lots of users. Some users are administrators,
+able to setup identity and access management (IAM) settings for the rest. The 
+cloud has its own IAM system. Users can be assigned roles; users and/or roles
+can belong to security compartments. Compartments determine how resources can
+be allocated.
+
+Should we use their IAM model for access to our service? What if it changes out
+from under us? Should we instead use the cloud's IAM for identity and then
+manage access (authorization) ourselves? That seems easiest.
+
+Users can write their own schedulers for use with their application. We have to
+deploy their schedulers (and ensure that exactly one is running). How does this
+(containerized) process get credentials for our service?
+
+When one of their machines starts up and runs our agent, how does that agent
+communicate with our service? Where do its credentials come from? If the
+process is one-click for them to start up an instance with our agent, does that
+process look different than if they deploy our agent themselves on existing
+hardware?
+
+When the user requests a new instance running our agent, we have to generate
+a temporary secret (maintained by our service) that we feed as metadata to
+the instance requisitioning service.
 
 ---
 

@@ -6,8 +6,9 @@ description:
 
 ### Summary
 
-In a particular sense, you are the sole observer in your world. (Either that, 
-or there's a state vector collapse, or QM is wrong. I don't believe the latter.)
+In a particular sense, you are the sole observer in your world. (Or there's a 
+state vector collapse, or QM is wrong. And almost nobody believes those
+possibilities.)
 
 **Caveat**: I am not a physicist. Nonetheless, I can tell you a bit about
 positive semidefinite trace class operators on Hilbert space, so I'm not
@@ -15,8 +16,8 @@ positive semidefinite trace class operators on Hilbert space, so I'm not
 
 ---
 
-It's very hard to do justice to this argument in a short space, but I'm going to 
-try.
+It's very hard to do justice to this argument in a short space, but I'm going 
+to try.
 
 In a Schrodinger's Cat type experiment, before you become
 entangled with the system, it is in a superposition. This should be true even

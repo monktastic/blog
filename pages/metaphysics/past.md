@@ -35,36 +35,41 @@ That's circular reasoning.
 * Occam's Razor suggests that the simplest solution is best, and a real
 past is simpler.
 
-Try justifying Occam's Razor without reference to the past.
+Try justifying Occam's Razor without reference to the past. You only trust
+Occam's Razor because it has worked before. Circular.
 
-* Mathematically speaking, there should be many more possibilities in
-which time is real, so it's more likely that time is real.
+* Mathematically speaking, there are many more possibilities in which time
+is real, so overall it is more likely that time is real.
 
-When you try to justify this assertion, you will discover yourself building
-in assumptions that make use of the past in some way. That or you just have
-to shrug and say "I feel these are perfectly fine assumptions."
+* A theory's predictive power is a good test of its truth. A real past gives
+more predictive power, so that's evidence of its correctness.
 
-You think they're fine because you can see that the only way to justify time
-is by carefully assuring that your presuppositions will support it. "Oh,
-hey, whaddya know, these *just happen* to justify time!"
+* ...
+
+Again, try to justify these assertions. You will either find yourself starting
+with axioms that presuppose time, or else making logical steps that assume 
+it in some way or another. You may not even notice yourself doing this, since
+you assume it so instinctively and implicitly.
 
 ---
 
 Long story short: there is no justification that is not circular. Thus
 there is no justification at all, other than "it's more convenient to
-assume that the past is real." Therefore, it is not logical to say that 
+believe in the past." It is not logically justified to conclude that 
 a real past is "more likely" to be true.
 
-Truth be told, even *that* conclusion is circular ("I believed in time
-in the *past*, which is why things are going well *now*, so the belief is 
-*convenient*"). But no point pouring salt on a fresh wound.
-
+Truth be told, even the claim of convenience is circular: if *this* is the
+first moment, then how can you be sure that your "past" belief in time is
+helping you now? But no point pouring salt on a fresh wound.
 
 Even Russell concluded:
 
 > *Skepticism, while **logically impeccable**, is **psychologically
 impossible**, and there is an element of frivolous insincerity in any
 philosophy which pretends to accept it.*
+
+In other words, there may not be any logical reason to believe in a past,
+but we can't really help it, so let's just smile and nod and go along with it.
 
 ---
 
