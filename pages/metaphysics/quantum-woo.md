@@ -7,16 +7,29 @@ description:
 ### Summary
 
 If quantum mechanics is correct, then in a *physically verifiable sense*, you 
-are the sole observer in your world. Consider this quantum woo if you like, 
-but it is also a very straightforward result.
+are the sole observer in your world. This is a straightforward result, and the
+natural outcome of making as few assumptions as possible. Nonetheless, it is
+extremely psychologically challenging, so feel free to label it "quantum woo."
 
 It's very hard to do justice to this argument in a short space, but I'm going 
 to try. I will out of necessity have to skip over some details. I will try to
 be clear about which parts are well-accepted and which are not.
+A slightly richer version of this piece (with some math in the footnotes)
+can be found [here](pick-your-poison.html).
 
-**Caveat**: I am not a physicist. Nonetheless, I can tell you a bit about
-positive semidefinite trace class operators on Hilbert space, so I'm not
-*entirely* clueless either.
+**Caveat**: I am not a physicist. Nonetheless, I can tell you a bit about trace 
+class operators on Hilbert space, so I'm not *entirely* clueless either. Also,
+I've run this by enough physicists to confirm this conclusion:
+
+> *I suspect that a substantial majority of physicists who use quantum
+  mechanics in their everyday work are uninterested in or downright
+  hostile to attempts to understand the quantum measurement problem.*
+>
+> &nbsp;
+>
+> -- [Caltech physicist] Sean Carroll
+
+You shall soon appreciate their hostility.
 
 ---
 
@@ -34,7 +47,7 @@ measurement.
 I want you to ignore rule (2) for now. As we shall see, it exists only
 to make sense of our perceived experience, as opposed to having a physical
 justification. Very few modern physicists believe that it should even be a
-rule.
+rule[10].
 
 In a Schrodinger's Cat style experiment, there is a radioactive
 particle that might or might not decay. According to rule (1), *both* 
@@ -57,9 +70,9 @@ It is very easy to fall prey to sloppy thinking and say "oh, because of
 decoherence, the cat has a well-defined fate, even if we don't know what it is."
 But that is *not* what the theory predicts. It says that the cat does *not*
 have a well-defined fate, because we can *in principle* still do an interference
-experiment and demonstrate it, no matter how hard that is. *And this ought to 
-be true even if your friend has already seen the result* (but crucially, *you* 
-have not encountered the ever-expanding system).
+experiment and demonstrate it, *even though it's really really hard*. And this 
+ought to be true even if your friend has already seen the result (but crucially, 
+*you* have not encountered the ever-expanding system).
 
 And yet, once you see a dead cat, presumably you *are* entitled to say
 that the cat has a well-defined fate. So when did this fate come into being?
@@ -71,8 +84,8 @@ well-defined fate**. This is logically inescapable[8].
 
 Obviously nobody would like to believe that they are the sole observer in their
 reality. Therefore, most physicists throughout history have adopted the
-"Copenhagen Interpretation." Roughly, it says "dude, a collapse *must* have 
-happened, somewhere, somewhen, somehow, because otherwise WTF." 
+"Copenhagen Interpretation." Roughly, it says "dude, a 'collapse' *must* have 
+happened, somewhere, somewhen, somehow, because otherwise WTF." Hence rule (2).
 This is good enough for practical purposes, but it doesn't touch the fundamental 
 issue.
 
@@ -91,27 +104,31 @@ have a well-defined fate when you see it. Instead, there are now two "copies" of
 you (one in each "branch" or "world"), with each one seeing the corresponding 
 result.
 
-Problem solved, right?
+Crisis averted, right?
 
 **This is where the rest seem to lose the plot.**
 
 Consider how things look for "one copy of you" -- henceforth, just "you," since
-you conveniently happen to *always be* just "one copy of you." Unless you are 
+you conveniently happen to *be* just "one copy of you." Unless you are 
 willing to face a decomposing cat and say "nope, not really dead," there 
 obviously *is* a meaningful sense in which it has a well-defined fate.
 
-Once you confront this, the natural thing to do will be to say "it *must* have
-had a fate which you just *learned*." But that would be discarding what we 
-already established: *standard QM without collapse insists that it did not have 
-one.*
+Once you confront this, the natural thing to do is to say "maybe it already
+*had* a fate which you just *learned*." But that would be discarding what we 
+have taken great pains to establish: *standard QM without collapse insists 
+that it did not have one.*
 
 Once you remember *that*, maybe you will scream "decoherence!" and the cycle 
 can start afresh[9].
 
+Luckily, there are enough shells in this shell game that you can avoid seeing
+this conclusion for as long as you like.
+
 ---
 
 To be clear, I'm sure few physicists really like the above conclusion. And yet
-if you carefully follow the bread crumbs, it's pretty hard to avoid.
+if you carefully follow the bread crumbs, it's pretty hard to avoid. The other
+possibility is that QM is wrong, but very few physicists believe that[10].
 
 Eugene Wigner was (in)famous for his interpretation that conscious beings
 cause collapse[6], but we can see that he did it to avoid this more troubling
@@ -253,4 +270,14 @@ MWI doesn't really solve it. This leaves collapse or QM is wrong.
 
 9. See [this SE answer](https://physics.stackexchange.com/questions/387852/has-quantum-solipsism-been-addressed-in-the-mwi-literature),
 where the sole commenter loses the plot twice. Genuine apologies if he or she
-ever reads this; it is not my intention to ridicule.
+ever reads this; it is not my intention to ridicule. 
+
+   I've also sought
+feedback from quantum physicist friends, as well as others 
+[online](https://www.physicsforums.com/threads/on-being-the-sole-observer-in-mwi.926552/#post-5849579).
+
+10. See [here](http://www.preposterousuniverse.com/blog/2013/01/17/the-most-embarrassing-graph-in-modern-physics/). 
+In particular, note that 9% believe in "objective collapse." As for Copenhagen, 
+it is addressed separately in this piece. And the only option that modifies
+the rules of QM is "de Broglie - Bohm", which gets a whopping 0%. "Other" is
+sounding like a pretty good option.

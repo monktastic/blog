@@ -27,7 +27,7 @@ interacting through time and space, according to fixed laws.
 Sure, there are a few little details for physicists to iron out, but the basic 
 structure is in place and is pretty much incontrovertible.
 
-*This* moment is nothing special because you had one very much like it just a 
+This moment is nothing special because you had one very much like it just a 
 moment ago, and a moment before that, in a series of moments stretching back to
 your birth. Been there, done that. Because of this you seek out special 
 experiences -- a trip to the symphony, or a Michelin starred restaurant --
@@ -41,6 +41,11 @@ by a veritable smorgasbord of neuroses: regrets, resentments, anxieties, and
 fears -- all of which depend, inextricably, on your wholehearted faith in the
 fundamental reality of time.
 
+If you could perceive the sense in which this is the first (and possibly only) 
+moment of existence, you would be overcome by a glory so profound that it 
+cannot be imagined -- let alone experienced -- within your current cognitive 
+scaffold.
+
 But this is just the price you pay for being real. Far better to bravely face
 up to the facts than to escape to some fantasy world, after all. Time is just 
 a brute fact of life, and the best we can hope to do is make peace with it, 
@@ -48,7 +53,7 @@ right?
 
 But have you ever stopped to consider *why*, exactly, you are so dead certain
 about the nature of time? Has it really earned the undying allegiance
-you have pledged it?
+you have so obsequiously pledged it?
 
 ---
 
@@ -64,31 +69,32 @@ past.
 
 Okay, well if it is not *logical*, then at least it is *practical*, right? But
 even this conclusion is circular: how can you know whether something is
-*practical* if this is the only moment that exists? You have to assume that
+*practical* if this is the only moment that exists? You have to *assume* that
 there have been other moments to determine whether the belief has been 
 practical.
 
 Once you really see this, there's not much more you can do than throw your 
-hands up and say "reasoning be damned; I am fine treating time as an
-assumption!"
+hands up and say "reasoning be damned; it is perfectly sensible to treat time
+as an axiom!"
 
-Which is perfectly fine -- unless you happen to be the kind of person who wants
+Which is totally fine -- unless you happen to be the kind of person who wants
 to understand *why* you do things. Where exactly does this compulsion to believe 
-come from, if not from logic? *Why* do I believe?
+come from, if not from logic?
 
-One easy answer is that perhaps "my reptilian brain is causing me to do it, and 
-my prefrontal cortex has no say in the matter." This is certainly internally
+The next easy answer is that perhaps "my reptilian brain is causing me to do it, 
+and my prefrontal cortex has no say in the matter." This is certainly internally
 consistent: it's evolutionarily advantageous to believe in things that are real,
-so perhaps it's been built deep into our brain structures. 
+so perhaps it's been built deep into our brain structures and beyond our 
+control.
 
-On the other hand, if the world popped into being *now*, I'd *still* be giving 
-this answer. So maybe it's not so satisfying after all.
+On the other hand, if the world popped into being *now*, I could *still* be 
+giving this answer. Perhaps it is not so convincing as it seems at first glance.
 
-Every time we try to answer *why*, our mind produces a satisfying explanation 
-that requires careful consideration to detect as circular. 
+It seems that every time we try to answer *why*, our mind produces a satisfying 
+explanation that would requires careful consideration to detect as circular. 
 It is as though the mind is erecting one "Do Not Enter" sign after another to
 dissuade you from peeking behind the curtain. "It's logical." "It's practical."
-"It's inevitable." "Shut up, we like it."
+"It's inevitable." "Shut up, we like it!"
 
 We are like Truman in the Truman Show, as the show's producers generate an 
 increasingly stormy sea to prevent him from discovering the truth.
@@ -98,8 +104,7 @@ frameborder="0" allow="autoplay; encrypted-media" allowfullscreen
 style="display: block; margin-left: auto; margin-right: auto;"
 ></iframe>
 
-<!-- TODO: Not coincidentally, the "Truman Show Effect" is common on strong
-psychedelics. -->
+This is not entirely coincidental, as we shall explore later.
 
 It's a rare individual who cares enough about the truth to actually proceed
 beyond this point. If you're perfectly content with your worldview and would
@@ -108,14 +113,15 @@ something better to do. On the other hand, it's probably safe to proceed anyway:
 your mind has a dazzling array of powerful defense mechanisms to protect you 
 from seeing too much, too soon.
 
----
-
-If you could perceive the sense in which this is the first (and possibly only) 
-moment of existence, you would be overcome by a glory so profound that it 
-literally cannot be imagined -- or even believed -- within your current
-cognitive structures.
+Let us forge ahead and discover where our conviction about time really comes 
+from. To do that, we will have to learn to introspect deeply.
 
 ---
+
+
+
+---
+
 
 We all know that there is reality "out there," and our own personal experience
 of it "in here." We only ever interact with our own personal projection of it, 
