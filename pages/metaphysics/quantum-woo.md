@@ -12,14 +12,15 @@ natural outcome of making as few assumptions as possible. Nonetheless, it is
 extremely psychologically challenging, so feel free to label it "quantum woo."
 
 It's very hard to do justice to this argument in a short space, but I'm going 
-to try. I will out of necessity have to skip over some details. I will try to
+to try. I will out of necessity have to gloss over some details. I will try to
 be clear about which parts are well-accepted and which are not.
 A slightly richer version of this piece (with some math in the footnotes)
 can be found [here](pick-your-poison.html).
 
-**Caveat**: I am not a physicist. Nonetheless, I can tell you a bit about trace 
-class operators on Hilbert space, so I'm not *entirely* clueless either. Also,
-I've run this by enough physicists to confirm this conclusion:
+**Caveat**: I am not a physicist. Nonetheless, I can tell you a bit about 
+density operators on Hilbert space, which is all that is needed to work out
+the math yourself. Also, I've run this by enough physicists to confirm this 
+conclusion:
 
 > *I suspect that a substantial majority of physicists who use quantum
   mechanics in their everyday work are uninterested in or downright
@@ -29,12 +30,13 @@ I've run this by enough physicists to confirm this conclusion:
 >
 > -- [Caltech physicist] Sean Carroll
 
-You shall soon appreciate their hostility.
+I hope to help you appreciate the source of that hostility.
 
 ---
 
 In the most commonly presented formulation of quantum mechanics, there are two
-rules according to which a quantum state can evolve:
+rules according to which a quantum state can evolve. Don't worry if you don't
+understand all the words yet:
 
 1. "Normally," it faithfully adheres to the Schrodinger equation, according to
 linear, deterministic dynamics.
@@ -62,7 +64,8 @@ is in a superposition, it would be nearly impossible. We normally do this via an
 interference experiment, but doing that requires careful control of all
 particles involved[5]. For most large experiments, this is way beyond our 
 reach[4]. This fact is known as *decoherence*. It is a *practical* limitation, 
-not a *theoretical* one[1].
+not a *theoretical* one[1]. Decoherence says it is *hard* to demonstrate the
+superposition, not that there *isn't* one.
 
 **This is where most people lose the plot.**
 
@@ -70,16 +73,18 @@ It is very easy to fall prey to sloppy thinking and say "oh, because of
 decoherence, the cat has a well-defined fate, even if we don't know what it is."
 But that is *not* what the theory predicts. It says that the cat does *not*
 have a well-defined fate, because we can *in principle* still do an interference
-experiment and demonstrate it, *even though it's really really hard*. And this 
+experiment and demonstrate it, *even if it's really really hard*. And this 
 ought to be true even if your friend has already seen the result (but crucially, 
 *you* have not encountered the ever-expanding system).
 
-And yet, once you see a dead cat, presumably you *are* entitled to say
-that the cat has a well-defined fate. So when did this fate come into being?
+Now, once *you* see a dead cat, presumably you *are* entitled to say that the 
+cat has a well-defined fate. So the question is: when did this fate come into 
+being?
 
 There are only two possibilities. Either the state vector "collapsed" somewhere
--- rendering it impossible *in principle* to do an interference experiment[7], 
-or else **your encountering the experiment is the moment the cat has a
+(i.e., it became impossible *in principle* to do an interference experiment
+because there is no longer a superposition),
+or else **your encountering the experiment is the *first* moment the cat has a
 well-defined fate**. This is logically inescapable[8].
 
 Obviously nobody would like to believe that they are the sole observer in their
@@ -106,7 +111,7 @@ result.
 
 Crisis averted, right?
 
-**This is where the rest seem to lose the plot.**
+**This is where most of the rest seem to lose the plot.**
 
 Consider how things look for "one copy of you" -- henceforth, just "you," since
 you conveniently happen to *be* just "one copy of you." Unless you are 
@@ -131,8 +136,8 @@ if you carefully follow the bread crumbs, it's pretty hard to avoid. The other
 possibility is that QM is wrong, but very few physicists believe that[10].
 
 Eugene Wigner was (in)famous for his interpretation that conscious beings
-cause collapse[6], but we can see that he did it to avoid this more troubling
-conclusion:
+cause collapse[6], but we can see that he perhaps did it to avoid this more 
+troubling conclusion (in 1967):
 
 > *This [reduction of the quantum state] takes place whenever the result
   of an observation enters the
@@ -155,7 +160,8 @@ philosophers have failed to accept the logical consequences of their own
 most fundamental commitments and preconceptions.*
 >
 > &nbsp;
-> Internet Encyclopedia of Philosophy: [Solipsism and the Problem of Other Minds](http://www.iep.utm.edu/solipsis/)
+>
+> [Solipsism and the Problem of Other Minds](http://www.iep.utm.edu/solipsis/)
 
 I think you can replace "philosopher" with "physicist" and it
 is still true. Luckily, solipsism isn't the only possible answer. There are
@@ -174,14 +180,15 @@ to rule (1) until it "collapses," but we have no reason to believe that it
 really *does* collapse. All we know is that there is an upper bound on when I 
 must stop saying that there is no well-defined result: in particular, it can't 
 possibly be after "I see the result." If you try to pin down what you *mean*
-by those words, you will find yourself trying to define what it means to become
-conscious of a result.
+by those words, you will find yourself trying to make precise what it means to 
+experience or become conscious of a result[7].
 
 Why on earth should something as ill-defined as "my consciousness" serve as an 
-upper bound on the reality of a cat's fate in my world -- as well as an
-infinitude of other quantum events going on around all the time? That's 
+upper bound on the reality of a cat's fate in "my world" -- as well as an
+infinitude of other quantum events going on around me all the time? That's 
 obviously nonsense, but until we confront it more honestly, we will continue 
-to be perplexed.
+to be perplexed. And I believe that cannot happen until we transcend a very
+reasonable [cause of fear](fear.html).
 
 > *I’m not going to attempt to define consciousness, in a way that’s connected
 with the fact that I don’t believe it will become part of physics. And that
@@ -228,6 +235,10 @@ alike.
 
    See also [this answer](https://physics.stackexchange.com/a/374212/118804).
 
+   It should be noted that some are looking for "(in-principle) irreversible decoherence."
+See this[interesting paper](https://arxiv.org/abs/1105.3796). Nonetheless, no
+such mechanism has been found.
+
 2. If you try to make precise what you mean by "you" and "see" in such a
 claim, you will find it *very slippery.* But to try and pin it down here
 would make this piece ten times as long. Your friend *telling* you the
@@ -261,8 +272,12 @@ only in the sense that it makes demonstrating interference *hard*.
 6. See the [Wigner - von Neumann interpretation](https://en.wikipedia.org/wiki/Von_Neumann–Wigner_interpretation)
 aka "consciousness causes collapse."
 
-7. This is why some are looking for "(in-principle) irreversible decoherence."
-This is an [interesting paper](https://arxiv.org/abs/1105.3796).
+7. Note that "seeing the result" can also be indirect. For example, 
+light scattering off the ceiling may give indirect evidence of the cat's fate,
+and that's as good as seeing the cat itself. On the other hand, there can
+be *degrees* of certainty about the fate, depending on how strong your
+entanglement with the different outcomes. There's a lot more to say, but this
+isn't the place.
 
 8. In this previously linked [Physics Stackexchange answer](https://physics.stackexchange.com/a/374212/118804),
 they list three possibilities (collapse, modify QM, or MWI). As we've seen,
@@ -281,3 +296,8 @@ In particular, note that 9% believe in "objective collapse." As for Copenhagen,
 it is addressed separately in this piece. And the only option that modifies
 the rules of QM is "de Broglie - Bohm", which gets a whopping 0%. "Other" is
 sounding like a pretty good option.
+
+---
+
+[>>Next<<](a-brighter-future.html)
+

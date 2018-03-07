@@ -17,7 +17,7 @@
 
 > When you see yourself as a Buddha, you do not simply consider yourself as Buddha and the rest of the world as ordinary, but  everything is transformed into that state, both subject and object, the universe and all sentient beings, everyone is in that Buddha field together. This is known as true visualization.
 
-https://en.wikipedia.org/wiki/Grandiose_delusions
+[Grandiose delusions: Wikipedia](https://en.wikipedia.org/wiki/Grandiose_delusions)
 
 > Grandiose delusions... are a subtype of delusion that occur in patients suffering from a wide range of psychiatric diseases.... Other common grandiose delusions in schizophrenia include religious delusions such as the belief that one is Jesus Christ.
 
@@ -28,7 +28,7 @@ https://en.wikipedia.org/wiki/Grandiose_delusions
 
 > True understanding is to see the events of life in this way: 'You are here for my benefit, though rumor paints you otherwise.' And everything is turned to one's advantage when he greets a situation like this: You are the very thing I was looking for. Truly whatever arises in life is the right material to bring about your growth and the growth of those around you. This, in a word, is art-- and this art called 'life' is a practice suitable to both men and gods. **Everything contains some special purpose and a hidden blessing**; what then could be strange or arduous when all of life is here to greet you like an old and faithful friend?
 
-http://en.wikipedia.org/wiki/Delusions_of_reference
+[Delusions of reference: Wikipedia](http://en.wikipedia.org/wiki/Delusions_of_reference)
 
 > Ideas of reference and delusions of reference describe the [psychotic] phenomenon of an individual's experiencing innocuous events or mere coincidences and believing they have strong personal significance. It is "the notion that everything one perceives in the world relates to one's own destiny".
 >
@@ -47,15 +47,16 @@ What is it that prevents methods of wisdom from leading to insanity?
 A reasonable first guess is that techniques for wisdom are not meant
 to be taken literally. This is not *really* a dream; you are not *really*
 the Buddha; the events in your life aren't *really* about you.
+They are just tools meant figuratively.
 
-But while such a guess serves as a powerful defense against seeing
-too much too soon (for which you should be deeply grateful), at some 
+But while such a guess serves as a powerful and necessary defense 
+against seeing too much too soon, at some 
 point on the path it may become useful to know that this is not the 
 whole story.
 
 There *is* a sense in which those things are *actually* true, but
 for them to blossom into realization and not insanity, you must already
-have a very deep base of meditative practice. 
+have a very deep base of meditative insight. 
 
 Rather than try to
 communicate this myself, I'd like to share a beautiful piece.
@@ -87,6 +88,25 @@ communicate this myself, I'd like to share a beautiful piece.
 
 ---
 
+And while we're sharing weird ideas, I might as well toss in part
+of a [trip report](https://www.dmt-nexus.me/forum/default.aspx?g=posts&m=59585) 
+from someone who smoked the powerful hallucinogen DMT. The italicized
+parts are from the DMT "spirits", who you might prefer to think of as
+deep aspects of your own mind.
+
+> ... it is really our self in the ether, the one that dreams, our consciousness that creates it all, *this is what creates your reality, this is you, your own creator, you are here, always, you always have been and always will be, this is how it is all safe and good, this is how you do it*, they showed me how and it was like my reality that I’d left behind was a picture being projected from me, myself, in this dimension. I said to myself, just like a hologram, and they danced again, *yes, yes, but you knew that already*...
+>
+> &nbsp;
+>
+> *Its all your creation, it’s all your choice, it’s all your projection, it’s where you take yourself... But remember… you knew that already.*
+>
+> &nbsp;
+>
+> But why don’t we get to know this, think how beautiful it would be for everyone, But no, they quickly showed me, *but you know why, look*, and I saw the reasons why it couldn’t be, it just wouldn’t work, the dimensions have to be this way, the hologram has to work that way, *this is the way it was and always has and continues to be. And some people’s reality have become too real, it’s too dangerous for them to know.*
+
+
+---
+
 Having identified the source of our fear, now let us turn to more
 concrete matters. In the previous chapter we asked:
 
@@ -101,3 +121,6 @@ them?
 
 That would sound like [quantum woo](https://rationalwiki.org/wiki/Quantum_woo), of course. And yet, I want to give you
 all the evidence so that you can decide for yourself.
+
+[>>Next<<](quantum-woo.html)
+
