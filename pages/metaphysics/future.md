@@ -27,11 +27,13 @@ Because they have been so regular in the past? What is to
 enforcing these "laws" of nature? If they were to suddenly change, wouldn't we
 simply look back and say "ah, we've discovered a new law?"
 
-It is commonly understood to mean "we cannot be *certain* of the future,"
+It is commonly misunderstood to mean "we cannot be *certain* of the future,"
 but it cuts far deeper than that. It says that there is *no logical
 justification* for the belief:
 
-> *If Hume is right, the belief that the sun will rise tomorrow is **as unjustified** as the belief that a million mile wide bowl of tulips will appear over the horizon instead. We suppose the second belief is insane.*
+> *If Hume is right, the belief that the sun will rise tomorrow is **as unjustified** 
+   as the belief that a million mile wide bowl of tulips will appear over the horizon 
+   instead. We suppose the second belief is insane.*
 > ... 
 > *But then the onus is on these defenders of “common 
    sense” to show precisely what is wrong with Hume’s argument. No one has 

@@ -86,7 +86,9 @@ Next up: why you are not, in fact conscious, and I've been lying.
 
 1. Except perhaps, again, for this guy:
 
-   > *I think consciousness will remain a mystery. Yes, that's what I tend
+   > *I’m not going to attempt to define consciousness, in a way that’s 
+     connected with the fact that I don’t believe it will become part of physics. ...
+   > I think consciousness will remain a mystery. Yes, that's what I tend
 to believe. I tend to think that the workings of the conscious brain
 will be elucidated to a large extent. Biologists and perhaps physicists
 will understand much better how the brain works. But why something that

@@ -24,7 +24,9 @@ continue to operate in the future.*](future.html)
 This will no doubt strike you as absurd. Nonetheless, if you follow
 the reasoning very carefully, the conclusion is again inevitable.
 Philosophers continue to debate the meaning and consequences of this
-conclusion, but it is well-accepted.
+conclusion, but it is well-accepted. If you think "well believing it has
+worked so far, so I should continue to believe it," you have fallen directly
+into the jaws of the trap.
 
 You probably think "well maybe we can't find a reason to *believe* that it is
 true, but it obviously *is* true, so this is just a lot of empty
@@ -34,9 +36,9 @@ justification for it*, you'll find at the core a deep emotional knot. This is
 again the fear of going crazy, or of your world falling apart.
 
 The alternative on offer here is that the seeming consistency of the *world* is 
-actually nothing more than consistency deep in the *mind*, but projected 
-"outwards." Your certainty about the future isn't the *result* of some actual 
-consistency, but ultimately, the *cause* of it. 
+actually nothing more than the need for consistency deep in the *mind*, but 
+projected "outwards." Your certainty about the future isn't the *result* of 
+some actual consistency, but ultimately, the *cause* of it. 
 
 You will not see this clearly until you are a fully awakened Buddha, but there 
 may be some baby steps you can take in the mean time.
@@ -97,14 +99,14 @@ It's a two-for-one deal, and luckily, supplies last until you're
 
 For some reason, nobody finds it too strange that much of Tibetan
 Buddhism comes not from the historical Buddha, but from the
-[primordial buddha](https://en.wikipedia.org/wiki/Adi-Buddha) via
+[primordial Buddha](https://en.wikipedia.org/wiki/Adi-Buddha) via
 various people's dreams. It might be because we can sense something
 profoundly true regardless of provenance.
 
 If there were a modern teaching that came via Dream Jesus, you'd no
 doubt find it too laughable to bother reading. So I won't bother
 to tell you where this quote is from. Note that the word "thinking"
-here does not refer to the coarse conceptualization you normally notice, 
+below does not refer to the coarse conceptualization you normally notice, 
 but to the subtle layers of cognition referred to 
 [earlier](layers-of-mind.html).
 

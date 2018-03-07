@@ -29,22 +29,23 @@ structure is in place and is pretty much incontrovertible.
 
 This moment is nothing special because you had one very much like it just a 
 moment ago, and a moment before that, in a series of moments stretching back to
-your birth. Been there, done that. Because of this you seek out special 
-experiences -- a trip to the symphony, or a Michelin starred restaurant --
-but even those moments differ from previous ones only in a few small details: 
-the sound is a little sweeter; the flavor a little richer. On rare occasion 
-they briefly transport you to another world: a little taste of transcendence 
-before the mental chatter swoops back in and puts a lid on the affair.
+your birth. Been there, done that. Because of this, you seek out special 
+experiences to spice things up -- a trip to the symphony, or a Michelin starred 
+restaurant -- but even those moments differ from previous ones only in a few 
+small details: the sound is a little sweeter; the flavor a little richer. On 
+rare occasion they briefly transport you to another world: a little taste of 
+transcendence before the mental chatter swoops back in and puts a lid on the 
+affair.
 
 In between these moments of ennui your daily experience is subtly conditioned 
 by a veritable smorgasbord of neuroses: regrets, resentments, anxieties, and
 fears -- all of which depend, inextricably, on your wholehearted faith in the
 fundamental reality of time.
 
-If you could perceive the sense in which this is the first (and possibly only) 
+If you could perceive the sense in which this is the *first* (and possibly *only*) 
 moment of existence, you would be overcome by a glory so profound that it 
 cannot be imagined -- let alone experienced -- within your current cognitive 
-scaffold.
+confines.
 
 But this is just the price you pay for being real. Far better to bravely face
 up to the facts than to escape to some fantasy world, after all. Time is just 

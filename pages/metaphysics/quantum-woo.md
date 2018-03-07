@@ -30,7 +30,8 @@ conclusion:
 >
 > -- [Caltech physicist] Sean Carroll
 
-I hope to help you appreciate the source of that hostility.
+I think the source of that hostility is the [fear](fear.html) we read about 
+earlier, and soon you may appreciate why.
 
 ---
 
@@ -38,8 +39,8 @@ In the most commonly presented formulation of quantum mechanics, there are two
 rules according to which a quantum state can evolve. Don't worry if you don't
 understand all the words yet:
 
-1. "Normally," it faithfully adheres to the Schrodinger equation, according to
-linear, deterministic dynamics.
+1. "Normally," the state faithfully evolves according to the Schrodinger 
+equation, following linear, deterministic dynamics.
 
 2. When the state is "measured," it seems to instantaneously and randomly jump
 ("collapse") to a state where it either definitely does or does not have the 
@@ -73,7 +74,7 @@ It is very easy to fall prey to sloppy thinking and say "oh, because of
 decoherence, the cat has a well-defined fate, even if we don't know what it is."
 But that is *not* what the theory predicts. It says that the cat does *not*
 have a well-defined fate, because we can *in principle* still do an interference
-experiment and demonstrate it, *even if it's really really hard*. And this 
+experiment and demonstrate it, *even if that's really really hard*. And this 
 ought to be true even if your friend has already seen the result (but crucially, 
 *you* have not encountered the ever-expanding system).
 
@@ -82,19 +83,19 @@ cat has a well-defined fate. So the question is: when did this fate come into
 being?
 
 There are only two possibilities. Either the state vector "collapsed" somewhere
-(i.e., it became impossible *in principle* to do an interference experiment
-because there is no longer a superposition),
+before you saw it (i.e., it became impossible *in principle* to do an 
+interference experiment because the superposition somehow collapsed),
 or else **your encountering the experiment is the *first* moment the cat has a
 well-defined fate**. This is logically inescapable[8].
 
 Obviously nobody would like to believe that they are the sole observer in their
 reality. Therefore, most physicists throughout history have adopted the
 "Copenhagen Interpretation." Roughly, it says "dude, a 'collapse' *must* have 
-happened, somewhere, somewhen, somehow, because otherwise WTF." Hence rule (2).
-This is good enough for practical purposes, but it doesn't touch the fundamental 
-issue.
+happened, somewhere, somewhen, somehow, because otherwise WTF." Hence 
+the invention of magical rule (2). This is good enough for practical purposes, 
+but it doesn't touch the fundamental issue.
 
-> *I think Copenhagen is completely ill-defined, and shouldn’t be the favorite anything of any thoughtful person*
+> *I think Copenhagen is completely ill-defined, and shouldn't be the favorite anything of any thoughtful person*
 >
 > &nbsp;
 >
@@ -103,7 +104,7 @@ issue.
 As the noose has been tightened on the "collapse" hypothesis over the decades,
 many have jumped ship to the "Many Worlds Interpretation" (MWI). There are
 many different formulations of it, but in essence what it says is: from a
-God's-eye perspective of the system, when you encounter the system, you also 
+God's-eye perspective, when *you* encounter the system, you simply
 join the superposition. Therefore, properly speaking, the cat *still* does not 
 have a well-defined fate when you see it. Instead, there are now two "copies" of 
 you (one in each "branch" or "world"), with each one seeing the corresponding 
@@ -133,7 +134,7 @@ this conclusion for as long as you like.
 
 To be clear, I'm sure few physicists really like the above conclusion. And yet
 if you carefully follow the bread crumbs, it's pretty hard to avoid. The other
-possibility is that QM is wrong, but very few physicists believe that[10].
+possibility is that QM is wrong, but very few physicists believe that[11].
 
 Eugene Wigner was (in)famous for his interpretation that conscious beings
 cause collapse[6], but we can see that he perhaps did it to avoid this more 
@@ -178,17 +179,30 @@ share why I think this is folly.
 As the above reasoning shows, we must treat the system as evolving according
 to rule (1) until it "collapses," but we have no reason to believe that it 
 really *does* collapse. All we know is that there is an upper bound on when I 
-must stop saying that there is no well-defined result: in particular, it can't 
-possibly be after "I see the result." If you try to pin down what you *mean*
-by those words, you will find yourself trying to make precise what it means to 
-experience or become conscious of a result[7].
+must stop saying that there is no well-defined result: in particular, it would
+be nonsensical for me to say that there is no result after "I see it," but
+before that it is reasonable.
+ 
+If you try to pin down what you *mean* by "I see it," you will find yourself 
+trying to make precise what it means to experience or become conscious of a 
+result[7].
 
 Why on earth should something as ill-defined as "my consciousness" serve as an 
 upper bound on the reality of a cat's fate in "my world" -- as well as an
 infinitude of other quantum events going on around me all the time? That's 
 obviously nonsense, but until we confront it more honestly, we will continue 
-to be perplexed. And I believe that cannot happen until we transcend a very
-reasonable [cause of fear](fear.html).
+to be perplexed. 
+
+> *For quantum mechanics, all we really have to do (most people believe) is think about it in the right way. No elaborate experiments necessarily required (although they could help nudge us in the right direction, no doubt about that). But if anything, that makes the embarrassment more acute. All we have to do is wrap our brains around the issue, and yet we’ve failed to do so.*
+>
+> &nbsp;
+>
+> -- Sean Carroll
+
+What prevents us from wrapping our brains (oops, minds!) around the issue?
+[The Fear](fear.html), of course.
+
+---
 
 > *I’m not going to attempt to define consciousness, in a way that’s connected
 with the fact that I don’t believe it will become part of physics. And that
@@ -215,7 +229,8 @@ away. If anything, I suspect that it will acquire new dimensions.*
 ### Notes and references
 
 1. Roger Penrose (2004), The Road to Reality, pp. 802-803:
-> ...the environmental-decoherence viewpoint ... maintains that state 
+
+   > ...the environmental-decoherence viewpoint ... maintains that state 
 vector reduction can be understood as coming about because the
 environmental system under consideration becomes inextricably entangled
 with its environment.[...] We think of the environment as extremely
@@ -296,6 +311,10 @@ In particular, note that 9% believe in "objective collapse." As for Copenhagen,
 it is addressed separately in this piece. And the only option that modifies
 the rules of QM is "de Broglie - Bohm", which gets a whopping 0%. "Other" is
 sounding like a pretty good option.
+
+11. Sean Carroll again:
+
+    > Quantum mechanics has become the most important and best-tested part of modern physics. Without it, nothing makes sense. Every student who gets a degree in physics is supposed to learn QM above all else. There are a variety of experimental probes, all of which confirm the theory to spectacular precision.
 
 ---
 

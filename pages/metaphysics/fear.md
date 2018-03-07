@@ -91,7 +91,7 @@ communicate this myself, I'd like to share a beautiful piece.
 And while we're sharing weird ideas, I might as well toss in part
 of a [trip report](https://www.dmt-nexus.me/forum/default.aspx?g=posts&m=59585) 
 from someone who smoked the powerful hallucinogen DMT. The italicized
-parts are from the DMT "spirits", who you might prefer to think of as
+parts are from the DMT "spirits," who you might prefer to think of as
 deep aspects of your own mind.
 
 > ... it is really our self in the ether, the one that dreams, our consciousness that creates it all, *this is what creates your reality, this is you, your own creator, you are here, always, you always have been and always will be, this is how it is all safe and good, this is how you do it*, they showed me how and it was like my reality that I’d left behind was a picture being projected from me, myself, in this dimension. I said to myself, just like a hologram, and they danced again, *yes, yes, but you knew that already*...
