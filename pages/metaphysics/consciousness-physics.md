@@ -78,6 +78,12 @@ What is it? Careful: don't use your words.
 
 ---
 
+Next up: why you are not, in fact conscious, and I've been lying.
+
+[>>Next<<](consciousness.html)
+
+---
+
 1. Except perhaps, again, for this guy:
 
    > *I think consciousness will remain a mystery. Yes, that's what I tend
