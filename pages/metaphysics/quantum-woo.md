@@ -299,5 +299,5 @@ sounding like a pretty good option.
 
 ---
 
-[>>Next<<](a-brighter-future.html)
+[>>Next<<](radical-forgiveness.html)
 
