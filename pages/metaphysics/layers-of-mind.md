@@ -116,8 +116,7 @@ but how deep does this freedom go?
 * As I discover more and more freedom, won't I become less and less certain
 about externally imposed constraints? If I had *infinite* freedom, wouldn't this
 demolish my belief in an external reality? Wouldn't that be terrifying, and 
-wouldn't that terror limit 
-the degree of freedom I am willing to explore?
+wouldn't that terror limit the degree of freedom I am willing to explore?
 
 * Is there any *physical* evidence that "my reality" and "the world out there" 
 are not two separate things? What would such evidence even look like?
@@ -166,5 +165,3 @@ really trying to say.
 For now, let us turn our attention to the very reasonable concern of *fear*.
 
 [>>Next<<](fear.html)
-
-

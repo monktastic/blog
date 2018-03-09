@@ -4,6 +4,9 @@ title: The problem of induction
 description:
 ---
 
+
+
+
 ### Summary
 
 There is no (logical) reason to believe that the "laws of nature" will
@@ -14,22 +17,34 @@ continue to operate in the future.
 See [David Hume's Problem of Induction](stephenlaw.blogspot.com/2012/10/problem-of-induction-explained-simply.html).
 
 Briefly: the idea that things will *continue* to be true because they *have
-been true* in the past is called the *principle of induction*. How do we
+been* consistently true is called the *principle of induction*. How do we
 justify this principle? By observing that it's been true in
 the past, and therefore will continue to be in the future. In other words,
 the principle of induction is only justified via induction. This is circular
-reasoning, and thus invalid.
+reasoning, and thus invalid. 
 
-How can we know that the laws of nature will not suddenly stop or change
-five seconds from now?
-Because they have been so regular in the past? What is to 
-*prevent* things from suddenly changing? Is there a universal police force 
-enforcing these "laws" of nature? If they were to suddenly change, wouldn't we
-simply look back and say "ah, we've discovered a new law?"
+> **A**: The past is good evidence for the future.
+>
+> **B**: Why?
+>
+> **A**: Because that's been true in the past.
+>
+> **B**: Okay, and?
+>
+> **A**: Therefore it will continue to be true.
+>
+> **B**: ...because?
+>
+> **A**: What do you mean "because?!" Because the past is good evidence for the future!
+>
+> **B**: Oh, whew! I was getting worried for a second. Let us carry on as
+though everything is perfectly normal.
 
-It is commonly misunderstood to mean "we cannot be *certain* of the future,"
-but it cuts far deeper than that. It says that there is *no logical
-justification* for the belief:
+If there is only *circular* justification for the belief that the laws of 
+physics will continue to operate, then there is *no* justification --
+making it precisely as rational (or irrational) as the 
+alternative. It is commonly misunderstood to mean "we cannot be *certain* of the 
+future," but it cuts far deeper than that.
 
 > *If Hume is right, the belief that the sun will rise tomorrow is **as unjustified** 
    as the belief that a million mile wide bowl of tulips will appear over the horizon 
@@ -40,9 +55,18 @@ justification* for the belief:
    yet succeeded in doing this (or at least no one has succeeded in 
    convincing a majority of philosophers that they have done so).*
 
-As with the belief in the past, it may be *practical* to assume that they
-will continue to hold, but this is different from it being justified on
-logical grounds.
+As with the belief in [the past](past.html), it may be *practical* to assume 
+that they will continue to hold, but this is different from it being justified 
+on *logical* grounds. Nonetheless, your mind will continue to believe it has
+justified it: "well it's worked in the past, so that makes it rational." It is
+*not* rational; this is just a convenient falsehood you tell yourself so that
+you can get on with your day.
+
+<iframe width="560" height="315" align="middle" src="https://www.youtube.com/embed/ivPFlKyeypU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="display: block; margin-left: auto; margin-right: auto;"
+></iframe>
+
+Plenty of people far smarter than I have confirmed this result time and again.
+If I cannot accept it, perhaps it is worth looking into [emotional reasons](fear.html) why.
 
 Hume:
 
@@ -57,9 +81,7 @@ that I cannot find in my heart to enter into them any further. **Thus the
 skeptic still continues to reason and believe, though he asserts he
 cannot defend his reason by reason.***
 
-
-
-Also see
+Also see:
    
 > *[Wheeler would] say things like, “In the end, the only law is that
   there is no law.” There’s no ultimate law of physics. All the laws of
