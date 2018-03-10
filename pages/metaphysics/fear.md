@@ -46,21 +46,21 @@ What is it that prevents methods of wisdom from leading to insanity?
 
 A reasonable first guess is that techniques for wisdom are not meant
 to be taken literally. This is not *really* a dream; you are not *really*
-the Buddha; the events in your life aren't *really* about you.
-They are just tools meant figuratively.
+the Buddha; events don't *really* have anything to do with you. These are just 
+tools meant figuratively.
 
-But while such a guess serves as a powerful and necessary defense 
-against seeing too much too soon, at some 
-point on the path it may become useful to know that this is not the 
-whole story.
+But there's another possibility. Wisdom traditions exist to prepare your mind
+for insights that it otherwise could not handle. The reason that psychedelic
+trips sometimes result in very difficult symptoms isn't because "some 
+neurotransmitters something something," it's because they can reveal *genuine 
+insights* that we may not be ready for, and that get mangled in translation
+into our inflexible minds.
 
-There *is* a sense in which those things are *actually* true, but
-for them to blossom into realization and not insanity, you must already
-have a very deep base of meditative insight. 
+There *is* a sense in which this *is* your dream; you really *are* the Buddha; 
+and everything in this life *is* related to you. It's just that "you" doesn't
+mean what you think it does.
 
-Rather than try to
-communicate this myself, I'd like to share a beautiful piece.
-
+Rather than try to communicate this myself, I'd like to share a beautiful piece.
 
 [Schizophrenia, Enlightenment](http://greengaze.blogspot.com/2009/07/g-everything-is-connected-but-some.html)
 
@@ -89,7 +89,7 @@ communicate this myself, I'd like to share a beautiful piece.
 ---
 
 And while we're sharing weird ideas, I might as well toss in part
-of a [trip report](https://www.dmt-nexus.me/forum/default.aspx?g=posts&m=59585) 
+of a poetic [trip report](https://www.dmt-nexus.me/forum/default.aspx?g=posts&m=59585) 
 from someone who smoked the powerful hallucinogen DMT. The italicized
 parts are from the DMT "spirits," who you might prefer to think of as
 deep aspects of your own mind.
@@ -104,6 +104,15 @@ deep aspects of your own mind.
 >
 > But why don’t we get to know this, think how beautiful it would be for everyone, But no, they quickly showed me, *but you know why, look*, and I saw the reasons why it couldn’t be, it just wouldn’t work, the dimensions have to be this way, the hologram has to work that way, *this is the way it was and always has and continues to be. And some people’s reality have become too real, it’s too dangerous for them to know.*
 
+What does it look like when "your reality has become too real?" Well, consider
+people whose *life mission* is to convince the world that our modern Western
+worldview is basically correct. Would it surprise you to learn that various
+famous science popularizers are known to be very unpleasant in person? This is
+not a dig at them (and I won't share any links here, out of respect). Taking 
+your reality too literally has profound psychological effects, too. 
+
+There is a way to take your experience very seriously, yet not *literally*, 
+but this can only be discovered through practice.
 
 ---
 

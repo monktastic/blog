@@ -43,9 +43,9 @@ fears -- all of which depend, inextricably, on your wholehearted faith in the
 fundamental reality of time.
 
 If you could perceive the sense in which this is the *first* (and possibly *only*) 
-moment of existence, you would be overcome by a glory so profound that it 
-cannot be imagined -- let alone experienced -- within your current cognitive 
-confines.
+moment of existence, you would be overcome by heartbreaking beauty so exquisite 
+that it cannot be imagined -- let alone experienced -- within your current 
+cognitive confines.
 
 But this is just the price you pay for being real. Far better to bravely face
 up to the facts than to escape to some fantasy world, after all. Time is just 

@@ -1,6 +1,5 @@
 
 
-
 1. [Preface](preface.html)
 1. [The Mundane](mundane.html)
 1. [Time](time.html)
@@ -13,4 +12,3 @@
 1. [Consciousness is not physical](consciousness-physics.html)
   * [You can be sure you are conscious](your-consciousness.html)
   * [You cannot be sure anyone else is conscious](other-consciousness.html)
-
