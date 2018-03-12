@@ -13,7 +13,7 @@ somehow, you weren't really *noticing* them either.
 You very likely spend the vast majority of your day in such a semi-conscious 
 state. You may have a hard time believing this, because the mind readily
 back-fills a sense of presence even when there was none. It's a little bit
-like your visual blind spot.
+like your visual blind spot: to find it, you have to know how to look.
 
 When you begin to meditate, you see for yourself just how busy your mind is,
 in a way that normally escapes your notice. You discover that *most* of your 
@@ -25,7 +25,7 @@ This accounts for the commonly recognized benefits of meditation.
 
 If you decide to progress on the path, this distraction-without-knowing-it 
 starts happening less and less. As you become more present, you begin to 
-detect an undercurrent of more subtle thoughts
+detect an undercurrent of ever more subtle thoughts
 flowing between the big, coarse ones. When even these quieten, and you're
 sitting in a seemingly thought-free state, you might consider yourself basically
 free of thought.

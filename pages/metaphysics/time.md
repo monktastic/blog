@@ -6,10 +6,10 @@ believe otherwise.
 But careful reasoning reveals that
 it is no more logical to believe in the past than not: [all attempts to justify
 time end up *presupposing* it in one way or another](past.html). 
-And something with only
-*circular* justification has *no* justification. Spend as much time as you need
-to convince yourself of this fact: there is no (non-circular) evidence of a
-past.
+And something with only *circular* justification has *no* justification. 
+Spend as much time as you need
+to convince yourself of this fact: **there is no evidence of a past**, despite
+your mind's valiant attempts to pass off circular evidence as valid.
 
 <img src="https://imgur.com/kojQShk.jpg" width="350" align="middle"
 style="display: block; margin-left: auto; margin-right: auto;"/>
@@ -34,14 +34,15 @@ consistent: it's evolutionarily advantageous to believe in things that are real,
 so perhaps it's been built deep into our brain structures and beyond our 
 control.
 
-On the other hand, if the world popped into being *now*, I could *still* be 
-giving this answer. Perhaps it is not so convincing as it seems at first glance.
+While that *could* be true, there is *still* no reason to believe it:
+"I believe in time because time made me do it" is as nonsensical as the rest,
+if perhaps more deviously convincing.
 
 It seems that every time we try to answer *why*, our mind produces a satisfying 
-explanation that would requires careful consideration to detect as circular. 
+explanation that requires careful consideration to detect as circular. 
 It is as though the mind is erecting one "Do Not Enter" sign after another to
 dissuade you from peeking behind the curtain. "It's logical." "It's practical."
-"It's inevitable." "Shut up, we like it!"
+"It's inevitable." "*Shut up, we like it!*"
 
 We are like Truman in the Truman Show, as the show's producers generate an 
 increasingly stormy sea to prevent him from discovering the truth.
