@@ -162,7 +162,7 @@ the night schedule?
 
 **Answer**: That crescent is a moon. The express always makes black stops, 
 and at night it *also* makes crescent stops. So seeing it stop at W 4th is no 
-indication of whether it's making local stops yet. Wait for the local train.
+indication of whether it's on the night schedule. Wait for the local train.
 
 Alternatively, you might correctly reason that "it *only* makes crescent
 stops at night" (as in "the only time it makes crescent stops is at

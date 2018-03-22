@@ -96,19 +96,17 @@ def parse_arguments(argv):
         help='Number of folds to use for cross validation. Mainly used for testing.', default=10)
     return parser.parse_args(argv)
 ```
-
+<small>
+(Sheepish note: the repo *does* have good instructions on how to use it. I just 
+missed them.)
+</small>
 
 Okay, do I try to figure this out, or... hey, there's [this sweet node.js wrapper](https://github.com/zixia/node-facenet)
 that makes it easy as one click! I just have to run a `demo.ts`.
 
-<small>
-(A sheepish note here: the repo *does* have good instructions on how
-to use it. I just missed them.)
-</small>
-
 Now, not having any frontend skillz, I only vaguely recognize `.ts` as
 something called TypeScript. Some quick Googling suggests that I can
-run it with something called `ts-node`, which I hastily install. And now:
+run it with something called `ts-node`, which I hastily install. And so begins...
 
 ## My short-lived career in TypeScript
 ```
@@ -140,12 +138,8 @@ Dangit, what? I find [three](https://github.com/TypeStrong/ts-node/issues/271)
 [github](https://github.com/electron/electron-typescript-definitions/issues/43)
 [issues](https://github.com/mgechev/angular-seed/issues/147), none of
 which I really understand, and some of which point me down further rabbit
-holes. How much time should I spend figuring this out? Well, someone
-says:
-
-  * _I cloned the repo, executed npm install and still have this problem._
-
-Maybe I forgot to run `npm install`? That would be silly.
+holes. How much time should I spend figuring this out? I don't think anything
+went wrong with my `npm install`, but just to be safe....
 
 ```
 $ npm install
@@ -239,7 +233,7 @@ Error: error while reading from input stream
     at Facenet.align (/Users/aditpras/git/node-facenet/src/facenet.ts:118:16)
 ```
 
-Ack! Bad puppy! Especially if you look into line 118:
+Ack! Bad puppy! Luckily, it tells me exactly which line (118) to debug:
 
 {: style="overflow:scroll; height:300px;"}
 ```typescript
@@ -279,7 +273,8 @@ Ack! Bad puppy! Especially if you look into line 118:
     131    * //     md5: '0451a0737dd9e4315a21594c38bce485' } ]
 ```
 
-That's right, `facenet.ts:118` is a _comment_.
+That's right, `facenet.ts:118` is a _comment_. Typescript is wackier than
+I thought.
 
 You know what? Maybe I really am better off trying to resolve my
 TensorFlow problems.
@@ -415,13 +410,13 @@ the system python2.7 will [still fail](more-python.html).
 ## Wrangling TensorFlow
 
 Let's not get into the weeds of what I'm trying to do here. There's
-more detail [here](https://monktastic.github.io/ml_for_dummies/pages/keras-tf-pyfunc.html)
+more detail [here](keras-tf-pyfunc.html)
 if you're interested. The point is that when you're trying to build a
 TensorFlow-based model, and you need to execute arbitrary Python code
 in the middle (i.e., something that does not do pure tensor manipulation),
 you can use something called `tf.py_func` to invoke it.
 
-Or at least, you think you can. This code takes the indices of some
+Or at least, you think you can. This code takes the *indices* of some
 pictures in `x_train` as input, and returns the images.
 
 ```python
@@ -561,11 +556,7 @@ What went wrong?
 Well how do you think TensorFlow is going to back-propagate
 the gradients through your layer, when you haven't defined its derivative
 (gradient) function, dummy?
-
-Good luck figuring this one out. Since you're curious, the answer is
-that you forgot to define a custom gradient,
-[teaching TensorFlow](https://stackoverflow.com/questions/41535347/how-gradient-passed-by-tf-py-func)
-how to backpropagate through your layer:
+It's clearly telling you that you must [define a custom gradient](https://stackoverflow.com/questions/41535347/how-gradient-passed-by-tf-py-func):
 
 ```python
 # Define custom py_func which takes also a grad op as argument:
@@ -604,12 +595,15 @@ that domain? Do I have to connect them somehow? Should I carefully read
 the official documentation or plow ahead with my experimentation and worry
 about it later? How much effort will it be to undo my mistakes this time?
 
-I choose to plow ahead.
+I choose to plow ahead. (For the record, on something like page four of
+the official doc, it does explain how repos other than the one named
+`username.github.io` can still be hosted there. But I doubt I could have made
+sense of the doc without getting my hands dirty. As so often, chicken and egg.)
 
 While going through the tutorial, I realize I've checked in my IntelliJ's
 `.idea` folder, which is a no-no. But do _you_ remember how to remove it
 from your git _index_ without nuking your _working copy_? If you said
-`git rm -r --cached`, you're right, but if you said "shut up, you're boring me,"
+`git rm -r --cached`, you're right, but if you said "computers are obnoxious"
 you're even more right.
 
 Instead, I stumble down a dark alley (having forgotten that there
@@ -617,24 +611,26 @@ _is no_ `master` branch in this repo), and by the time I remember to
 run `git rm` with the proper flags, it instead invokes Cthulhu, forcing
 me to start over lest he feast on my increasingly tender brain.
 
-I emerge worn but victorious. I make a note to get back my `git` game.
+I emerge worn but victorious. I make a note to get back my `git`-fu.
 
 Anyway, I finish the tutorial, and it works! Except, _dangit_, there's
 no syntax highlighting in the code blocks. But not to fear! Jekyll's documentation explains
-that the Rouge syntax highlighter will take care of things for me! Of
-course, it's already the default. So is my `_config.yaml` wrong? How about
-my use of [kramdown](https://kramdown.gettalong.org/)?
+that the Rouge syntax highlighter will take care of things for me! The thing
+is, it's already the default. So is my `_config.yaml` wrong? How about
+my use of ["kramdown"](https://kramdown.gettalong.org/)?
 
 I don't know, but you bet I'm gonna find out!
 
-### rougify your kramdown, son
+### Gotta rougify your kramdown, son
 
 I figure maybe it's worth slowing down and reading some documentation
 for a change. So I locate [Rouge's official demo site](http://rouge.jayferd.us/demo).
 When I click that, it redirects to admarketplace.com, which redirects somewhere
 else, and eventually dumps me out at Edmunds.com. Because I wanted to
 buy a car. I try again, and it dumps me on clickvalidator.net, which
-informs me that my clicks are suspicious. No, **you're** suspicious!
+informs me that my clicks are suspicious. I agree, it is pretty suspicious that
+I'm still trying to get this to work when I could go outside and smell some
+roses or something similarly monktastic.
 
 Okay, try again. This SO answer to
 ["Jekyll not highlighting with rouge highlighter"](https://stackoverflow.com/a/37773310/5175433)
@@ -644,11 +640,11 @@ Another thing, if you want to "color your code", you need an highlight css.
 ```
 
 That doesn't sound like _another_ thing, that sounds like _the_ thing!
-Formatted code! How do I get _that_? By typing "rouge highlight css" into
+How do I get _that_? By typing "rouge highlight css" into
 Google and crossing my fingers, of course. Whaddya know,
 there's [a hit](https://benhur07b.github.io/2017/03/25/add-syntax-highlighting-to-your-jekyll-site-with-rouge.html)!
 
-Thus began...
+Thus begins...
 
 ### My short-lived career in Ruby
 
@@ -660,8 +656,8 @@ ERROR:  While executing gem ... (Gem::FilePermissionError)
     You don't have write permissions for the /Library/Ruby/Gems/2.0.0 directory.
 ```
 
-Maybe `sudo chown` to the rescue? Nah, don't be a bozo. There must be a good reason for this.
-[You see](https://stackoverflow.com/a/14607772/5175433),
+Maybe `sudo chown` to the rescue? Nah, don't be a bozo. There must be a good 
+reason for this. [You see](https://stackoverflow.com/a/14607772/5175433),
 
 _"That is the version of Ruby installed by Apple, for their own use."_
 
@@ -675,8 +671,7 @@ Anyway, I have (at least) a few options:
 
 Each approach has its champions and detractors, but the fourth is the
 [most up-voted](https://stackoverflow.com/a/38259128/5175433). Plus,
-the comments say that it is simple and logical, two of my favorite things!
-And it only requires a _teensy bit_ more setup:
+the comments say that it is "simple and logical," two of my favorite things!
 
   * _This is simple and logical. Add ruby path if you haven't in your bashrc_:
 ``` bash
@@ -685,8 +680,11 @@ if which ruby >/dev/null && which gem >/dev/null; then
 fi
 ```
 
-At first I think this must be a cruel joke, until I realize it comes from the
-[official site](http://guides.rubygems.org/faqs/#user-install).
+Did I accidentally eat LSD or did he? It turns out neither; it comes from the
+[official Ruby doc](http://guides.rubygems.org/faqs/#user-install). Now all
+I have to do is make sure it works with `zsh`. Not like there could be [subtle
+but obnoxious differences](http://slopjong.de/2012/07/02/compatibility-between-zsh-and-bash/) that could bite me in
+the behind. That *never* happens.
 
 I nope out of there real fast and settle on the trusty `homebrew`.
 
@@ -718,5 +716,5 @@ $ rougify style monokai > assets/css/syntax.css
 Are we there yet? I don't know... is the Python code in this document
 colored?
 
-I sure hope so, because there's something I wanted to get back to. Now
+I sure hope so, because there's something I was trying to get done. Now
 if only I could remember what it was....
