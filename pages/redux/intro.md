@@ -22,6 +22,12 @@ to be saved ..."*
 >
 > -- The Diamond Sutra
 
+Finally, you may wonder exactly what kind of "evidence" you will discover. Here
+I can only say "whatever evidence you need," dodgy though that may seem.
+Examples from other people's lives are of little use. If they fall outside of
+your world view, you won't believe them, and if they fit inside your world view,
+you won't consider them evidence of anything.
+
 ---
 
 

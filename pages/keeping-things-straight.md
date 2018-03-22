@@ -35,21 +35,27 @@ Again, if you cannot, then congratulations!
 
 #### Example 3
 
-You have a 2D vector space with basis {x, y}. You're given some operator
-A, and a rotation operator R. Some questions:
+You have a 2D vector space with basis {x, y}. You're given some linear operator
+A, and a rotation operator R. If you've forgotten: just like a vector is an
+entity that can be *written* as a sequence of numbers, an operator is an entity
+that can be *written* as a matrix. Confusing the entity and its representation
+is bad for the health.
+
+Some questions:
 
 ---
 
-**Q1.** Given some vector w, which vector is w rotated by R?
+**Q1.** Given some vector w, which vector is *w rotated by R*?
 
   1. Rw
   1. R<sup>-1</sup>w
 
-**Q2.** Which of the following would give you the _representation of w_
-with respect to the basis {Rx, Ry}?
+**Q2.** We want to find the coordinates of w with respect to the axes (Rx, Ry)
+(i.e., the original axes rotated by R). This is equivalent to which of the
+following?
 
-  1. Writing Rw in the original basis.
-  1. Writing R<sup>-1</sup>w in the original basis.
+  1. The coordinates of Rw w.r.t. the original basis.
+  1. The coordinates of R<sup>-1</sup>w w.r.t the original basis.
 
 **Q3.**
 Which operator behaves like A but with respect to basis {Rx, Ry}? For
@@ -61,8 +67,9 @@ example, if A projects onto x, then this operator projects onto Rx.
   4. R<sup>-1</sup>AR
 
 **Q4.**
-Which of these operators, when written in the original basis, will give
-the *representation* of A with respect to {Rx, Ry}?
+We want to find the matrix representing A with respect to the axes (Rx, Ry).
+This is equivalent to the matrix of one of the following operators in the
+original basis. Which one?
 
   1. RA
   2. AR
@@ -75,8 +82,11 @@ the *representation* of A with respect to {Rx, Ry}?
 Rw, by definition.
 
 **A2.**
-R<sup>-1</sup>w. Rotating the axes counterclockwise has the same effect
-as rotating the vector clockwise.
+R<sup>-1</sup>w. 
+
+Rotating the axes or the 'unrotating' the vector will yield the same
+relationship between the vector and the axes, and it is this relationship that
+matters when getting coordinates.
 
 **A3.**
 RAR<sup>-1</sup>.
@@ -84,21 +94,27 @@ RAR<sup>-1</sup>.
 RAR<sup>-1</sup>w = (R(A(R<sup>-1</sup>w))). This has the effect of
 first "unrotating" w, then applying A, and then rotating it back.
 
-For example, if w = Rx then this unrotates it so that w = x, then
-applies the projector A (which is a no-op), and then rotates it back to
-Rx, thus giving us the no-op we wanted in the new basis.
+Let's use the example where A projects onto the x direction. Then the 
+operator we want should project onto Rx. Thus, if applied to Rx itself,
+it should be a no-op.
+
+Let's see what RAR<sup>-1</sup> does to
+Rx. It first unrotates it, to get x. Then it applies A, which is a no-op. 
+Then it rotates it back to Rx. Thus, the whole thing is a no-op, as expected.
 
 **A4.**
 R<sup>-1</sup>AR.
 
-It is slightly harder to give an intuitive answer for this one, but it
-is a good exercise to work the math out for yourself.
+Rotating the axes or 'unrotating' the operator will result in the same
+relationship between the two. Since RAR<sup>-1</sup> rotates the operator,
+R<sup>-1</sup>AR unrotates it (rotates it by R<sup>-1</sup>).
 
-In the following explanation, you must switch from thinking of the
+Nonetheless, maybe you'd like some equations.
+In the following terrible explanation, you must switch from thinking of the
 w, A, and R as vectors and operators, to thinking of them as sequences
 or matrices of numbers (namely, their representations in the original
-basis. Yes, this is a *terrible* idea; don't try this at home).
-Let B be the matrix we are trying to find.
+basis. This is a *terrible* idea; don't try this at home).
+Let B be the matrix we are trying to find. Note that:
 
   * R<sup>-1</sup>Aw can be thought of as either (R<sup>-1</sup>A) applied
 to w in the original basis, or as Aw written in the new basis (per **A2**).
@@ -118,9 +134,11 @@ rotated basis.
 ---
 
 If that was all blindingly obvious to you, good job! I have to plod my
-way through it every time I encounter it, and often lose the plot.
-In a sense there's only one way to go wrong, but there are many places
-you can make that one mistake in a problem like **Q4**.
+way through it every time I encounter it, and often lose the plot. At each step
+there is only one way to go wrong (confusing the entity and its representation)
+but there are a few steps in which you can make the mistake. If you make the
+mistake an even number of times (hopefully zero) you end up with the right
+answer.
 
 Witness Sal Khan confusing it
 [here](https://youtu.be/PiuhTj0zCf4?t=11m42s) (through
@@ -132,49 +150,59 @@ Witness Sal Khan confusing it
 
 On an NYC subway line, there is a local and express version of the
 train. The express train only visits a subset of the stops, except
-late at night, when it makes all stops. This is a partial image of the
-express train schedule:
+late at night, when it makes all stops. The local train always makes all
+stops. This is a partial image of the express train schedule:
 
 <img src="a-train.jpg" width="300" height="300" />
 
 You're waiting at W 4th St and need to get on a train that makes all
-stops. Problem is, you're not sure at what time of night the change
-happens. There's an express train approaching. Is it safe to get on?
+stops. Problem is, you're not sure at what time of night the express train
+makes all stops. There's one approaching now. Can I infer that it is on
+the night schedule?
 
-You're pretty sure you've gotten on during the day at W 4th. Also that
-crescent looks suspiciously like a moon.
-
-**Answer**: During the day it *only* makes black stops, and at night it
-*also* makes crescent stops. So seeing it stop at W 4th is no indication
-of whether it's making local stops yet. Wait for the local train.
+**Answer**: That crescent is a moon. The express always makes black stops, 
+and at night it *also* makes crescent stops. So seeing it stop at W 4th is no 
+indication of whether it's making local stops yet. Wait for the local train.
 
 Alternatively, you might correctly reason that "it *only* makes crescent
 stops at night" (as in "the only time it makes crescent stops is at
-night") but then a few seconds later misinterpret it as "at night it
-*only* makes crescent stops" and thus, since it's stopping at W 4th,
-it's running on the daytime schedule, and therefore it's making only express
-stops, but wait a minute that makes no sense, but what if I'm wrong and
-end up in Harlem.... Also, maybe I should invert my reasoning because
-I'm *not* sure I've gotten on at W 4th during the day, and
-again because the black circles look like a dark sky, oh wait now I
-have four times as many cases to work through....
+night") but then a few seconds later misinterpret that sentence as "at night it
+*only* makes crescent stops." But that makes no sense -- isn't it supposed to 
+make *all* stops at night? Maybe I'm wrong about the crescent. Maybe the dark
+circle means nighttime! So now "it *only* makes dark stops at night." Wait,
+does that mean "at night it *only* makes dark stops?" Maybe it *is* safe to
+get on! Wait, no no, let's start from first principles. During the day, it
+either makes crescent stops, dark stops, or both. Three possibilities. Same for
+at night. Which of those nine combinations fits the constraints I have? ...
 
 Can you imagine being that silly? No?
 
-Well la-di-da, Ms. Fields Medalist.
+Well la-di-da, *Kurt Gödel*.
 
-(Now imagine that this is about something more abstract than trains,
-and somehow you haven't even realized that you have to mentally distinguish
-express *trains* from express *stops*, and there are a dozen **known**
-unknown axes, and yet a dozen _more_ **unknown** unknown ones. Yeah,
-welcome to software.)
 
 ### Conclusion
 
-A lot of mathematical reasoning is not about cleverness, but keeping
-things straight. Even when there are only two things to keep straight,
-it can require careful attention not to bungle it.
+It's a very important skill to be able to keep concepts straight. Often
+it's more important than being clever.
 
-Open question: does getting better at keeping one kind of thing straight
-help you keep other kinds of things straight? How strong is this effect?
-What's the best way to train it?
+Part of the problem in the train case was trying to encode "the only time it 
+makes crescent stops is at night" into the shorter but ambiguous "it only 
+makes crescent stops at night." Ideally you'd mentally model these things in a 
+nonverbal and hard-to-confuse way. You'd reason through it clearly once, and
+then reuse the model you built later.
+
+When learning any new concept, you want to build up a conceptual scaffolding
+early, otherwise you can't make sense of later concepts. But sometimes you need
+those later concepts to choose sensibly between competing mental models. And
+it's hard to keep multiple new models in mind at the same time.
+
+This is made harder by the fact that rarely do [engineers](http://swefordummies.blogspot.com/2018/01/confusing-networking-terminology.html) 
+or [physicists](http://ml4dummies.blogspot.com/2018/01/qm-and-confusing-terminology-redux.html) ensure
+that things are unambiguous. So you're trying to build on a shaky foundation,
+often making the process of learning software or physics exponentially harder
+than it should be. If you're really smart and can detect these inconsistencies,
+or flexible enough to work around them, great. 
+
+But if you're long on pedantic and short on clever, then good luck.
+
+<!-- TODO move the swe / qm posts to github -->
