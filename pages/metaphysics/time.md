@@ -8,8 +8,9 @@ it is no more logical to believe in the past than not: [all attempts to justify
 time end up *presupposing* it in one way or another](past.html). 
 And something with only *circular* justification has *no* justification. 
 Spend as much time as you need
-to convince yourself of this fact: **there is no evidence of a past**, despite
-your mind's valiant attempts to pass off circular evidence as valid.
+to convince yourself of this fact: **there is no evidence of a past** -- unless 
+*for some strange reason* you are willing to overlook the fallacy of circular 
+reasoning just when it suits you.
 
 <img src="https://imgur.com/kojQShk.jpg" width="350" align="middle"
 style="display: block; margin-left: auto; margin-right: auto;"/>
@@ -18,7 +19,8 @@ Okay, well if it is not *logical*, then at least it is *practical*, right? But
 even this conclusion is circular: how can you know whether something is
 *practical* if this is the only moment that exists? You have to *assume* that
 there have been other moments to determine whether the belief has been 
-practical.
+practical. Even ignoring this fact, you have to admit that your conviction goes
+*far deeper* than mere practicality.
 
 Once you really see this, there's not much more you can do than throw your 
 hands up and say "reasoning be damned; it is perfectly sensible to treat time
@@ -31,15 +33,15 @@ come from, if not from logic?
 The next easy answer is that perhaps "my reptilian brain is causing me to do it, 
 and my prefrontal cortex has no say in the matter." This is certainly internally
 consistent: it's evolutionarily advantageous to believe in things that are real,
-so perhaps it's been built deep into our brain structures and beyond our 
-control.
+so perhaps it's been built deep into our brain structures over the millennia
+and is now beyond our control.
 
-While that *could* be true, there is *still* no reason to believe it:
-"I believe in time because time made me do it" is as nonsensical as the rest,
+While that *could* be true, we *still* have no reason to believe it:
+"I believe in time because time made me do it" is as circular as the rest,
 if perhaps more deviously convincing.
 
-It seems that every time we try to answer *why*, our mind produces a satisfying 
-explanation that requires careful consideration to detect as circular. 
+It seems that every time we try to answer *why*, our mind generates another
+circular answer that still somehow pacifies us.
 It is as though the mind is erecting one "Do Not Enter" sign after another to
 dissuade you from peeking behind the curtain. "It's logical." "It's practical."
 "It's inevitable." "*Shut up, we like it!*"
@@ -52,17 +54,35 @@ frameborder="0" allow="autoplay; encrypted-media" allowfullscreen
 style="display: block; margin-left: auto; margin-right: auto;"
 ></iframe>
 
-This analogy goes deeper than you might think, as we shall explore later.
-
-It's a rare individual who cares enough about the truth to actually proceed
-beyond this point. If you're perfectly content with your worldview and would
-rather not rock the boat too much, this is probably a good time to find 
-something better to do. On the other hand, it's probably safe to proceed anyway:
-your mind has a dazzling array of powerful defense mechanisms to protect you 
-from seeing too much, too soon.
-
 Let us forge ahead and discover where our conviction about time really comes 
-from. To do that, we will have to take a whirlwind tour of meditation.
+from. But first, let's take a brief detour into the strange world of abnormal
+psychology.
 
 [>>Next<<](layers-of-mind.html)
 
+<!-- TODO
+
+> “Skepticism, while **logically impeccable**, is **psychologically
+impossible**, and there is an element of frivolous insincerity in any
+philosophy which pretends to accept it.”
+
+> they appear so cold and strange and ridiculous
+that I cannot find in my heart to enter into them any further. Thus the
+skeptic still continues to reason and believe, though he asserts he
+**cannot defend his reason by reason.**
+
+> **We have every
+  right to give high credence to views of the world that are productive
+  and fruitful, in preference to those that would leave us paralyzed
+  with ennui.**”
+
+> *While no great philosopher has explicitly espoused solipsism, this can
+  be attributed to the inconsistency of much philosophical reasoning. Many
+  philosophers have failed to accept the logical consequences of their own
+  most fundamental commitments and preconceptions.*
+
+> However, to deny the existence of the consciousness of a friend to this
+  extent is surely an unnatural attitude, approaching solipsism, and few
+  people, in their hearts, will go along with it.
+
+-->

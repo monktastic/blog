@@ -133,3 +133,12 @@ all the evidence so that you can decide for yourself.
 
 [>>Next<<](quantum-woo.html)
 
+<!-- 
+
+Truman Show effect
+
+I heard 'Well, [he] finally did it, he broke through, I knew he would find the truth at some point. It was good being in his movie, let's all say goodbye to him, he's about to leave us, but watch out, you don't want to go with him now!' The realization that my friends were cardboard cutouts just killed me, I mean I would have been less shocked if my friends had pulled out a pistol right then and there and shot me. It felt like that, but so much worse. I can deal with pain & injury, but not the Ultimate Vision. Damnit, Lady Salvia, why did you have to go and show me that? God, that wasn't cool at all!! 
+
+Oh god, I almost get sick to my stomach recalling this, it was worse than any torture, any kind of bad thing I can imagine, from anal rape to being drawn & quartered to having your fingernails pulled out by the roots. It was beyond the categories of 'good' and 'bad', like I said it was the Real Deal. I know this is part of the bad shit that happens when you die, before your spirit goes back home & everything is good, you have to leave this world behind, and in doing that, you realize that it was all just a dream.
+
+-->

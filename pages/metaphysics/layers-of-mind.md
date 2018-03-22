@@ -42,65 +42,40 @@ style="display: block; margin-left: auto; margin-right: auto;"/>
 
 ---
 
-If you look carefully enough, you will notice that your mind is subtly but
-continually interweaving your metaphysical beliefs and experience of the world.
+If you look *very carefully*, you will discover that you never actually
+experience the passage of time.
+You only ever experience a single moment. Woven into this moment is a bit of
+experience that you *infer* to be "the past." This inference normally happens 
+well beneath the conscious threshold, but it can be made fully conscious.
 
-You assume that sensations must imply objects. There's a flicker of sensation, 
-and you identify it as "foot." Your worldview informs you that it must be "*my* 
-foot," strengthening the certainty in a *self*. This helps you identify the next 
-flicker as "*my* hand." Neither sensation can be separated from the mind itself,
-but you project them externally anyway.
+You *believe* in time because it feels very powerfully like you are 
+*experiencing* time. But it only *feels* that way because this
+inference is happening well beneath your conscious threshold. For this reason
+you assume that the feeling of time passing is happening *to* you, rather than 
+you actively *doing* it. But you *are* doing it -- whether or not you're yet 
+aware of it.
 
-Another flicker, which you identify as a mental impression. You experience it 
-as a "memory" because you believe in time. And because you consider memory to be 
-*evidence* for time, this strengthens your certainty in time. Belief generates
-experience, which generates belief. The snake devours its own tail. Bit by bit
-you build up an entire world.
+I cannot convince you of this, and even if 
+I could, the intellectual understanding would do you very little good.
 
-This process happens so subtly and effortlessly that it escapes your notice.
-By the time you *do* notice your own experience, the narrative has been
-weaved so densely and self-consistently that it appears to you as an objective
-reality. And because it is happening beneath your conscious threshold, you
-are convinced that the whole thing is happening *to* you, rather than you
-*fabricating* it.
+Time is not the only inference you are making. When you hear a sound, that
+sound is occurring *inside* your mind. Experientially, it happens in exactly the
+same place it would if this were a nighttime dream. But you *infer* it to be
+coming from outside your mind, and so it *feels* like the sound is happening
+outside your mind, "over there." Again, it only feels like this because your
+attention isn't precise enough to catch the trick.
 
-But you *are* fabricating it. It's just that you do it in such a subtle and
-clever way that your construction appears as tangible, palpable, externally 
-imposed structures: like a world *out there*. 
+In reality, all you ever experience is your own mind. Through a rapid series
+of subconscious inferences, you project that experience out and think of it as
+"the world out there."
 
-You will never discover the 
-ruse unless your mind becomes extremely clear. Your conscious reasoning process 
-happens at a much higher layer of mind, which is why it has zero insight into 
-how the trick is performed, regardless of your IQ. At best you can use your
-intelligence to aim your introspection in the right direction.
+You (seemingly) experience an objective reality because of a series of 
+inferences. And you strengthen those inferences because you (seemingly) 
+experience an objective reality.
 
-That is why it feels like time is "obvious," when in fact it is anything but.
-
----
-
-It is hard to describe the process (or any "process") without reference to 
-time, which makes it impossible to communicate accurately. How can a snake
-swallow its own tail if time is an illusion it is creating? Nonetheless, it is 
-something that can be experienced directly, and no less accessible in principle 
-than mundane cognitive activity like "I am hungry."
-
-The conclusion may be a bit surprising.
-In a remarkable plot twist, you discover that your metaphysics is not *false,* 
-per se: rather, *it is true because you make it so*.  
-
-This process allows you to blame the whole thing on factors outside your control.
-"This universe has been here for a long time, and is the reason I feel the way
-I do." Any direction you care to look, you find evidence that this isn't just 
-a story, but the Truth. Your own mind has arranged it so that it cannot feel 
-otherwise. This is what causes you to transparently substitute "mind" with 
-"brain" when you read this piece, even though it is most assuredly not what I 
-mean.
-
-All the mind needs is a seed around which to spin a story, and
-it will do all the rest of the work in entrenching it, fleshing out the details,
-and sealing off the exits. Your current story is called "physical reality." 
-Though it is an extremely well woven sweater, you can find threads to pull on
-if you really want.
+What happens when you stop making those
+inferences? As we've already explored, they're not logical to begin with.
+Surely there's no danger in letting go of irrational beliefs?
 
 ---
 
@@ -113,10 +88,10 @@ Instead of answering directly, let's look at some related questions:
 constructing my private reality? I clearly have some freedom to interpret it, 
 but how deep does this freedom go?
 
-* As I discover more and more freedom, won't I become less and less certain
-about externally imposed constraints? If I had *infinite* freedom, wouldn't this
-demolish my belief in an external reality? Wouldn't that be terrifying, and 
-wouldn't that terror limit the degree of freedom I am willing to explore?
+* The more freedom I discover, the fewer external constraints there must be.
+If I had *infinite* freedom, this would demolish my belief in an external 
+reality. That's terrifying. Am I artificially limiting my freedom so as not
+to rock the boat too much?
 
 * Is there any *physical* evidence that "my reality" and "the world out there" 
 are not two separate things? What would such evidence even look like?
@@ -132,7 +107,8 @@ really trying to say.
 
 ---
 
-> The essence of [Buddhism] can be reduced to a single point: The mind is the source of all experience, and by changing the direction of the mind, we can change the quality of everything we experience. When you transform your mind, everything you experience is transformed.  ...  There are truly no limits to the creativity of your mind.
+> The essence of [Buddhism] can be reduced to a single point: The mind is the source of all experience, and by changing the direction of the mind, we can change the quality of everything we experience. When you transform your mind, everything you experience is transformed.  ...  There are truly no limits to 
+  the creativity of your mind.
 >
 > &nbsp;...
 >
@@ -162,6 +138,6 @@ really trying to say.
 
 ---
 
-For now, let us turn our attention to the very reasonable concern of *fear*.
+For now let us turn our attention to the very reasonable concern of *fear*.
 
 [>>Next<<](fear.html)
