@@ -51,9 +51,9 @@ Why do you put yourself through all this? [To learn](www.galactanet.com/oneoff/t
 The Game wouldn't be very much fun if you woke up too quickly, now would
 it? Nor would it be so cool if you remained asleep forever. Luckily, being 
 all-powerful, you planned for these eventualities. You planted ideas like God,
-Buddha, and Universal Love, which, if traced back to their essence with complete 
-sincerity, would draw back the curtains. Failing that, you could simply "turn the 
-light around" and seek the source of the mysterious phenomenon you call 
+Buddha, and Universal Love, which, if followed to their essence with complete 
+sincerity, would draw back the curtains. Failing that, you could simply "turn 
+the light around" and seek the source of the mysterious phenomenon you call 
 "consciousness." If even that is too esoteric, there are still purely rational 
 cues that would help you bootstrap the process.
 
