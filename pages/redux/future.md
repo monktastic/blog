@@ -30,11 +30,14 @@ reasoning, and thus invalid.
 >
 > **A**: Therefore it will continue to be true in the future.
 >
-> **B**: ...because?
+> **B**: ... because?
 >
 > **A**: Duh, because the past is good evidence for the future!
 >
-> **B**: Oh, whew! You scared me for a second.
+> **B**: Oh, whew! You scared me for a second!
+
+<iframe width="560" height="315" align="middle" src="https://www.youtube.com/embed/ivPFlKyeypU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="display: block; margin-left: auto; margin-right: auto;"
+></iframe>
 
 If there is only *circular* justification for the belief that the laws of 
 physics will continue to operate, then there is *no* justification --
@@ -42,13 +45,13 @@ making it precisely as rational (or irrational) as the
 alternative. It is commonly misunderstood to mean "we cannot be *certain* of the 
 future," but it cuts far deeper than that.
 
-> *Many students new to philosophy misinterpret Hume: they think his conclusion is merely that we cannot be *certain* what will happen tomorrow. ...
+> *Many students new to philosophy misinterpret Hume: they think his conclusion is merely that we cannot be **certain** what will happen tomorrow. ...
   [But] if Hume is right, the belief that the sun will rise tomorrow is as unjustified 
    as the belief that a million mile wide bowl of tulips will appear over the horizon 
    instead. We suppose the second belief is insane. But if Hume is correct, the first belief is actually no more rational.
 > ... 
-> *[T]he onus is on these defenders of “common 
-   sense” to show precisely what is wrong with Hume’s argument. No one has 
+> [T]he onus is on these defenders of “common 
+   sense” to show precisely what is wrong with Hume's argument. No one has 
    yet succeeded in doing this (or at least no one has succeeded in 
    convincing a majority of philosophers that they have done so).*
 
@@ -57,10 +60,6 @@ that laws will continue to hold, but this is different from it being justified
 on *logical* grounds. Nonetheless, your mind will continue to believe it has
 justified it: "well it's worked so far, and that's pretty good evidence!"
 
-<iframe width="560" height="315" align="middle" src="https://www.youtube.com/embed/ivPFlKyeypU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="display: block; margin-left: auto; margin-right: auto;"
-></iframe>
-
-   
 > *[Wheeler would] say things like, “In the end, the only law is that
   there is no law.” There’s no ultimate law of physics. All the laws of
   physics are mutable and that mutability itself is a principle of physics. He’d
@@ -76,4 +75,4 @@ justified it: "well it's worked so far, and that's pretty good evidence!"
 > -- Christopher Fuchs, [discussing](https://www.wired.com/2015/06/private-view-quantum-reality/)
  his advisor, physics titan
 > [John Archibald Wheeler](https://en.wikipedia.org/wiki/John_Archibald_Wheeler).
-  
+

@@ -130,11 +130,18 @@ deep aspects of your own mind.
 What does it look like when "your reality has become too real?" Well, consider
 people whose *life mission* is to convince the world that our modern Western
 worldview is basically correct. Would it surprise you to learn that various
-famous science popularizers are known to be very unpleasant in person? This is
-not a dig at them (and I won't share any evidence here, out of respect). Taking 
-your reality too literally also has profound psychological effects, though they
-are usually much more manageable (and socially acceptable) than schizophrenia.
+famous science popularizers are known to be deeply unpersonable? This is
+not a dig at them (and I won't share any evidence here, out of respect). 
+Taking your reality too literally also has profound psychological effects, though 
+they are usually much more manageable (and socially acceptable) than schizophrenia.
 
 There is a way to take your experience very *seriously*, yet not *literally*, 
 but this can only be discovered through practice.
 
+<!-- TODO
+As an aside:
+If you believe in a world whose only ingredients are fundamentally lifeless,
+you should not be surprised if your dream begins to reflect that (for example,
+in the form of a [6th mass extinction](https://www.theguardian.com/environment/2017/jul/10/earths-sixth-mass-extinction-event-already-underway-scientists-warn)). It would also be unwise to point
+fingers (at politicians, executives, ...) when this is *your* dream.
+-->

@@ -59,15 +59,3 @@ But have you ever stopped to consider *why*, exactly, you are so dead certain
 about the nature of time? Has it really earned the undying allegiance
 you have so obsequiously pledged it?
 
-[>>Next<<](time.html)
-
-<!-- TODO
-> By observing the nature of the mind in both its active and passive states, it eventually becomes clear that *all* objects of consciousness are *constructs of the mind*. All we’ve ever known is what the mind itself has produced. The true nature of these mind-made objects of consciousness is simply the nature of mind itself. You may have already grasped this intellectually, but you now experience it directly. True, there may have been some external stimulus that caused your unconscious sub-minds to project a particular object into consciousness, but all we can ever observe is the *mental* object, a *product* of the mind itself—not the source of the original stimulus. To put it another way, the “thing-in-itself” that stimulated the mind to produce the object *can never be observed*. The mind creates its own “reality,” made entirely of cognitive-emotional constructs produced in response to unknown, and ultimately unknowable, forces acting on the mind through the senses.
-
- Furthermore, the perceived appearance of these constructs has far more to do with the nature of the constructing mind than with the actual sources of sensory data. The one thing we can be sure of is that the true nature of that unknown source is quite different from anything the mind projects.”
-...
-
-“It’s especially important not to be deceived by mere intellectual understanding. You may think you “got it” just by reading this description. However, many philosophers and scientists have understood this truth intellectually, but it hasn’t transformed them. We haven’t gotten it until this Insight completely transforms the way we perceive the world—especially during challenging times, like when we’re in an argument with our boss or partner, in a traffic jam, or when our house burns down.”
-
-Excerpt From: Culadasa John Yates. “The Mind Illuminated: A Complete Meditation Guide Integrating Buddhist Wisdom and Brain Science.” iBooks.  
--->
