@@ -48,9 +48,27 @@ Okay, let's begin.
 
 ---
 
-The world [*feels* mundane](mundane.html) because you take it far more literally 
-than you ought to. We're going to challenge those beliefs in ways you're not
-used to, so strap in.
+The world [feels mundane](mundane.html) because you take it far more literally 
+than you ought to. 
+
+If you could perceive the sense in which **this** is the *first* (and possibly 
+*only*) moment of existence, you would be overcome by heartbreaking beauty 
+and dazzling glory literally beyond your wildest imagination. It is beyond your
+imagination because you have chosen to sit boxed in by your views.
+
+The closest you can now get is to imagine it's about "being in the now" or some 
+similarly watered-down concept. But even if you accept the radical notion that
+"it's always now," you are imagining that "now" is an instant that sits between
+a future and past. In that case, *this* clearly isn't the first or only moment. 
+To actually see what the Buddha is pointing to, you have to transcend that 
+entire conceptual structure.
+
+You may discover that it's very hard to transcend. Even before attempting it,
+you will think "I may transcend *my concept* of time, but obviously the *real*
+time will keep operating." This is a bit like "sure, I could stop *believing*
+in Santa Claus, but obviously he'll keep working."
+
+---
 
 [We cannot say it is "likely" that the past really happened](past.html).
 Similarly, it is not "unlikely" that it all popped into existence just now. 
@@ -105,7 +123,8 @@ worldview -- you will be confronted with a choice: do I insist that the mundane
 explanation is sufficient, or do I relax and remember that those beliefs are
 unjustified?
 
-However you respond, the dream will respond in kind.
+Consider the possibility that how you respond will affect the evolution of the
+dream.
 
 ---
 

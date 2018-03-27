@@ -68,9 +68,7 @@ lost in translation into our unprepared minds, and *nothing could be scarier*.
 > 
 > *Oh god, I almost get sick to my stomach recalling this, it was worse than any torture, any kind of bad thing I can imagine, from anal rape to being drawn & quartered to having your fingernails pulled out by the roots. It was beyond the catagories of 'good' and 'bad', like I said it was the Real Deal. I know this is part of the bad shit that happens when you die ... you realize that is was all just a dream.*
 
-This one is called the [Truman Show delusion](https://en.wikipedia.org/wiki/The_Truman_Show_delusion), and just like in that movie, you will
-find that your mind produces increasingly difficult obstacles the harder you 
-try to bludgeon your way into the truth. Please don't do that.
+This one is called the [Truman Show delusion](https://en.wikipedia.org/wiki/The_Truman_Show_delusion).
 
 <iframe width="560" height="315" align="middle" src="https://www.youtube.com/embed/u-ApxFOpl28" 
 frameborder="0" allow="autoplay; encrypted-media" allowfullscreen
@@ -132,8 +130,9 @@ people whose *life mission* is to convince the world that our modern Western
 worldview is basically correct. Would it surprise you to learn that various
 famous science popularizers are known to be deeply unpersonable? This is
 not a dig at them (and I won't share any evidence here, out of respect). 
-Taking your reality too literally also has profound psychological effects, though 
-they are usually much more manageable (and socially acceptable) than schizophrenia.
+Taking your reality too literally has its own profound psychological effects, 
+though they are usually much more manageable (and socially acceptable) than 
+schizophrenia.
 
 There is a way to take your experience very *seriously*, yet not *literally*, 
 but this can only be discovered through practice.
