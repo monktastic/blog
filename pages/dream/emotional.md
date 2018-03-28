@@ -61,25 +61,18 @@ way to distinguish between the scenarios by collecting new data." No evidence
 can tell a real past from a fake one.
 
 Suppose you *strongly believe* that the coin is a quarter. If you didn't form
-this belief from *evidence*, where did this bias come from? It can only come from your "prior credence" (a technical term in
-[Bayesian statistics](https://en.wikipedia.org/wiki/Bayesian_statistics). 
-In other words, you are free to say "well I just *assume* it is a quarter, 
-because otherwise I'd be paralyzed with ennui!" or "a real past is more likely
-because I said so."
+this belief from *evidence*, where did this bias come from? It can only come 
+from your "prior credence" (a technical term in
+[Bayesian statistics](https://en.wikipedia.org/wiki/Bayesian_statistics)). 
+In other words, if you can't rely on evidence, you should feel free to say 
+"well I just *assume* it is a quarter, because otherwise I'd be paralyzed with 
+ennui!" or "a real past is more likely because WTF."
 
-<!--
-If evidence cannot differentiate the cases
--->
-
-Notice that once you've done this, it is all too easy to seemingly
-justify your assumption. "Oh, it came up heads? That's exactly what a quarter
-would do!" "It came up heads a *thousand times?* Now we can be *totally* sure!" 
-The penny quickly becomes a distant, irrelevant memory.
-
-You are biased toward it and then continually strengthen that bias. *Of course*
-it feels incontrovertible. (On the other hand, if there's really no *time*, then you
-cannot "continually" do anything. Nonetheless, it is a pretty good analogy for
-what's actually happening.)
+Notice that once you've done this, every bit of evidence *seems* to justify
+your assumption. "Oh, it came up heads? That's exactly what a quarter
+would do! It came up heads a *thousand times?* Now we can be *totally* sure!" 
+Similarly, "this picture is *obviously* evidence of a real past." It's not, but
+it's very easy to overlook that fact.
 
 ---
 

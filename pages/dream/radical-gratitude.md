@@ -1,0 +1,26 @@
+
+From [David Godman](http://davidgodman.org/interviews/al4.shtml), biographer of 
+Indian sage [Ramana Maharshi](https://en.wikipedia.org/wiki/Ramana_Maharshi).
+
+The religious language will grate on some people. Nonetheless, this perspective
+can be immensely useful. 
+
+---
+
+We all think that we are in charge of our lives, that we are responsible for our well-being and the well-being of our dependents. We might acknowledge at a theoretical level that God is in charge of the world, that God does everything, but that doesn’t stop us planning and scheming and doing. Sometimes, we find something we can’t control – a child may be dying of leukemia despite the best medical treatment – so we turn to God and ask for divine intervention. This is not surrender; it’s just more doing. It’s seeking an extra resource when all the traditional ones have failed. 
+
+Surrender is different. It’s acknowledging that God runs the world every minute of every day, that He is not just an extra resource, a deus ex machina that one turns to in times of need. Surrender is not asking that things be different; it is acceptance and gratitude for things being the way they are. It’s not a grit-your-teeth stoicism either; it’s the experience of joy in God’s dispensation, whatever it might be. 
+
+About twenty years ago I read a Christian book entitled Thank You God. Its basic thesis was that one should continuously thank God for the way things are right now, not petition Him for things to be different. That means thanking Him for all the terrible things that are going on in your life, not just thanking Him for the good stuff that is coming your way. And this should not just be at the verbal level. One needs to keep saying ‘Thank you, God’ to oneself until one actually feels a glow of gratitude. When this happens, there are remarkable and unexpected consequences. Let me give you an example. 
+
+There was a woman featured in this book whose husband was an alcoholic. She had organised prayer meetings at her local church in which everyone had prayed to God, asking Him to stop this man from drinking. Nothing happened. Then this woman heard about ‘Thank you, God’. She thought, ‘Well. Nothing else has worked. Let me try this.’ She started saying, ‘Thank you God for making my husband an alcoholic,’ and she kept on saying it until she actually began to feel gratitude inside. Shortly afterwards, her husband stopped drinking of his own accord and never touched alcohol again. 
+
+This is surrender. It’s not saying, ‘Excuse me God, but I know better than You, so would You please make this happen’. It’s acknowledging, ‘The world is the way You want it to be, and I thank You for it’.
+
+When this happens in your life, seemingly miraculous things start happening around you. The power of your own surrender, your own gratitude, actually changes the things around you. When I first read about this, I thought, ‘This is weird, but it just might work. Let me try it.’ At that point in my life, I had been having problems with four or five people whom I was trying to do business with. Despite daily reminders, they were not doing things they had promised to do. I sat down and started saying ‘Thank you Mr X for not doing this job. Thank you Mr Y for trying to cheat me on that last deal we did,’ and so on. I did this for a couple of hours until I finally did feel a strong sense of gratitude towards these people. When their image came up in my mind, I didn’t remember all the frustrations I had experienced in dealing with them. I just had an image of them in my mind towards which I felt gratitude and acceptance.
+
+The next morning, when I went to work, all of these people were waiting for me. Usually, I had to go hunting for them in order to listen to their latest excuse. All of them were smiling, and all of them had done the jobs I had been pestering them for days to do. It was an astonishing testimonial to the power of loving acceptance. Like everyone else, I am still stuck in the world of doing-doing-doing, but when all my misguided doings have produced an intractable mess, I try to drop my belief that ‘I’ have to do something to solve this problem, and start thanking God for the mess I have made for myself. A few minutes of this is usually enough to resolve the thorniest of problems. 
+
+When I was sixteen, I took a gliding course. The first time I was given the controls, the glider was wobbling all over the place because I was reacting, or I should say overreacting, to every minor fluctuation of the machine. Finally, the instructor took the controls away from me and said ‘Watch this’. He put the glider on a level flight, put the controls in the central position and then let go of them. The glider flew itself, with no wobbles at all, with no one’s hands on the controls. All my effects were just interfering with the glider’s natural ability to fly itself. That’s how life is for all of us. We persist in thinking that we have to ‘do’ things, but all our doings merely create problems. 
+
+I am not claiming that I have learned to take my hand off the controls of life and let God pilot my life for me, but I do remember all this, with wry amusement, when problems (all self-inflicted, of course) suddenly appear. 

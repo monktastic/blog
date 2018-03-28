@@ -1,21 +1,22 @@
 ---
 layout: page
-title: Consciousness
+title: Consciousness as the ontological primitive
 description:
 ---
 
-The word "consciousness" is heavily overloaded. Here we will outline an 
-experiential process intended to point you toward one useful interpretation. 
-To do so, we will need to use poetic language. Ignore the literal meaning of 
-the words here, and allow them to be pointers to your own experience.
+The word "consciousness" is heavily overloaded. Here we will try to
+outline an experiential process intended to point you toward
+one very useful interpretation. To do so, we will need to use poetic
+language. Ignore the literal meaning of the words here, and allow them
+to be pointers to your own experience.
 
 ---
 
 Silence is the absence of sound. Now, pay attention to any particular sound in
-your environment, and recognize it as the *presence* of sound. "A sound" is some
+your environment, and recognize it as the presence of sound. "A sound" is some
 particular presence of sound.
 
-Close your eyes and notice a (relative) absence of light/color. Now look at
+Now close your eyes and notice a (relative) absence of light/color. Now look at
 something, and recognize it as the presence of color.
 
 You can do the same thing with your other senses. Compare the presence of a
@@ -27,7 +28,7 @@ sights, sounds, etc.).
 
 The senses are all different *modes* of presence, but what they have in common is
 *presence itself*. Spend a minute and see if you can intuit what I might mean when
-I say that presence is the very "fabric" out of which all experiences are made.
+I say that presence is the very "stuff" out of which all experiences are made.
 Presence, modulated in various ways, is the sole substance of your perceived
 world. Really take a moment and notice this.
 
@@ -57,14 +58,10 @@ though it has always seemed like it due to unexamined conceptualization.
 Instead, this shimmering show you call "life" or "reality" is entirely made of
 consciousness -- merely experiencing or illuminating itself.
 
-You do not have consciousness. Consciousness sometimes has the illusion of a
-"you."
-
 So now what do you do with a belief like "consciousness exists" or
 "consciousness does not exist?" You discover, directly, that those beliefs are
 made of the very "stuff" they are questioning. Even the concept of "exists" or
-"real" are made of it. Any answer you might muster is also it. This show
-is all consciousness, all the time.
+"real" are made of it. Any answer you might muster is also it.
 
 The sweater begins to unravel. A remarkable charade is exposed.
 
@@ -78,8 +75,8 @@ You really must see it for yourself.
 
 Remarkably, during this model-building phase, consciousness brilliantly hides
 itself from itself, taking on fiendishly clever forms such as "the stuff of the
-world (aka matter) is all that *really* exists; consciousness is just an
-illusion!" And like a snake eating its own tail... poof!, the sole substance of
+world (aka matter) is all that really exists; consciousness is just an
+illusion." And like a snake eating its own tail... poof!, the sole substance of
 your reality seemingly vanishes into itself.
 
 But it's always hiding in plain sight. It is what the Tibetans call
@@ -87,8 +84,6 @@ But it's always hiding in plain sight. It is what the Tibetans call
 from you. It is everything. Yet somehow you are continually hiding it from
 yourself. This game of hide-and-seek is known as Awakening, and they say it can
 go on for as many cycles (lifetimes) as you wish.
-
-Sooner or later, it always rediscovers itself.
 
 > So close you can't see it
 >
@@ -99,4 +94,11 @@ Sooner or later, it always rediscovers itself.
 > So good you can't accept it
 >
 > -- Tibetan Buddhist saying
+
+It would be premature to conclude that consciousness is real while everything
+else isn't. But, being the very fabric from which your beliefs are made, it is a
+good place to hunt for the thread that unravels it all. Especially because,
+as we saw, you really have
+[no good reason to believe in anything else](radical-skepticism.html).
+
 

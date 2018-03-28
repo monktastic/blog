@@ -4,7 +4,7 @@ Buddhist teacher Rob Burbea:
 
 ---
 
-Two quotes from Tsoknyi Rinpoche:
+Dzogchen Buddhist teacher Tsoknyi Rinpoche:
 
 > Most people can give up the past. Some people are able to give up the future too. But rare are those who can give up the present.
 
