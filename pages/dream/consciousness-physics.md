@@ -76,11 +76,9 @@ Instead, treat this as a riddle:
 
 What is it? Careful: don't use your words.
 
----
 
-Next up: why you are not, in fact conscious, and I've been lying.
-
-[>>Next<<](consciousness.html)
+(At this point I should come clean and admit that you cannot really know that
+you're conscious. All you can know is that [consciousness IS](consciousness.html).)
 
 ---
 

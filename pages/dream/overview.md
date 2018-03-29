@@ -1,21 +1,29 @@
 
-Look around. What you call "physical reality" is actually a dream. It is
-possible to ascertain this beyond any reasonable doubt. Unfortunately you are 
-currently faced with a chicken-and-egg problem: until you see good evidence for 
-this claim, you won't put in enough effort to validate it; on the other hand,
-no evidence will be forthcoming while you so strenuously constrain the dream to 
-mundanity.
+> *"I am awake"* -- The Buddha
+
+---
+
+Look around. What you call "physical reality" is actually a dream. Contrary to
+contemporary understanding, it *is* possible to ascertain this beyond any doubt.
+The chief obstacle is a sort of chicken-and-egg problem: until you see good
+evidence for the claim, you won't put in enough effort to validate it; on the
+other hand, almost no evidence will be forthcoming because you are perpetually
+engaged in an effort to constrain the dream to apparent normalcy. Ironically,
+this effort succeeds precisely *because* it is your dream.
 
 In a nighttime dream, it is possible to wake up *into* the dream (known as
-"lucid dreaming"). With considerable practice, it becomes possible to unravel 
-the dream like a sweater, discovering very precisely how every little detail is 
-constructed.
-It is also possible to *reconstruct* the dream as you see fit, and then to fall
-back asleep *into* it, mostly forgetting the truth, so that you can become 
-really engrossed in the drama. It really is a fiendishly clever process.
+*lucid dreaming*). With considerable practice, it becomes possible to unravel
+the dream like a sweater, discovering very precisely how *every little detail* 
+is constructed. It is also possible to *reconstruct* the dream as you see fit,
+and then to fall back asleep *into* it, mostly forgetting the truth, so that you
+can become deeply engrossed in the drama. The fiendish cleverness of this
+process is impossible to communicate.
 
-The same is true for the "waking dream," which is where you find yourself now.
-You are the Buddha trying to wake up.
+The same goes for the "waking dream," but on a *much* grander scale. Asleep
+in that dream is where you find yourself now. You are the Buddha trying to 
+remember how to wake up, but mostly looking in all the wrong places. You 
+investigate the "physical world" to explain its own operation, but this works 
+no better than it could at night.
 
 I would be lying if I said I could show you the Full Monty. Nonetheless, I
 might be able to at least help you notice the mechanism that keeps you asleep.
@@ -25,29 +33,30 @@ Whether you choose to follow up beyond that is up to you.
 
 ---
 
-Your mind is made up of many layers. Near the surface are layers that give rise
-to your coarse thoughts, memories, sensations, and personality. Much deeper
-layers give rise to your metaphysical beliefs (i.e., beliefs about the nature
-of reality), and deeper still, to the behaviors you think of as "physics." 
-Notice that I use the word "mind," as "brain" refers to an illusory dream object 
-(whose behavior you have chosen to closely correlate with mental activity).
+The mind is made up of many layers. Near the surface are layers that give rise
+to your thoughts, memories, sensations, personality, etc. Deeper layers give
+rise to your metaphysical beliefs (i.e., beliefs about the nature
+of reality), and deeper still, to the patterns you think of as "physics."
+Notice that I use the word "mind," as "brain" refers to an illusory dream
+object. Nonetheless, whenever I say "mind" you will instinctively *assume* 
+"brain." This effortless conflation is itself a hint.
 
-The layers that give rise to physics are close to what mystics call "God."
-Until you are fully awake, it can be beneficial to think of this as an entity
-distinct from yourself, because those layers are *far* outside your current 
-conscious access. Access can be achieved via something that I'm 
+The layers that generate physics are close to what mystics call "God." As long
+those layers are far beyond your conscious access, it can indeed be beneficial
+to think of this as an entity distinct from yourself. Access can be achieved 
+via something that I'm
 perfectly happy to think of as "prayer" (though it scarcely matches the
 traditional definition of the word). It involves *releasing* irrational beliefs, 
 rather than adding new ones. There is also an emotional component involved.
 
 The general idea is this: by questioning your beliefs in just the right way,
-you can temporarily slice through the illusion. This incision can penetrate
+you may temporarily slice through the illusion. Proper incision can penetrate
 deep layers of mind, allowing for subtle shifts in the dream's dynamics. These
-shifts may not be consciously noticeable until they accumulate. Once they 
-become detectable, there's a very high probability that you will write them off 
-as coincidence, thereby sealing the dream back up. You do this to forestall the 
-potentially terrifying realization that this has all been a dream -- but this 
-terror stems from a profound misunderstanding.
+shifts may not be consciously noticeable until they accumulate. Once they do
+become detectable, there's still a very high probability that you will write 
+them off as coincidence, thereby sealing the dream back up. You do this to 
+forestall the potentially terrifying realization that this has all been a dream 
+-- but this terror stems from a profound misunderstanding.
 
 If you're serious about this, you'll have to become acutely aware of the knee-jerk
 response you have to stuff every little thing into your worldview. It operates
@@ -157,13 +166,17 @@ the fear results from a misunderstanding.
 
 In a nighttime dream, the character walking around *in* the dream may have 
 entirely different memories and personality than the one who fell asleep and *is
-dreaming*. In one sense, they are different people, but in another sense, they 
-are the *same* person. If someone walks up to the dream character and says "you 
-are dreaming," it would be wrong for the *character* to interpret this as *she*
-is dreaming. The information has to somehow reach the *dreamer*, who is, after
-all, the one looking through the character's eyes. In fact, it is the dreamer's
-mind that is manifesting as the entire dream -- other characters included. The
-dreamer is trying to wake *herself* up via the dream.
+dreaming*. 
+
+In a nighttime dream, you embody a dream character. It is not the *character*
+who is dreaming, but you. The character would be right to say "I am not the
+dreamer." And yet, in another sense, he would be wrong: if he searches for 
+the source of his thoughts, the *referent* of that sense "I," he will 
+rediscover the dreamer. Or rather, the dreamer will rediscover himself. The
+dreamer take the perspective of the character, but the whole dream is a
+manifestation of the dreamer's mind.
+
+
 
 Similarly, to properly understand how "you" are dreaming, you must stop
 pretending to be the dream character. This is called transcending the ego.
@@ -208,10 +221,15 @@ dream's true nature, brightening it in the process. If you like to think of the
 dream as having a purpose, this is probably it.
 
 ---
+
+There's not much more for me to share right now. The rest you will have to do
+by yourself (or with friends and mentors). Remember, most of all, that it would
+be foolish to take the world around you as evidence that it is *not* a dream.
+
 ---
 
-* It is useful to reflect on the fact that what you call "the world" is made
-entirely of [your mind](nature-of-mind.html). It is even more useful to
+* It is useful to reflect on the fact that [what you call "the world" is made
+entirely of your mind](nature-of-mind.html). It is even more useful to
 experience that insight directly.
 
 * For a more poetic version of the above, which you may find a useful exercise,
@@ -227,4 +245,9 @@ relevant.
 
 * Quotes on [radical gratitude](radical-gratitude.html) and 
 [radical self-love](radical-self-love.html). What makes them radical is that
-you apply them even (in fact, especially) when it seems absurd.
+you apply them even when (in fact, *especially* when) it seems absurd. Also 
+incredibly useful are radical forgiveness, generosity, and kindness. Practice 
+this on your friends and family, and then branch out. Override your instinct 
+at every turn.
+
+* You might like to read my argument that [consciousness is not physical](consciousness-physics.html).
