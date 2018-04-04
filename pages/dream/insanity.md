@@ -7,9 +7,9 @@ title: Fear
 
 ---
 
-[Alan Wallace, Buddhist teacher and former translator for the Dalai Lama](http://realitysandwich.com/150759/daytime_practices_dream_yoga/):
+[Buddhist master Padmasambhava](http://realitysandwich.com/150759/daytime_practices_dream_yoga/):
 
-> Padmasambhava gives us the essential, specific instruction for daytime dream yoga practice: "At this time, powerfully imagine that your environment, city, house, companions, conversation, and all activities are a dream; and even say out loud, This is a dream.' Continually imagine that this is just a dream." 
+> *At this time, powerfully imagine that your environment, city, house, companions, conversation, and all activities are a dream; and even say out loud, 'This is a dream.' Continually imagine that this is just a dream.*
 
 [Mayo Clinic](https://www.mayoclinic.org/diseases-conditions/depersonalization-derealization-disorder/symptoms-causes/syc-20352911):
 

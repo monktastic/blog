@@ -2,10 +2,6 @@
 ---
 
 
-
----
-
-
 > What is that by which 
 >
 > You know that you exist and by which 
@@ -22,6 +18,7 @@
 >
 > -- Wu Hsin
 
+---
 
 > Most come to Wu Hsin only to 
 >

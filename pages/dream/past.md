@@ -13,8 +13,8 @@ population that 'remembered' a wholly unreal past.*
 
 Forget "five minutes ago"; there's no way to prove that it didn't all just
 spring into being *now*, with all the apparent evidence for a past (including
-the objects and people around you, your memories, etc.) having been
-manufactured on the spot.
+the objects and people around you, your memories, pictures from "yesterday", 
+etc.) having been manufactured on the spot.
 
 The first thing that will happen is you will think "well sure there's no way
 to *prove* it, but that's obviously very unlikely."
@@ -24,7 +24,7 @@ How can well tell if it's likely or unlikely? Let's try various things.
 * The laws of physics suggest it's extraordinarily unlikely.
 
 The laws that were proven in the past and that you learned in the past? That's
-circular reasoning. Those are just memories you have now.
+circular reasoning.
 
 * Occam's Razor suggests that the simplest solution is best, and a real
 past is simpler.
@@ -55,10 +55,9 @@ there is no justification at all. How can you say that something is "very
 likely" when you have no logical justification for it?
 
 It is not "rational" to believe in time. You might argue that it's rational
-because *believing* leads to better outcomes than *not believing*, but then
-maybe it's also "rational" to believe in the Flying Spaghetti Monster. The
-truth is that these things are not based in reason, no matter how much it feels
-like they are.
+because *believing* leads to better outcomes than *not believing*, but that's
+just saying that it's *practical*. It is not grounded in *reason*, though it
+certainly feels that way.
 
 It may be *comfortable* or *convenient* to believe in the past, but that has
 nothing to do with it being *likely* or *rational*.

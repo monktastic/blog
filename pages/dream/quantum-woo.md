@@ -4,210 +4,91 @@ title: Quantum woo
 description:
 ---
 
-### Summary
+### Preface
 
-If quantum mechanics is interpreted with as few extraneous assumptions as
-possible, then in a *physically verifiable sense*, you are the sole observer in 
-your world. This is a straightforward result. Nonetheless, it is extremely 
-psychologically challenging, so feel free to label it "quantum woo."
+I am not a physicist, but a software engineer who has some training in quantum
+information science. I am far from being an expert, but I can tell you a bit
+about density operators on Hilbert space (which is about all the math you'd need
+to work this all out yourself). Everything I say in the main section here is,
+to the best of my knowledge, accurate and reasonably well-accepted[9]. There
+are mathematical footnotes if you feel like going deeper.
 
-It's very hard to do justice to this argument in a short space, and to write it
-for people of hugely varied backgrounds, but I'm going to try. 
-I will out of necessity have to gloss over some details. I will try to
-be clear about which parts are well-accepted and which are not.
-A slightly richer version of this piece (with some math in the footnotes)
-can be found [here](pick-your-poison.html).
-
-**Caveat**: I am not a physicist. Nonetheless, I can tell you a bit about 
-density operators on Hilbert space, which is all that is needed to work out
-the math yourself. Also, I've run this by enough physicists to confirm this 
-conclusion:
-
-> *I suspect that a substantial majority of physicists who use quantum
-  mechanics in their everyday work are uninterested in or downright
-  hostile to attempts to understand the quantum measurement problem.*
->
-> &nbsp;
->
-> -- [Caltech physicist] Sean Carroll
-
-I hope to help you appreciate the source of that hostility.
+As this piece is part of a series on metaphysical idealism, I will make some
+interpretations that may be hard to swallow. That section is indicated as
+speculation.
 
 ---
-
-In quantum mechanics, physical objects have properties that we describe by
-states. In the most commonly presented formulation, there are two rules 
-according to which a quantum state can evolve over time. Don't worry if you 
-don't understand all the words yet:
-
-1. Normally, the state faithfully evolves according to Schrödinger'ss
-equation, following linear, deterministic dynamics.
-
-2. When the state is "measured," it seems to instantaneously and randomly jump
-("collapse") to a state where it either definitely does or does not have the 
-property being measured. The probabilities depend on the state just before 
-measurement.
-
-Let's ignore rule (2) for now. As we shall see, it exists only
-to make sense of our perceived experience, as opposed to having a physical
-justification. Very few modern physicists believe that it should even be a
-rule[10].
 
 In a "Schrödinger's Cat"-style experiment, there is a radioactive particle that 
-might or might not decay. At first, *both* possibilities exist 
-together in a *superposition*. It triggers (or does not) a device, which then 
-kills (or does not) a cat. Now the particle, device, and 
-cat are *together* in a superposition. As long as the system obeys (1), both 
-"branches" of the experiment remain, with more and more objects joining the
-superposition as they encounter the experiment.
+does or does not decay. *Both* possibilities exist together in a 
+*superposition*. It triggers (or does not) a device, which then kills (or does 
+not) a cat. Now the particle, device, and cat are *together* in a superposition.
+As more pieces of the world (including people) encounter the system, they too 
+join the superposition. You can think of the experiment as having two 
+"branches," corresponding to the two possible outcomes. 
 
-If we wanted to *experimentally confirm* that such a large macroscopic system 
-is in a superposition, it would be nearly impossible. We normally do this via an
-interference experiment, but doing that requires careful control of all
-particles involved[5]. For most large experiments, this is way beyond our 
-reach[4]. This is known as *decoherence*. It is a *practical* limitation, 
-not a *theoretical* one[1]. Decoherence says it is *hard* to demonstrate the
-superposition, not that there *isn't* one.
+When the experiment is still at the single-particle stage, it is easy to demonstrate
+the superposition (via an *interference experiment*). Doing so requires precise
+control of *all* involved particles. As the experiment grows to involve more
+objects, this quickly becomes impossible *in practice* (a fact known as
+*decoherence*), but crucially, as far as we know, it never becomes impossible
+*in theory*[0][1]. It remains in superposition. You cannot say that the cat has
+a well-defined fate, because the right experiment would give lie to that claim.
 
-**This is where most people lose the plot.**
+Yet when *you* encounter the system[2], you never *see* a superposition -- 
+whatever that would mean. You always see one result or the other. Now, the cat 
+*does* have a single well-defined fate. This is also the first time it has a 
+well-defined *history*: one second ago, you couldn't say "the cat is dead," but 
+now you *can* say "one second ago, the cat was dead"[3]. To put that in slightly
+different wording: one second ago the cat wasn't dead, but now, one second ago
+it was dead.
 
-It is very easy to fall prey to sloppy thinking and say "oh, because of 
-decoherence, the cat has a well-defined fate, even if we don't know what it is."
-But that is *not* what the theory predicts. It says that the cat does *not*
-have a well-defined fate, because we can *in principle* still do an interference
-experiment and demonstrate it. And this ought to be true even if your friend has 
-already seen the result (but crucially, *you* have not encountered the 
-ever-expanding system).
+This isn't just a matter of interpretation, either; it has physical 
+consequences. At this point it is impossible *even in theory* for you -- *or 
+anyone else* -- to demonstrate superposition[4]. Again, this happens precisely 
+when *you* encounter it.
 
-Now, once *you* see a dead cat, presumably you *are* entitled to say that the 
-cat has a well-defined fate. So the question is: when did this fate come into 
-being?
+Why doesn't this weird everyone out[5]? Because there are a few places it is 
+easy to hide the weirdness.
 
-There are only two possibilities. Either the state "collapsed" somewhere
-(and it became impossible *in principle* to do an interference experiment) 
-before you saw it, or else **your encountering the experiment is the *first* 
-moment the cat has a well-defined fate**. This is logically inescapable[8].
+First, because of decoherence, it's easy to pretend that the superposition
+disappeared early on, long before it got to you. Even if you accept that
+decoherence doesn't solve it[6], it's easy to say "well *something* must have
+ended the superposition somehow, somewhere, somewhen, because otherwise WTF."
+In fact, this is roughly called the Copenhagen Interpretation, and it has been
+the party line for over a century[7].
 
-Obviously nobody would like to believe that they are the sole observer in their
-reality. Instead, most physicists throughout history have adopted the
-"Copenhagen Interpretation." Roughly, it says "dude, a 'collapse' *must* have 
-happened, somewhere, somewhen, somehow, because otherwise WTF." Hence 
-the invention of magical rule (2). This is good enough for practical purposes, 
-but it doesn't touch the fundamental issue.
+Second, if we look at this from a "God's-eye perspective," then all that really
+happened was that *you* joined the superposition. Both branches still exist,
+with one "copy" of you seeing each result. This is basically the Many Worlds 
+Interpretation. While God may not find any of this strange, it doesn't make the 
+situation any less weird for *you.*
 
-> *I think Copenhagen is completely ill-defined, and shouldn't be the favorite anything of any thoughtful person*
->
-> &nbsp;
->
-> -- Sean Carroll
-
-As the noose has been tightened on the "collapse" hypothesis over the decades,
-many have jumped ship to the "Many Worlds Interpretation" (MWI). There are
-many different formulations of it, but in essence what it says is: from a
-God's-eye perspective, when *you* encounter the system, you also join the 
-superposition. Therefore, properly speaking, the cat *still* does not 
-have a well-defined fate after you see it. Instead, there are now two "copies" 
-of you (one in each "branch" or "world"), with each one seeing the corresponding 
-result.
-
-Crisis averted, right?
-
-Not quite. **This is where most of the rest seem to lose the plot.**
-
-Consider how things look for "one copy of you" -- henceforth, just "you," since
-you conveniently happen to *be* just "one copy of you." Unless you are 
-willing to face a decomposing cat and say "nope, not really dead," there 
-obviously *is* a meaningful sense in which it has a well-defined fate.
-
-Once you confront this, the natural thing to do is to backtrack and say "maybe 
-it already *had* a fate which you just *learned*." But that would be discarding 
-what we have taken great pains to establish: *standard QM without collapse 
-predicts that it did not have one* (and experiment confirms this in smaller
-but ever-growing setups).
-
-It may be true that from "God's" perspective, you are not special. But from
-*your* perspective, you are always the only observer in the world.
+From your perspective, you seem to be the sole "observer." In an interesting
+sense, this is *your* world[8].
 
 ---
 
-To be clear, I'm sure few physicists really like the above conclusion. And yet
-if you carefully follow the bread crumbs, it's pretty hard to avoid. The other
-possibility is that QM is wrong, but very few physicists believe that[11].
+### Some speculation
 
-Eugene Wigner was (in)famous for his interpretation that conscious beings
-cause collapse[6], but we can see that he perhaps did it to avoid this more 
-troubling conclusion (in 1967):
+Everything I've said above is, to the best of my knowledge, accurate and
+reasonably well-accepted[9]. Now for some speculation.
 
-> *This [reduction of the quantum state] takes place whenever the result
-  of an observation enters the
-  consciousness of the observer - or, to be even more painfully precise,
-  my own consciousness, since I am the only observer, all other people
-  being only subjects of my observations.*
->
-> &nbsp; ...
->
-> *However, to deny the existence of the consciousness of a friend to this
-  extent is surely an unnatural attitude, approaching solipsism, and few
-  people, in their hearts, will go along with it.*
+Physicists tend to hate attempted associations between QM and consciousness,
+but this is a good time to point something out. This whole problem exists 
+because you "see" only one result. If you try to pin down what it means to "see" 
+a result, you will discover yourself closing in on what it means to be 
+*conscious* of that result. In this sense, the problem *is* intimately linked 
+to consciousness[10].
 
-It seems we've known this for many decades, but it's obviously very hard to
-swallow.
-
-> *While no great philosopher has explicitly espoused solipsism, this can
-be attributed to the inconsistency of much philosophical reasoning. Many
-philosophers have failed to accept the logical consequences of their own
-most fundamental commitments and preconceptions.*
->
-> &nbsp;
->
-> [Solipsism and the Problem of Other Minds](http://www.iep.utm.edu/solipsis/)
-
-I think you can replace "philosopher" with "physicist" and it
-is still true. Luckily, solipsism isn't the only possible answer. There are
-other forms of idealism that can work, but we will get to those later.
-
----
-
-### Consciousness
-
-There is nothing physicists hate more than people believing that consciousness
-is somehow relevant for QM. While this is totally understandable, I'd like to
-share why I think this is folly.
-
-As the above reasoning shows, we must treat the system as evolving according
-to rule (1) until it "collapses," but we have no reason to believe that it 
-really *does* collapse. All we know is that there is an *upper bound* on when I 
-must stop saying that there is no well-defined result: in particular, it would
-be nonsensical for me to say that there is no result after I see it.
- 
-If you try to pin down what you *mean* by "I see it," you will find yourself 
-trying to make precise what it means to experience or become conscious of a 
-result[7].
-
-Why on earth should something as ill-defined as "my consciousness" serve as an 
-upper bound on the reality of a cat's fate in "my world" -- as well as an
-infinitude of other quantum events going on around me all the time? That's 
-obviously nonsense, but until we confront it more honestly, we will continue 
-to be perplexed. 
-
-> *For quantum mechanics, all we really have to do (most people believe) is think about it in the right way. No elaborate experiments necessarily required (although they could help nudge us in the right direction, no doubt about that). But if anything, that makes the embarrassment more acute. All we have to do is wrap our brains around the issue, and yet we’ve failed to do so.*
->
-> &nbsp;
->
-> -- Sean Carroll
-
-On the other hand, given that what you call "the world" is literally [made of
-consciousness](consciousness.html), maybe it isn't so strange after all that
-this is the first place the world becomes real.
-
----
+It seems I am not the only one who thinks so:
 
 > *I’m not going to attempt to define consciousness, in a way that’s connected
 with the fact that I don’t believe it will become part of physics. And that
 has to do, I think, with the mysteries that bother a lot of people about quantum
 mechanics and its applications to the universe.*
 >
-> &nbsp; ...
+> &nbsp;...
 >
 > *Quantum mechanics kind of has an all-embracing property, that to completely make
 sense it has to be applied to everything in sight, including ultimately, the
@@ -221,93 +102,179 @@ away. If anything, I suspect that it will acquire new dimensions.*
 >
 > -- Edward Witten, a physicist who colleagues casually call ["head and shoulders above the rest"](http://www.nytimes.com/1987/10/18/magazine/a-theory-of-everything.html?pagewanted=all) and "smarter than anyone else."
 
----
+So here's another way of looking at the problem. Recall that, in a particular
+sense, what you call "the world" is, in fact, 
+[made of consciousness](nature-of-mind.html). From this perspective, it is
+hardly surprising that your becoming *conscious* of the result coincides 
+precisely with it *having* one: these are two ways of speaking about the same
+thing. Said another way, the world comes into being as you become conscious
+of it because your consciousness **is** "the world."
 
+Following this idea to its logical conclusion seems [insane](insanity.html),
+and for good reason. I suspect that we will not "wrap our brains around the
+issue" until we begin to address [the root problem](overview.html).
+
+> *For quantum mechanics, all we really have to do (most people believe) is think about it in the right way. No elaborate experiments necessarily required (although they could help nudge us in the right direction, no doubt about that). But if anything, that makes the embarrassment more acute. All we have to do is wrap our brains around the issue, and yet we’ve failed to do so.*
+>
+> &nbsp;
+>
+> -- Sean Carroll
+
+---
 
 ### Notes and references
 
-1. Roger Penrose (2004), The Road to Reality, pp. 802-803:
+[0] Roger Penrose (2004), The Road to Reality, pp. 802-803:
 
-   > ...the environmental-decoherence viewpoint ... maintains that state 
+> ...the environmental-decoherence viewpoint ... maintains that state 
 vector reduction can be understood as coming about because the
 environmental system under consideration becomes inextricably entangled
 with its environment.[...] We think of the environment as extremely
-complicated and essentially 'random' [... but] there is no general 
-principle providing an
-absolute bar to extracting information from the environment.[...]
-Accordingly, such descriptions are referred to as FAPP [For All Practical
-Purposes].
+complicated and essentially 'random' [... but] **there is no general 
+principle providing an absolute bar to extracting information from the 
+environment.**[...] Accordingly, such descriptions are referred to as FAPP 
+[For All Practical Purposes].
 
-   [The decoherence myth](https://plato.stanford.edu/entries/qm-decoherence/#SolMeaPro):
+It should be noted that some are looking for "(in-principle) irreversible 
+decoherence." See this [interesting paper](https://arxiv.org/abs/1105.3796). 
+Nonetheless, no such mechanism has been found.
 
-   > Unfortunately, naive claims of the kind that decoherence gives a
+[1] There is also the possibility of "collapse of the wave function," but very
+little reason to believe in such a deus-ex-machina. There's very little
+experimental support for it, and it's very ugly theoretically (being
+nondeterministic and irreversible, unlike the rest of physics).
+
+Note that we have demonstrated superposition for at least trillions of 
+(well-controlled) particles. See, e.g. [here](http://physicsworld.com/cws/article/news/2010/mar/18/quantum-effect-spotted-in-a-visible-object).
+As we do bigger and bigger experiments, the collapse hypothesis becomes less and
+less likely.
+
+[2] Either directly or indirectly, such as via a friend telling you, or stray
+photons giving you information. An interesting question is what precisely
+constitutes you getting information, but that is beyond our scope here.
+
+[3] Note the sense in which the history is not a record of what happened,
+but a retroactive story to make the present consistent.
+
+[4] At least, in any way that could be shown to you while you still have 
+knowledge of the cat's fate. For your perspective to remain consistent, when
+you compare notes with anyone else, they will have seen the same result as you.
+
+It is true that someone *outside* the system (i.e., not yet entangled with it)
+can still demonstrate superposition, but you are now part of the system they
+are experimenting on, and they cannot show you the result without something
+like quantum erasure, making you forget the original result.
+
+[5] Or maybe it *does* weird everyone out.
+
+> *I suspect that a substantial majority of physicists who use quantum
+  mechanics in their everyday work are uninterested in or downright
+  hostile to attempts to understand the quantum measurement problem.*
+>
+> &nbsp;
+>
+> -- Sean Carroll
+
+[6] [The decoherence myth](https://plato.stanford.edu/entries/qm-decoherence/#SolMeaPro):
+
+> Unfortunately, naive claims of the kind that decoherence gives a
 complete answer to the measurement problem are still somewhat part of
 the ‘folklore’ of decoherence, and deservedly attract the wrath of
 physicists (e.g. Pearle 1997) and philosophers (e.g. Bub 1997, Chap. 8)
 alike.
 
-   See also [this answer](https://physics.stackexchange.com/a/374212/118804).
+See also [this answer](https://physics.stackexchange.com/a/374212/118804).
 
-   It should be noted that some are looking for "(in-principle) irreversible decoherence."
-See this[interesting paper](https://arxiv.org/abs/1105.3796). Nonetheless, no
-such mechanism has been found.
+[7] [The most embarrassing graph in modern physics](www.preposterousuniverse.com/blog/2013/01/17/the-most-embarrassing-graph-in-modern-physics/).
 
-2. If you try to make precise what you mean by "you" and "see" in such a
-claim, you will find it *very slippery.* But to try and pin it down here
-would make this piece ten times as long. Your friend *telling* you the
-result is enough, but the buck still stops with "you."
+> *I think Copenhagen is completely ill-defined, and shouldn’t be the favorite anything of any thoughtful person*
 
-3. [The most embarrassing graph in modern physics](www.preposterousuniverse.com/blog/2013/01/17/the-most-embarrassing-graph-in-modern-physics/).
+[8] Nobel laureate Eugene Wigner was (in)famous for his interpretation that
+conscious beings cause collapse, but we can see that he perhaps did it to avoid 
+this stranger conclusion (in 1967):
 
-   The leading interpretation is Copenhagen, which very roughly, is "a collapse
-probably happens somewhere, somewhen, somehow."
+> *This [reduction of the quantum state] takes place whenever the result
+  of an observation enters the consciousness of the observer - or, to be even 
+  more painfully precise, my own consciousness, since I am the only observer, 
+  all other people being only subjects of my observations.*
+>
+> &nbsp;...
+>
+> *However, to deny the existence of the consciousness of a friend to this
+  extent is surely an unnatural attitude, approaching solipsism, and few
+  people, in their hearts, will go along with it.*
 
-   > *I think Copenhagen is completely ill-defined, and shouldn’t be the favorite anything of any thoughtful person*
+[9] I've made sure to run it by a few quantum physicist friends, and also the
+online community:
 
-   Otherwise only 9% like objective collapse explanations, and 0% like
-De Broglie-Bohm (a leading alternative to QM). All the rest are interpretations
-of standard QM, allowing only unitary evolution (i.e., preserving the
-superposition).
+[PhysicsForums](https://www.physicsforums.com/threads/on-being-the-sole-observer-in-mwi.926552/#post-5849579)
 
-4. On the other hand, we have done this with at least trillions of 
-(well-controlled) particles. See, e.g. [here](http://physicsworld.com/cws/article/news/2010/mar/18/quantum-effect-spotted-in-a-visible-object).
+[Physics StackExchange](https://physics.stackexchange.com/questions/387852/has-quantum-solipsism-been-addressed-in-the-mwi-literature)
 
-5. This accounts for why we don't see an interference pattern in the
-two-slit experiment when there is a detector. If we had careful control over
-all atoms in the detector, we would see that the particle + detector system is
-still in a superposition, and demonstrates a kind of interference. The particle
-alone will not demonstrate interference. The math here is relatively basic, but
-beyond the scope of this article.
+Nobody has much concrete to say, either in support or objection.
 
-   In this sense, any physical system can serve as a "measuring device," but
-only in the sense that it makes demonstrating interference *hard*.
-
-6. See the [Wigner - von Neumann interpretation](https://en.wikipedia.org/wiki/Von_Neumann–Wigner_interpretation)
-aka "consciousness causes collapse."
-
-7. Note that "seeing the result" can also be indirect. For example, 
-light scattering off the ceiling may give indirect evidence of the cat's fate,
-and that's as good as seeing the cat itself. On the other hand, there can
-be *degrees* of certainty about the fate, depending on how strong your
-entanglement with the different outcomes. There's a lot more to say, but this
-isn't the place.
-
-8. In this previously linked [Physics Stackexchange answer](https://physics.stackexchange.com/a/374212/118804),
-they list three possibilities (collapse, modify QM, or MWI). As we've seen,
-MWI doesn't really solve it. This leaves collapse or QM is wrong.
-
-
-10. See [here](http://www.preposterousuniverse.com/blog/2013/01/17/the-most-embarrassing-graph-in-modern-physics/). 
-In particular, note that 9% believe in "objective collapse." As for Copenhagen, 
-it is addressed separately in this piece. And the only option that modifies
-the rules of QM is "de Broglie - Bohm", which gets a whopping 0%. "Other" is
-sounding like a pretty good option.
-
-11. Sean Carroll again:
-
-    > Quantum mechanics has become the most important and best-tested part of modern physics. Without it, nothing makes sense. Every student who gets a degree in physics is supposed to learn QM above all else. There are a variety of experimental probes, all of which confirm the theory to spectacular precision.
+[10] Sometimes it is argued that *any* object, including an unconscious 
+detector, is an observer from its own perspective, and so consciousness has 
+nothing to do with it. But it's unclear what it means to be "unconscious" and 
+still have a "perspective." This is panpsychism in drag; having your cake and 
+eating it too. 
 
 ---
 
-[>>Next<<](radical-forgiveness.html)
+### Mathematical footnotes: decoherence
+
+This section is for those with some knowledge of QM who want to understand
+decoherence as simply as possible.
+
+Consider a qubit in state `|psi> = |0> + |1>` measured with respect to the 
+following basis:
+
+   `{ |A> = |0> + |1>, |B> = |0> - |1> }`
+
+Because `<B|psi> = 0`, the result will never be `B`. This result can be 
+interpreted as the result of interference. In particular,
+`<B|0>` and `<B|1>` (the "two paths" from `|psi>` to `|B>`) have
+opposite amplitudes (+1 and -1) and are said to "destructively interfere."
+
+For example, say we have a particle that's spin-down along the z-axis. Note 
+that it is in a superposition w.r.t. the x-axis:
+
+   `|phi> = |z-> = sqrt(2)/2 * ( |x+> + |x-> )`
+
+The fact that measuring it in the z-axis will yield a definite result 
+(spin-down) even though "it is in a superposition" can be seen as an 
+interference effect.
+
+Now let the qubit `|psi>` become entangled with a "measuring device":
+
+   `|psi'> = |0>|X> + |1>|Y>` (with `|X>` and `|Y>` orthornormal).
+
+If you calculate the probability of the left subsystem being measured as `|B>`
+and ignoring the second particle (e.g., by applying the projector `P_B @ I`), 
+you will find that it is
+50%, as would be predicted if the particle were in a *classically*
+indeterminate mixture of `|0>` and `|1>`. The interference has
+"disappeared" with respect to either sub-system alone. In the density
+matrix formulation, this is equivalent to taking the
+[partial trace](https://en.wikipedia.org/wiki/Partial_trace) and
+noticing that the off-diagonal terms have disappeared.
+
+On the other hand, because the overall system `|psi'>` is still just a 
+superposition (in the tensor-product space spanned by
+`{ |0>|X>, |0>|Y>, |1>|X>, |1>|Y> }`),
+we can still demonstrate interference on it (e.g., by noting that it
+is never measured as `|0>|X> - |1>|Y>`). But this requires control of both
+subsystems.
+
+If the second subsystem is a stray photon that is now zipping away at the
+speed of light, we have no hope of catching it, and thus the remaining
+subsystem appears classical. This is decoherence in a nutshell.
+
+Another interesting thing to note is that the interference on `psi`
+disappears only insofar as `|X>` and `|Y>` have a smaller inner product.
+In other words, there are *degrees* of entanglement. The more strongly
+the particles are entangled -- the more that the second particle's state
+gives information about the first's -- the less interference we can
+demonstrate.
+
 

@@ -3,7 +3,7 @@
 impossible**, and there is an element of frivolous insincerity in any
 philosophy which pretends to accept it.*
 >
-> -- Bertrand Russell (unreal past)
+> -- Bertrand Russell (regarding an unreal past)
 
 ---
 
@@ -47,7 +47,9 @@ with ennui.***
 >
 > -- (Physicist) Sean Carroll
 
-Let's break this down a bit. Suppose you are trying to determine whether an
+Let's break this down a bit. 
+
+Imagine you are trying to determine whether an
 unseen coin is a penny or a quarter. If you are told that it was flipped and 
 came up heads, this shouldn't cause you to favor either answer. Even if you 
 were told the results of one thousand tosses, you still have learned nothing.

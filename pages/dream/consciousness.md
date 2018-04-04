@@ -97,8 +97,4 @@ go on for as many cycles (lifetimes) as you wish.
 
 It would be premature to conclude that consciousness is real while everything
 else isn't. But, being the very fabric from which your beliefs are made, it is a
-good place to hunt for the thread that unravels it all. Especially because,
-as we saw, you really have
-[no good reason to believe in anything else](radical-skepticism.html).
-
-
+good place to hunt for the thread that unravels it all.
