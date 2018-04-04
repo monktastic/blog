@@ -145,16 +145,19 @@ Discovering who you really are is sometimes called *transcending the ego*.
 
 Transcending the ego is not about being a nice person, though kindness will, in
 fact, greatly speed up the process. It's not that helping others will win you
-points with God or karma, but doing so is a good indication that you're 
+points with God or karma, but doing so is a good indication that you're
 beginning to realize the sense in which everybody else is also *you*.
 
 One way to see this is to notice that [what you call "the world" is made
 entirely of your own mind](nature-of-mind.html). It's true that there *may*
 be a "real world" causing it, but *this* (look around you) is all your own mind.
-The more precisely you realize this, the less you will worry about some 
+In addition, like with *time*, there is [no *reason*](solipsism.html) to believe
+in such an external reality.
+
+The more precisely you realize this, the less you will worry about some
 hypothetical and unfalsifiable "real world" distinct from *this* place.
-This can only be realized through practice; intellectual understanding can only
-get you started.
+This can only be realized through meditative introspection; intellectual
+understanding will not take you very far.
 
 When we say it is "your" mind, we are not talking about *you the dream
 character*. As with the nighttime dream, the "you" whose mind this is need not
@@ -195,11 +198,11 @@ beat yourself up.
 
 * Etc.
 
-Do these things when you *least* feel like it; when they seem *most* radical.
-Ideally, you should do them continuously. By doing so, you may begin to detect 
-how apparently external problems are closely mirrored by "internal" processes. 
-Allow for the strange possibility that healing one might heal the other and 
-see where that takes you.
+Do these things when you *least* feel like it; when they seem *most* radical
+and unwarranted. Ideally, you should do them continuously. By doing so, you may 
+begin to detect how apparently external problems are closely mirrored by "internal" 
+processes. Allow for the strange possibility that healing one might heal the other 
+and see where that takes you.
 
 And remember that *loving* people doesn't preclude your taking appropriate 
 action against them -- whether in the form of protesting, or imprisoning,
@@ -208,9 +211,45 @@ to be confident in your actions when you know they come from the right place.
 
 ---
 
-There's not much more for me to share right now. The rest you will have to do
-by yourself (or with friends and mentors). Remember, most of all, that it would
-be foolish to take the world around you as evidence that it is *not* a dream.
+Let's recap.
+
+What you call "the universe" is a dream. Part of this perspective is easy to
+understand intellectually: everything you experience is made of your own mind.
+Yet if this dream behaves exactly like you would expect an external, objective,
+physical reality to behave, then there's very little reason to call it a
+"dream."
+
+The *reason* it unfolds so consistently is because of behaviors you think of as
+"physics," but which are ultimately as accessible to your consciousness as your
+own thoughts. If you learn to become aware of your mind-wandering, you will have 
+made a tiny step toward understanding what it means to become aware of cognitive 
+activity that you were unknowingly performing. To become fully awake is a
+*much* longer process.
+
+There are various methods to become aware of the deep cognitive activity that
+keep your dream stable, and even to interrupt those processes. A suite of
+defense mechanisms -- manifesting largely in the form of incredulity -- 
+protects you from accidentally stumbling upon them before you are ready.
+
+A good test of readiness is to inspect how closely you still identify with your
+body and thoughts. Those are not *you* but merely things you experience, like
+all other objects in the dream world. You are the dreamer, Buddha, pretending
+to be this character. There is no need to wake her up before her time.
+
+It is easy to become aware of inconsistencies in your dream, such as how
+viscerally certain you *feel* about your metaphysical beliefs despite their
+not being meaningfully likely. One powerful (if difficult) technique is to 
+become continuously aware of the processes that give rise to that certainty, 
+and deeper still, to the processes that generate the illusions of time and 
+materiality in the first place. Ultimately, you must transcend your entire 
+conceptual structure.
+
+That process generally must be coupled with emotionally supportive techniques.
+Their quasi-religious flavor is often enough to dissuade the few who get this 
+far. Radical generosity, forgiveness, self-compassion, gratitude, etc., 
+performed with the deepest sincerity and commitment, may have surprising 
+results. Yet, from another perspective -- that of *the one who you truly are* 
+-- their necessity and impact is not surprising at all.
 
 ---
 
@@ -226,3 +265,7 @@ relevant.
 * Some [quotes](hypocrisy.html) where people confront the shadow in themselves.
 
 * You might like to read my argument that [consciousness is not physical](consciousness-physics.html).
+
+* For a comprehensive look at the Buddhist path, you can do no better than
+[this book](https://www.amazon.com/Seeing-That-Frees-Robert-Burbea/dp/0992848911) by Rob Burbea. [This review](https://www.reddit.com/r/streamentry/comments/55vryt/insight_rob_burbea_seeing_that_frees/) is
+amazing.
