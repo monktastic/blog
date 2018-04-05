@@ -227,14 +227,16 @@ activity that you were unknowingly performing. To become fully awake is a
 *much* longer process.
 
 There are various methods to become aware of the deep cognitive activity that
-keep your dream stable, and even to interrupt those processes. A suite of
+keeps your dream stable, and even to interrupt those processes. A suite of
 defense mechanisms -- manifesting largely in the form of incredulity -- 
 protects you from accidentally stumbling upon them before you are ready.
 
-A good test of readiness is to inspect how closely you still identify with your
-body and thoughts. Those are not *you* but merely things you experience, like
-all other objects in the dream world. You are the dreamer, Buddha, pretending
-to be this character. There is no need to wake her up before her time.
+Discovering you're a character in a dream sounds really scary, because then
+you might disappear. But *you* cannot disappear, because *you* are the life
+force itself, manifesting as the splendor currently before your very (seeming) 
+eyes. Misunderstanding this, you avoid anything that has the potential to wake 
+you up -- even though *that* is the happiness and peace you ultimately long
+for.
 
 It is easy to become aware of inconsistencies in your dream, such as how
 viscerally certain you *feel* about your metaphysical beliefs despite their
