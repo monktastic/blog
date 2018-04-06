@@ -23,7 +23,7 @@ You can do the same thing with your other senses. Compare the presence of a
 feeling (like pressing your fingers together) with an absence of feeling (in
 that location, at least).
 
-Now let us try to abstract away this fact of presence from its details (as
+Now let us try to abstract away this *fact of presence* from its *details* (as
 sights, sounds, etc.).
 
 The senses are all different *modes* of presence, but what they have in common is
@@ -55,8 +55,8 @@ object called a sound, and a subject called I, and some abstract property called
 "consciousness" that magically links the two. Or rather, while that model of
 reality may be useful, it's not your actual experience of the world -- even
 though it has always seemed like it due to unexamined conceptualization.
-Instead, this shimmering show you call "life" or "reality" is entirely made of
-consciousness -- merely experiencing or illuminating itself.
+Instead, this shimmering show you call "life" or "reality" is entirely *made of
+consciousness* -- merely experiencing or illuminating *itself*.
 
 So now what do you do with a belief like "consciousness exists" or
 "consciousness does not exist?" You discover, directly, that those beliefs are
@@ -75,21 +75,21 @@ You really must see it for yourself.
 
 Remarkably, during this model-building phase, consciousness brilliantly hides
 itself from itself, taking on fiendishly clever forms such as "the stuff of the
-world (aka matter) is all that really exists; consciousness is just an
+world (aka matter) is all that *really* exists; consciousness is just an
 illusion." And like a snake eating its own tail... poof!, the sole substance of
 your reality seemingly vanishes into itself.
 
 But it's always hiding in plain sight. It is what the Tibetans call
 "self-secret." It's not that some yogis in an ancient cave have been hiding it
-from you. It is everything. Yet somehow you are continually hiding it from
+from you. It is *everything*. Yet somehow you are continually hiding it from
 yourself. This game of hide-and-seek is known as Awakening, and they say it can
 go on for as many cycles (lifetimes) as you wish.
 
 > So close you can't see it
 >
-> So simple you can't believe it
->
 > So deep you can't fathom it
+>
+> So simple you can't believe it
 >
 > So good you can't accept it
 >
@@ -98,3 +98,4 @@ go on for as many cycles (lifetimes) as you wish.
 It would be premature to conclude that consciousness is real while everything
 else isn't. But, being the very fabric from which your beliefs are made, it is a
 good place to hunt for the thread that unravels it all.
+
