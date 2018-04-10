@@ -1,14 +1,13 @@
 
-I've tried many times to write a piece that captures the sheer confusion
-I experienced while working on a recent project.
+Computers are hard.
 
----
-
+<!-- TODO
 State machine of a placement.
 
 Document versioning.
 
 Serialization framework. Versioning. API versioning. Storage system.
+-->
 
 ---
 
