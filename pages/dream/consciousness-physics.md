@@ -48,7 +48,7 @@ an indirect route:
 [emergentism](https://plato.stanford.edu/entries/properties-emergent/), [epiphenomenalism](https://plato.stanford.edu/entries/epiphenomenalism/), etc.
 
 But centuries of philosophical debate have not resolved this, and so it's
-pointless for me to take that route. Thinking amounts to very little in these
+pointless for me to take that route. *Thinking* amounts to very little in these
 parts. As best I can tell, there is only one way to discover the thing I'm 
 trying to convey. Sit down and **do** the exercise laid out in the [you can know
 that you're conscious](your-consciousness.html) piece. Just look.
@@ -57,10 +57,10 @@ If your intellect takes control of the process -- which is more or less
 inevitable unless you've done some meditation -- it will find a thousand ways
 to convince you that there's nothing very special going on.
 
-But there *is* something very special indeed going on here. It just
+But there *is* something very special indeed going on here. It's just that it
 transcends this funny dream it's having -- the one it calls "physical reality" 
 -- and so we can't express it with language, thoughts, or other constructs 
-internal to the dream.
+*internal* to the dream.
 
 Instead, treat this as a riddle:
 
@@ -75,7 +75,6 @@ Instead, treat this as a riddle:
 > -- Tibetan Buddhist saying
 
 What is it? Careful: don't use your words.
-
 
 (At this point I should come clean and admit that you cannot really know that
 you're conscious. All you can know is that [consciousness IS](consciousness.html).)

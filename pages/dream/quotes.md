@@ -50,7 +50,8 @@ Quotes from Tibetan Buddhist masters:
 Much of Tibetan Buddhism comes not from the historical Buddha, but from
 "Celestial Buddhas" via dreams. It should be evaluated based on whether it
 works. Similarly, the following is about a teaching that came via a Dream
-Jesus. Ridiculous as though that may sound, I find it tremendously insightful.
+Jesus. Ridiculous as though that may sound, I find it tremendously insightful
+and accurate.
 
 > *The Course's assertion is that everything stems from the mind. The mind's thinking provides the basis for everything that it experiences. Whichever way the mind chooses to look at reality, it will find itself surrounded by and experiencing a "reality" that is the precise mirror of that. The mind's fundamental belief-system first manifests as inner feelings, emotions, interpretations and perceptions; and then manifests as the "outer" reality in which the mind seems to live.*
 >

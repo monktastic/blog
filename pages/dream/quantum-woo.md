@@ -65,7 +65,7 @@ Interpretation. While God may not find any of this strange, it doesn't make the
 situation any less weird for *you.*
 
 From your perspective, you seem to be the sole "observer." In an interesting
-sense, this is *your* world[8].
+(and physically meaningful) sense, this is *your* world[8].
 
 ---
 

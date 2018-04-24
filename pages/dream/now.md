@@ -1,3 +1,14 @@
+
+
+People often think of Buddhism as being about "being in the now" or the like,
+but it's far more radical than that. Even if you accept the radical notion that 
+["it's always now"](https://www.youtube.com/watch?v=T3JzcCviNDk), realize that
+the very concept "now" is only meaningful as a dividing line between a future
+and a past. To actually see what the Buddha is pointing to, you will have to 
+transcend the entire conceptual structure of time.
+
+---
+
 Buddhist teacher Rob Burbea:
 
 > [A]lthough it can be a helpful way of looking for a while to see that “it’s always the present”, that “only Now exists”, or even that “Being is endlessly Now”, such notions reify and sometimes eternalize ‘the now’. Just as with perceptions of flow, eventually the present needs to be seen through also. ‘Being in the now’ is most certainly not the goal of practice. Realizing the emptiness of all time – past, future, and present – is essential to a more radical liberation. Such insight is accessible through a range of means and will ultimately take us even deeper into the mystery of dependent origination.
