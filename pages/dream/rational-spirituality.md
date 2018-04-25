@@ -180,12 +180,13 @@ result of an experiment that has more than one potential outcome, *all* of the
 outcomes happen. In a sense, you split into multiple copies, each inhabiting
 a distinct world (corresponding to the possible outcomes).
 
-From your perspective, this "splitting" only happens with you, personally; [you
-are the sole "observer" in your world](quantum-woo.html). Yet there's no reason
+From your perspective, this "splitting" only happens with you, personally; you
+are the sole "observer" in your world, in a way that is [*physically
+verifiable* in principle](quantum-woo.html). Yet there's no reason
 to believe that the same isn't happening for other people or objects, too, from
 their own perspective. In this way, the world you experience is particular to
-you, and yet this doesn't imply that you are the only observer in the 
-multiverse, as it were. Put another way: what you call "the world" is entirely 
+you, and yet this doesn't imply that you are the only observer in the
+multiverse, as it were. Put another way: what you call "the world" is entirely
 *your* dream, but that doesn't mean there aren't others.
 
 I'm not trying to suggest that QM should be used to *support* any of what I've 

@@ -13,7 +13,8 @@ to work this all out yourself). Everything I say in the main section here is,
 to the best of my knowledge, accurate and reasonably well-accepted[9]. There
 are mathematical footnotes if you feel like going deeper.
 
-As this piece is part of a series on metaphysical idealism, I will make some
+As this piece is part of a 
+[series on metaphysical idealism](rational-spirituality), I will make some
 interpretations that may be hard to swallow. That section is indicated as
 speculation.
 
@@ -61,8 +62,8 @@ the party line for over a century[7].
 Second, if we look at this from a "God's-eye perspective," then all that really
 happened was that *you* joined the superposition. Both branches still exist,
 with one "copy" of you seeing each result. This is basically the Many Worlds 
-Interpretation. While God may not find any of this strange, it doesn't make the 
-situation any less weird for *you.*
+Interpretation. But while God may not find any of this strange, it doesn't make 
+the situation any less weird for *you.*
 
 From your perspective, you seem to be the sole "observer." In an interesting
 (and physically meaningful) sense, this is *your* world[8].
@@ -76,10 +77,11 @@ reasonably well-accepted[9]. Now for some speculation.
 
 Physicists tend to hate attempted associations between QM and consciousness,
 but this is a good time to point something out. This whole problem exists 
-because you "see" only one result. If you try to pin down what it means to "see" 
-a result, you will discover yourself closing in on what it means to be 
-*conscious* of that result. In this sense, the problem *is* intimately linked 
-to consciousness[10].
+because you "see" only one result (when the math shows many possibilities). If 
+you try to pin down what it means to "see" a result, you will discover yourself 
+trying to make precise what it means to be *conscious* of that result. In this 
+sense, the problem *is* very much about consciousness, whatever that word 
+happens to mean[10].
 
 It seems I am not the only one who thinks so:
 
@@ -112,7 +114,7 @@ of it because your consciousness **is** "the world."
 
 Following this idea to its logical conclusion seems [insane](insanity.html),
 and for good reason. I suspect that we will not "wrap our brains around the
-issue" until we begin to address [the root problem](overview.html).
+issue" until we begin to address [the root problem](rational-spirituality.html).
 
 > *For quantum mechanics, all we really have to do (most people believe) is think about it in the right way. No elaborate experiments necessarily required (although they could help nudge us in the right direction, no doubt about that). But if anything, that makes the embarrassment more acute. All we have to do is wrap our brains around the issue, and yet we’ve failed to do so.*
 >
@@ -184,6 +186,16 @@ physicists (e.g. Pearle 1997) and philosophers (e.g. Bub 1997, Chap. 8)
 alike.
 
 See also [this answer](https://physics.stackexchange.com/a/374212/118804).
+
+If that is so, why do so many people think that decoherence *has* solved it?
+Consider [this quote](http://www.preposterousuniverse.com/blog/2014/06/30/why-the-many-worlds-formulation-of-quantum-mechanics-is-probably-correct/) from Sean Caroll (bolding mine):
+
+> Once our quantum superposition involves macroscopic systems with **many** degrees of freedom that become entangled with an even-larger environment, the different terms in that superposition proceed to evolve completely independently of each other. It is as if they have become distinct worlds — because they have. We wouldn’t think of our pre-measurement state (1) as describing two different worlds; it’s just one world, in which the particle is in a superposition. But (2) has two worlds in it. The difference is that we can imagine undoing the superposition in (1) by carefully manipulating the particle, but in (2) the difference between the two branches has diffused into the environment and is lost there **forever**. 
+
+How many is "many?" And when has it become truly "forever?" This is a pure
+judgement call, unless someone discovers such a thing as in-principle
+irreversible decoherence. This is what allows you to pretend that the
+superposition disappeared early on.
 
 [7] [The most embarrassing graph in modern physics](www.preposterousuniverse.com/blog/2013/01/17/the-most-embarrassing-graph-in-modern-physics/).
 

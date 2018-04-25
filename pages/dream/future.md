@@ -11,7 +11,7 @@ continue to operate in the future.
 
 ---
 
-See [David Hume's Problem of Induction](stephenlaw.blogspot.com/2012/10/problem-of-induction-explained-simply.html).
+See [David Hume's Problem of Induction](http://stephenlaw.blogspot.com/2012/10/problem-of-induction-explained-simply.html).
 
 Briefly: the idea that things will *continue* to be true because they *have
 been* consistently true is called the *principle of induction*. How do we
@@ -35,6 +35,8 @@ reasoning, and thus invalid.
 > **A**: Duh, because the past is good evidence for the future!
 >
 > **B**: Oh, whew! You scared me for a second!
+>
+> **A**: Hooray, let's pretend everything is normal!
 
 <iframe width="560" height="315" align="middle" src="https://www.youtube.com/embed/ivPFlKyeypU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="display: block; margin-left: auto; margin-right: auto;"
 ></iframe>
@@ -46,9 +48,9 @@ alternative. It is commonly misunderstood to mean "we cannot be *certain* of the
 future," but it cuts far deeper than that.
 
 > *Many students new to philosophy misinterpret Hume: they think his conclusion is merely that we cannot be **certain** what will happen tomorrow. ...
-  [But] if Hume is right, the belief that the sun will rise tomorrow is as unjustified 
+  **[But] if Hume is right, the belief that the sun will rise tomorrow is as unjustified 
    as the belief that a million mile wide bowl of tulips will appear over the horizon 
-   instead. We suppose the second belief is insane. But if Hume is correct, the first belief is actually no more rational.
+   instead.** We suppose the second belief is insane. But if Hume is correct, the first belief is actually no more rational.
 > ... 
 > [T]he onus is on these defenders of “common 
    sense” to show precisely what is wrong with Hume's argument. No one has 
