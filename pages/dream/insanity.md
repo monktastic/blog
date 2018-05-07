@@ -1,7 +1,7 @@
-
 ---
 layout: page
-title: Fear
+title: Psychedelics and insanity
+description:
 ---
 
 
@@ -57,10 +57,11 @@ tools meant figuratively.
 But there's another possibility. Wisdom traditions exist to prepare your mind
 for insights that it otherwise could not handle. The reason that psychedelic
 trips sometimes result in intractable symptoms isn't because "some 
-neurotransmitters something something" (though that may be the best explanation
-from *within the dream*). The real reason is that we are encountering *genuine
-dream-transcending insights* that we may not be ready for. They get
-lost in translation into our unprepared minds, and *nothing could be scarier*.
+neurotransmitters something something" (though that may indeed be the best 
+explanation from *within the dream*). The real reason is that we are 
+encountering *genuine dream-transcending insights* that we may not be ready for. 
+They get lost in translation into our unprepared minds, and *nothing could be 
+scarier*.
 
 > *I heard 'Well, [he] finally did it, he broke through, I knew he would find the truth at some point. It was good being in his movie, let's all say goodbye to him, he's about to leave us, but watch out, you don't want to go with him now!' The realization that my friends were cardboard cutouts just killed me, I mean I would have been less shocked if my friends had pulled out a pistol right then and there and shot me. It felt like that, but so much worse. I can deal with pain & injury, but not the Ultimate Vision. Damnit, Lady Salvia, why did you have to go and show me that? God, that wasn't cool at all!!* 
 > 
@@ -137,10 +138,3 @@ schizophrenia.
 There is a way to take your experience very *seriously*, yet not *literally*, 
 but this can only be discovered through practice.
 
-<!-- TODO
-As an aside:
-If you believe in a world whose only ingredients are fundamentally lifeless,
-you should not be surprised if your dream begins to reflect that (for example,
-in the form of a [6th mass extinction](https://www.theguardian.com/environment/2017/jul/10/earths-sixth-mass-extinction-event-already-underway-scientists-warn)). It would also be unwise to point
-fingers (at politicians, executives, ...) when this is *your* dream.
--->
