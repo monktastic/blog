@@ -47,7 +47,7 @@ making it precisely as rational (or irrational) as the
 alternative. It is commonly misunderstood to mean "we cannot be *certain* of the 
 future," but it cuts far deeper than that.
 
-> *Many students new to philosophy misinterpret Hume: they think his conclusion is merely that we cannot be **certain** what will happen tomorrow. ...
+> *It’s a good test of whether someone has actually understood Hume’s argument that they acknowledge its conclusion is fantastic (many students new to philosophy misinterpret Hume: they think his conclusion is merely that we cannot be certain what will happen tomorrow.) ...
   **[But] if Hume is right, the belief that the sun will rise tomorrow is as unjustified 
    as the belief that a million mile wide bowl of tulips will appear over the horizon 
    instead.** We suppose the second belief is insane. But if Hume is correct, the first belief is actually no more rational.

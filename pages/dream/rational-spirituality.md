@@ -4,6 +4,7 @@ title: "Rational spirituality: transcending your metaphysics"
 description:
 ---
 
+
 It is impossible to prove that the past really happened. For all you know, you
 and the world popped into existence, fully formed, just now. Even stranger, [it
 is not even rationally justified to say that a real past is more *likely*](past.html). 
@@ -15,7 +16,7 @@ Even though the sun has come up millions of times before,
 we are not logically justified in believing that it is more likely to come over 
 the horizon tomorrow than, say, a merry band of monkeys.
 
-Go ahead and digest that for a moment.
+ Go ahead and digest that for a moment.
 
 *Materialism* is the philosophy that says that the world is fundamentally made
 of *stuff*, and *idealism* says that reality is *mental* (not unlike a dream).
