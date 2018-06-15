@@ -126,15 +126,40 @@ You are the Light. You always were. And now the Light is waking up to itself.
 
 ---
 
+There is no way to prove that this reality is *not* a dream or simulation. It is
+logically impossible. On the other hand, there is no such restriction against
+demonstrating that it *is* one. For example, if you were to discover the precise
+mechanism by which this dream is constructed -- and perhaps even take control
+of it -- then that would serve as a proof.
+
+Similarly, one cannot prove that God does *not* exist. On the other hand, if
+you turn out to *be* God -- i.e., *that which is dreaming this reality* --
+then this is a pretty good demonstration that God exists.
+
+In the same way, there is no way to prove that the Light is *caused*: after all,
+you cannot even prove that matter (or even *time*) exists in the first place. 
+This fact alone does not logically permit you to conclude that it is *uncaused* 
+or *uncreated*, of course. And yet if it turns out that you *are* the Light; 
+and the Light is God; and God is dreaming up time and space and all the rest, 
+then -- I claim -- there *is* a way of knowing all this beyond doubt.
+
+There's no way for me to convince you of it, of course. I freely admit that it
+all sounds like hogwash. And yet, I claim that it's true, and that the above
+method can give you direct knowledge of this fact.
+
+---
+
 What good is such a realization? After all, the aforementioned peak experience
-is generally very short-lived.
+is generally very short-lived. No matter how clear a glimpse you get, you will
+almost surely fall back into the illusion of being a separate individual in a
+time-bound world.
 
 There are many ways to answer that question, but one straightforward answer is
 that it puts the rest of life into context. It becomes easier to see that no
 matter what we're going through, the fact that we're going through *anything at
 all* is precious beyond belief. It is possible to recognize this without having 
-a "mystical experience," but bereft of the above insight, we will *always* take 
-existence for granted in various subtle ways.
+a "mystical experience," of course, but bereft of the above insight, we will 
+*always* take existence for granted in various subtle ways.
 
 It's not very useful to try and convince you to seek this realization yourself. 
 But if this "spirituality" thing is already an interest of yours, hopefully 
