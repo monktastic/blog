@@ -91,26 +91,19 @@ Ahh, everything is right again!
 
 ---
 
-The thing with lucidity is that it can be deepened with practice. At first,
-it manifests as Character's perspective becomes a little more fluid --
-incidentally, not unlike having eaten a small dose of "magic mushrooms." This
-permits Character to maintain her metaphysical beliefs (i.e., beliefs about
-the nature of reality).
+But lucidity can be deepened with practice. At first, you somehow *know* that
+you're dreaming, but nothing in the dream environment particularly gives
+evidence of the fact. You simply *remember*: *"oh yeah, this is a dream!"*
+This allows room for doubt later. 
 
-However, once the awakening process proceeds beyond a certain point, there is
-no going back. If Dreamer's mind wants to demonstrate to Character that the
-whole thing is her own self-illusion, there is simply no stopping it. She can
-make the world do arbitrarily strange and impossible things, mercilessly
-cutting off all potential avenues of doubt. Character gains intimate, firsthand
-knowledge of how and why every detail of the dream is constructed. She may 
-return to her storyline with only a whisper of that knowledge, but she has seen 
-too much to take it at face value any longer.
-
-(This would be a good time to
-pause and imagine a series of events or experiences that should convince you
-beyond any reasonable doubt that everything you've ever thought of as "reality"
-has been a dream. Be as creative as possible! Don't worry about whether such
-an experience could ever "really" happen to you.)
+As the process deepens, that room slowly vanishes. Once Dreamer's mind 
+wants to demonstrate to Character that the whole thing is her own self-illusion,
+there is simply no stopping it. She can manipulate reality in arbitrarily
+strange and impossible ways. Ways that are objectively verifiable -- that is,
+verifiable by other people and instruments *in the dream*. She can show you how
+trusting in "objectively verifiable" was a marvelous ruse. She can unravel and
+re-ravel each bit of reality, showing precisely how and why it was created. And
+you see that it's been you, the whole time.
 
 *All realities are my dream, and all dreams are made of my mind. Some dreams
 contain "space," "time," and "matter," but most do not. We will spend as many 
@@ -149,7 +142,7 @@ time you notice this, but dismiss it as nonsense.
 There is no reason to believe any of this, of course. Even if you try, you may
 find yourself only getting as far as "oh, maybe he just means that my brain 
 gives rise to my personal experience of reality." But as in the story of
-Character, there is a way to see unequivocally beyond this most cunning ruse. 
+Character, there *is* a way to see unequivocally beyond this most cunning ruse. 
 Until you do, this will all sound like a nice (or perhaps horrifying) fable.
 
 ---
