@@ -96,24 +96,29 @@ But, as can happen, the lucidity is repeated and deepened. At first, you
 "realize" that you're dreaming, but nothing in the dream environment
 particularly gives evidence of the fact. You simply *remember*: *"oh yeah, this
 is a dream!"* This allows room for doubt: maybe that's just a trick of
-Character's very real brain, and Dreamer is just wishful thinking. We may
-want spirituality to be true, but facts are facts, dammit!
+Character's very real brain, and that the existence of Dreamer is just wishful
+thinking. We may want spirituality to be true, but facts are facts, dammit!
 
 As the process deepens, the room for doubt slowly vanishes. Once Dreamer's mind
-wants to demonstrate to Character that the whole thing is her own self-illusion,
-there is simply no stopping it. She may manipulate reality in arbitrarily
-strange and impossible ways; ways that are "objectively" verifiable by other
-people and instruments. Then she shows you, unequivocally, that those other
-people and instruments are dreamed up, just like you are. Your blind trust in
-"objectivity" was a marvelous ruse! She can unravel and re-ravel each bit of
-reality, showing precisely how and why it was created. And because it has
-always been *her* looking through your eyes, you see that it has been *you*
-doing it the whole time.
+decides to demonstrate to Character that the whole thing is her own
+self-illusion, there is simply no stopping it. She may manipulate reality in
+arbitrarily strange and impossible ways; ways that are "objectively" verifiable
+by other people and instruments. Then she shows you, unequivocally, that those
+other people and instruments are dreamed up, just like you are. Your blind
+trust in "objectivity" was a marvelous ruse! 
 
-*All realities are my dream, and all dreams are made of my mind. Some dreams
-contain "space," "time," and "matter," but most do not. We will spend as many
-eternities as needed for you to grok this. During the whole process, you will
-have never left the placeless place; the crucible of creation.*
+She can unravel and re-ravel each bit of reality, showing precisely how and why 
+it was created. She creates one reality after another, each more intricate,
+internally-consistent, and convincingly real than the last. And because it has 
+always been *her* looking through your eyes, you see that it has been *you* 
+doing it the whole time. 
+
+*Don't you see? All your supposedly fail-safe indicators that a world is "real" 
+can be faked. That's the entire game! All realities are my dream, and all 
+dreams are made of my mind. Some dreams contain "space," "time," and "matter," 
+but most do not. We will spend as many eternities as needed for you to grok 
+this. During the whole process, you will have never left the placeless place; 
+the crucible of creation.*
 
 ---
 
@@ -190,14 +195,15 @@ mundane. You can also find your way into a different one.
 
 * "So then what is this 'meaning of life' that you promised?"
 
-The purpose is to wake up. You do this by recognizing and appreciating the
-miracle that you're continually (but unknowingly) engulfed in. By releasing
-the illusion of being identical with your character, yet taking radical
-responsibility for her dream. By recognizing everyone and everything else as
-yourself. By relinquishing the painful illusion of a cold, uncaring external
-reality enforcing its whims upon little old separate you. By deeply releasing
-all fear, blame, and guilt. By taking a leap of faith, beyond what your mind 
-convinces you is reasonable.
+The purpose is to wake up. You do this by recognizing and appreciating that
+you're continuously engulfed in a a miracle *beyond your wildest dreams*.
+By releasing the illusion of being identical with your character, yet taking 
+radical responsibility for her dream. By recognizing everyone and everything 
+else as yourself. By relinquishing the painful illusion of a cold, uncaring 
+external reality enforcing its whims upon little old separate you. By deeply 
+releasing all fear, blame, and guilt. By taking a leap of faith, beyond what 
+your mind convinces you is "reasonable." By being skeptical in ways that you
+haven't yet dared.
 
 ---
 
