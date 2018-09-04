@@ -273,6 +273,10 @@ Even if it *could* be punctured, would that be desirable? Or would it be
 [like having a stroke](https://www.ted.com/talks/jill_bolte_taylor_s_powerful_stroke_of_insight) -- at best,
 interesting for a short while?
 
+I'd like to propose another, very strange, possibility. Don't say I didn't warn
+you.
+
+
 
 ---
 
