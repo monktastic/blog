@@ -1,18 +1,22 @@
 
 I've just learned that Kubernetes "Helm" is a great technology "to find, share, 
-and use software built for Kubernetes" and decide I want to use it. First stop
-is [their documentation](http://helm.readthedocs.io/en/latest/awesome). There
-I learn that the `manifests/` directory is one of three key components. It's
-a place to store your Kubernetes manifests.
+and use software built for Kubernetes" and decide I want to learn how to use 
+it. First stop is [their documentation](http://helm.readthedocs.io/en/latest/awesome).
+ Near the very start of the page, they mention one of the three core components:
 
-What is a Kubernetes manifest? Nobody really knows.
+> * The `manifests/` directory contains one or more Kubernetes manifest files.
 
-[Google doesn't know](Google%20kubernetes%20helm.pdf)
+Later in the page, there are more references to "manifests," which ones get 
+special treatment, how some of them should be "keepers," but nothing about what 
+they *are*. 
 
-[Kubernetes doesn't know](Kubernetes%20search.pdf)
+You would think that searching through the Helm docs, the Kubernetes doc, or
+Google would turn up something, but no.
 
-(Sorry for the PDFs. Jekyll chokes on the saved webpages.)
+[Google doesn't know](Google%20kubernetes%20helm.pdf).
 
-Seriously, how does anyone get anything done?
+[Kubernetes doesn't know](Kubernetes%20search.pdf).
 
-
+After a *lot* more digging, I *think* "manifest" refers to any of the general
+YAML files used to define Kubernetes resources. I genuinely don't understand
+how people get up and running with new technologies.
