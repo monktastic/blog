@@ -1,95 +1,112 @@
 
+Sometimes you get the sense that life is magical or miraculous. You courageously
+discard this idea as irrational. You're not naive enough to believe in such
+fairy tales.
 
-## The setup
-
-Have you ever felt that life is magical? If you're like most people, you
-probably recognize that while it may *feel* magical, it can't be *literally*
-true. The world operates according to laws, not magic.
-
-But if it *were* literally true, would there be a way of knowing it?
-
-## A nice dream
-
-Imagine being in a nighttime dream. Your dream character's name is Character,
-and your waking self is named Dreamer. Character doesn't necessarily share any
-of Dreamer's traits or memories. In fact, suppose you (as Character) have no
-concept of Dreamer at all.
-
-One day you are stunned by a gorgeous red flower and are driven to ask: what
-causes me to see this brilliant hue? Using the scientific method, you discover
-that the Sun is emitting photons, which reflect off flavonoids in the flower,
-get transduced by opsins in your retina, turn into electrical impulses that
-travel to your visual cortex, and voilà! You now have a complete description of
-how you see a red flower. No magic necessary.
-
-Then one dream day you become
-*[lucid](https://en.wikipedia.org/wiki/Lucid_dream)* in your dream. You discover,
-beyond any doubt, that the entire dream is made of your mind. Not *Character's*
-mind, but *Dreamer's*. The experience called "brilliant red flower" is not
-produced by any phenomenon *inside* the dream, and certainly not by anything
-inside Character's imaginary skull. It is simply Dreamer's mind, *glowing* --
-just like everything else that you (as Character) have been seeing, smelling,
-tasting, hearing, touching, and thinking. The whole dream is made of a
-luminosity that comes from beyond the dream itself.
+It *is* just a fairy tale, isn't it? ....
 
 ---
 
-In essentially the same way, what you presently experience as "the world" -- all
-the sights, sounds, smells, tastes, textures, thoughts, etc. -- are made of your
-mind, but not your *personal* mind. Not something inside your skull, despite all
-the empirical evidence very suggestively hinting that way. Not by anything in
-"reality" at all. In other words, what you call "life" is not caused by anything
-*within* the world. It is, in this sense, genuinely magical.
+In a nighttime dream, you believe yourself to be a character wandering around as
+an isolated subject in a fundamentally external and threatening world. The only
+way to see through this illusion is to become *lucid*, at which point you
+discover that the whole of "reality" -- all the sights, sounds, textures, etc.
+that constitute the dream -- are made of the light of your own mind. Not "you"
+as in the *character*, but you as in the *dreamer* -- a being that exists beyond
+the confines of the dream.
 
-You are not the dream character you normally take yourself to be. What you
-really are is *that which glows realities into existence*. As ludicrous as that
-sounds, it is something that can be known with certainty. To discover it, you
-must become *lucid*.
+With increased lucidity, you discover that you do not occupy a position sitting
+behind the character's eyes, observing all this light. Instead, you *are* the
+light. "You" are distributed throughout the entirety of the apparent reality;
+its very fabric. And with still further awakening, you discover that the
+storyline of the dream is not something happening *to* you (perpetrated by your
+subconscious mind), but instead something you are actively *doing*. You weave
+yourself into a fantastical adventure and then embed yourself in it as an
+apparently localized, isolated subject.
 
-This is not easy to do, but here we will give a general overview of how it can
-be done.
+Once you see this clearly, there can be no doubt. You are free to weave and
+re-weave realities as you see fit; to lose yourself in them for arbitrarily long
+periods of "time" (another devious invention of your making, not necessarily
+present in all dreams); to generate apparently external beings who ruthlessly
+mock you for questioning reality; to rediscover the truth (it's infinitely
+delightful every. single. time.); and to rinse, lather, and repeat to your
+heart's content.
 
-## Radical skepticism
+---
 
-Philosopher-mathematician Bertrand Russell once pointed out:
+By now you may have suspected that what I'm saying applies not only to nighttime
+dreams, but to your present one as well. But just as you would at night, you
+find this idea to be utterly preposterous; not even worth a second thought. You
+will devise comically useless tests to "prove" that it's false. *Look how
+internally consistent this place is! Look at all the external evidence! I'm not
+clever enough to invent this place!* Well, your character certainly isn't, but
+You are.
 
-> *There is no logical impossibility in the hypothesis that the world
-sprang into being five minutes ago, exactly as it then was, with a
-population that 'remembered' a wholly unreal past.*
+If you really want to become lucid, you will have to dig really deep, and not
+turn tail at the first sign of difficulty. You will have to ignore all the
+warning signs: "Do Not Enter! Nothing to see here! Don't be ridiculous! The
+*scientists* would have found this out already! *Sciiiieeeence!*"
 
-It's not *impossible*, but it's very *unlikely*, isn't it?
+So how do you do it? How do you become lucid? That's too big a topic to cover in
+one post, but here are some hints.
 
-The difficulty is that to determine how "likely" something is, we need to start
-with some assumptions. For example, we might say "it's unlikely because the
-world just doesn't work that way." But this is circular reasoning: it assumes
-that what we learned in the past is valid, and not just a false memory.
+---
 
-Occam's Razor doesn't help, either. It says that simpler hypotheses have
-*tended* to be correct, but this again relies on past evidence. We can take the
-Razor to mean that simpler hypotheses should be *preferred*, but without any
-evidence, it cannot help us determine which is more *likely*.
+First you must understand, intellectually, that many radically skeptical
+hypotheses are not meaningfully *unlikely*. If you try to prove that it is
+"unlikely" that this is a dream, you will find yourself presupposing that it is
+not, in one sneaky way or another. This is circular reasoning, and utterly
+bogus. Similarly: did the world suddenly pop into being one moment ago, or is
+the past real? Any way you try to establish a real past, you will find yourself
+subtly assuming one: "we know (from past experience) that the world just doesn't
+work that way!" If you find yourself resisting this point, sit down and look
+more carefully and honestly. 
 
-Thus we cannot say it is "unlikely." Only that it is pointless and unhelpful.
+Philosophers discard these hypotheses not because they are *unlikely*, but
+because they are (apparently) useless. So what if the past isn't "really" real?
+That shouldn't change our behavior, should it? So there's no use in taking it
+seriously.
 
-In a similar way, consider *idealism*, the hypothesis that the whole world is
-fundamentally mental in nature. Various objections can be made, but they all
-ultimately rest on assumptions that presuppose its falsity. There is no unbiased
-test that could evaluate its likelihood versus the standard materialist view.
-Thus, we cannot say that either one is more "likely." We ought to pick whichever
-makes our life easiest.
+But the point isn't to start believing weird things like "the past isn't real."
+It is to notice that some deep part of you absolutely refuses to even consider
+that such things may be genuinely true. Something in you is *dead certain*, far
+beyond mere practical value. Just as in a nighttime dream, it is this utter
+(unfounded) certainty about the nature of reality that prevents you from giving
+it a completely* honest look. You must find its root cause.
 
-A third example is David Hume's "Problem of Induction," which demonstrates that
-there is no more reason to believe that the laws of physics will continue to
-operate five minutes from now than that they will suddenly unravel. As strange
-as it may seem, neither case is more "likely."
+The next step is to understand, intellectually, that the world around you is
+made of your own mind. You can accept this even as a materialist, by
+substituting "my own mind" with "my own neurons firing." Every sight you see,
+every sound you hear, every thought you think, is your own mind, illuminated.
+Just listen: what *else* could that experience be than your own mind?
 
-Let's recap. It is *not unlikely* that the world popped into being five minutes
-ago, or that it is all made of your mind, or that the laws of physics will
-suddenly fall apart in five minutes. But no matter how well you understand this
-intellectually, notice how viscerally certain you are that all these things are
-utter nonsense.
+Once you recognize that your *experienced* world is made of your own mind, your
+mind will instinctively assert "but *obviously* there's a real world out there,
+*causing* it." This is the crucial moment. It is *not* obvious. Purely rationally
+speaking, it is not even "likely." If you can *grok* the fact that the apparent
+world is your own mind, and simultaneously *grok* that there is no reason to
+take the standard explanation literally, then there is the possibility of
+becoming lucid. In Eastern traditions, this is known as awakening. It is simple,
+but it is not easy.
 
-Something deep in your mind is clutching *desperately* to ideas that it has no
-reason to believe. One of the keys to becoming lucid is learning to not listen
-to that irrational voice.
+You might wonder: if the Buddha was lucid, why wasn't he flying around with
+superpowers and such? And now for the punchline: this is *your* dream. The
+Buddha is an idea you planted to remind yourself how to wake up. Instead of
+waiting for "others" to wake up and prove it to you, why not do it yourself?
 
+---
+
+The Light that constitutes your reality comes from beyond it, and in a sense,
+the whole point of the dream is to awaken completely to its majesty.
+
+> So close you can't see it
+>
+> So deep you can't fathom it
+>
+> So simple you can't believe it
+>
+> So good you can't accept it
+>
+> &nbsp;
+>
+> -- Tibetan Buddhist saying
