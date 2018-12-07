@@ -13,39 +13,32 @@ continue to operate in the future.
 
 See [David Hume's Problem of Induction](http://stephenlaw.blogspot.com/2012/10/problem-of-induction-explained-simply.html).
 
-Briefly: the idea that things will *continue* to be true because they *have
-been* consistently true is called the *principle of induction*. How do we
-justify this principle? By observing that it's *been true* in
-the past, and therefore will *continue* to be in the future. In other words,
-the principle of induction is only justified via induction. This is circular
-reasoning, and thus invalid. 
+Briefly: the idea that the past is good evidence for the future is called the 
+*principle of induction*. How do we justify this principle? By observing that
+it's *been true* in the past, and therefore will *continue* to be in the future.
+In other words, the principle of induction is itself justified via induction. 
+This is circular reasoning, and thus invalid.
+
+If that's hard to follow, maybe this conversation will help:
 
 > **A**: The past is good evidence for the future.
 >
-> **B**: Why?
+> **B**: I can see that's been true in the past. Why do you think it will continue to be true?
 >
-> **A**: Because that's been true in the past.
+> **A**: Because it's been true in the past.
 >
-> **B**: Okay, and?
+> **B**: And you're assuming that means it will continue to be true?
 >
-> **A**: Therefore it will continue to be true in the future.
+> **A**: I'm not *assuming* anything! I have evidence for it!
 >
-> **B**: ... because?
+> **B**: Yes, from the past. But why is that good evidence for the future?
 >
-> **A**: Duh, because the past is good evidence for the future!
->
-> **B**: Oh, whew! You scared me for a second!
->
-> **A**: Hooray, let's pretend everything is normal!
+> **A**: Because... the past is good evidence for the future, duh!
 
-<iframe width="560" height="315" align="middle" src="https://www.youtube.com/embed/ivPFlKyeypU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="display: block; margin-left: auto; margin-right: auto;"
-></iframe>
-
-If there is only *circular* justification for the belief that the laws of 
-physics will continue to operate, then there is *no* justification --
-making it precisely as rational (or irrational) as the 
-alternative. It is commonly misunderstood to mean "we cannot be *certain* of the 
-future," but it cuts far deeper than that.
+There is no non-circular reason to treat the past as good evidence for the
+future. Therefore, physical law having held in the past cannot be taken as
+evidence that it will continue to hold in the future. This is a point easily and
+commonly misunderstood regarding the Problem of Induction.
 
 > *It’s a good test of whether someone has actually understood Hume’s argument that they acknowledge its conclusion is fantastic (many students new to philosophy misinterpret Hume: they think his conclusion is merely that we cannot be certain what will happen tomorrow.) ...
   **[But] if Hume is right, the belief that the sun will rise tomorrow is as unjustified 

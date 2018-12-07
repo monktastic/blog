@@ -128,16 +128,35 @@ This leads us to the second misconception:
 >
 > -- [Quanta magazine](https://www.quantamagazine.org/real-life-schrodingers-cats-probe-the-boundary-of-the-quantum-world-20180625)
 
-This is misleading. The different outcomes for the cat certainly lead to
-different outcomes for its environment, and because of that entanglement, we
-cannot demonstrate interference on the cat, *even in principle*. Considered
-as an isolated system, the cat is not in a superposition. But the cat *plus
-environment* still is. So there is still no answer to the question "which way
-did the experiment turn out?"
+This is misleading. The cat certainly becomes entangled with its environment, so
+we cannot demonstrate interference on the cat alone, *even in principle*. In
+other words, considered as an isolated system, the cat is not in a
+superposition. But the *cat plus environment* still is. So there is still no
+answer to the question "which way did the experiment turn out?"
 
-Notice how easy it is to lose the plot. For this reason, it is a common
-misconception that decoherence has solved the "measurement problem"[4] --
-roughly speaking, the question of when a measurement outcome *really* happens.
+Similarly:
+
+> *An excellent definition can be found in the book Quantum Enigma by Bruce
+Rosenblum and Fred Kuttner: “Whenever any property of a microscopic object
+affects a macroscopic object, that property is ‘observed’ and becomes a physical
+reality.” For example, when a microscopic photon hits the macroscopic screen in
+the double-slit experiment, then that will reduce the quantum superposition
+state of the photon to a single value (the single mark it leaves on the
+screen).*
+
+But there is no fundamental distinction between (or even precise definition of)
+"macroscopic" and "microscopic." When the photon hits the screen, the *photon
+plus screen* are in a superposition of all the possible places that the photon
+might have hit. It is not correct to say that there is a single value yet. It is
+only correct to say that, given that current (and foreseeable) technology cannot
+*detect* macroscopic superpositions, we are free to *pretend* as though there is
+a single (unknown) result. This seemingly small distinction hides the 
+punchline, as we're about to see.
+
+Notice how easy it is to overlook the problem or sweep it under the rug. Both
+of the above were written by physics PhDs. It is a common misconception that
+decoherence has solved the "measurement problem"[4] -- roughly speaking, the
+question of when a measurement outcome *really* happens.
 
 This is the real heart of the issue, and where things get interesting.
 
