@@ -4,25 +4,33 @@ title: "Radical skepticism, magic, and the fate of humanity"
 description:
 ---
 
+### Summary
+
 > *Most of us suspect we don’t really know what life is. But really **knowing** 
 you don't know takes some work. It requires you to clearly see that your story 
 is just a story; and to become conscious of the deep mystery at its foundation.*
 >
 > -- Tim Freke
 
-The modern way of thinking assures us that there is no such thing as magic or
-miracles. The world is made of fundamentally lifeless stuff being randomly
-shuffled around by mindless laws. Even if a small voice inside you *wants* there
-to be something more to it all, your appreciation for science (and your wish
-to fit into modern society) compel you to interpret this desire as a naïve
-distraction from the "cold, hard facts" of reality.
+The modern way of thinking assures us that reality is made of intrinsically
+lifeless stuff being shuffled around by mindless laws. Even if a small voice
+inside you wishes there were a meaningful sense in which life is genuinely
+magical and the world truly alive, there seems to be no legitimate, rational way
+to accommodate these beliefs. At best, it must be wishful thinking; errant
+biochemistry aimed solely at propagating your selfish genes.
 
-This is a tragic mistake of epic proportions whose consequences you see
-unfolding around you today. In a meaningful sense, *all* of reality is
-miraculous, and we *are* all one. Understanding this sense takes considerable
-effort and honesty, but it pays off handsomely. Figures throughout history have
-tried to communicate it, to apparently little avail. I have no reason to believe
-I can do better, but I might as well try.
+This worldview is profoundly confused, but because its fundamental error is
+rooted much more deeply than we normally have conscious access to, the mistake
+is fiendishly hard to see. Various people through the ages have tried to communicate
+it, but the frequently religious overtones are commonly off-putting to modern
+readers. I have no reason to believe I can do better, but I want to try.
+
+The worldview is not only *wrong*, but profoundly *disastrous*. The converging
+planetary crises of our day are ultimately due to our inability to accommodate
+the possibility of "real life." By seeing reality as fundamentally dead, we have
+created a self-fulfilling prophecy that is slowly killing it.
+
+Let's launch right into it.
 
 ## Radical skepticism
 
@@ -34,12 +42,12 @@ once pointed out:
 sprang into being five minutes ago, exactly as it then was, with a
 population that 'remembered' a wholly unreal past.*
 
-Suppose you see a picture from "yesterday." How can you know that it didn't
-*also* spring into being five minutes ago? It *seems* pretty darn unlikely, but
-we can't say it's impossible. Unfortunately, the problem is even worse than 
-that.
+Suppose you see a picture from "yesterday." How can you be sure that it didn't
+spring into being five minutes ago, with the rest of the world? It *seems* 
+pretty darn unlikely, but we can't say it's impossible. Unfortunately,
+the problem is even worse than that.
 
-How do we know that it's *unlikely*? We know because the laws of physics just
+How do we know that it's "unlikely?" We know because the laws of physics just
 don't work that way. But when did we observe these "laws of physics?" In the
 "real" past? That's circular reasoning, so we can't trust it. Even Occam's Razor
 runs into this problem, relying as it does on past examples for support. In
@@ -47,16 +55,16 @@ fact, *all* arguments end up being circular in one subtle way or another, and
 are thus invalid. As a result, we cannot meaningfully evaluate how "likely" it
 is that the past is real, and we cannot say that a fake past is "unlikely."
 
-This is far from being the only skeptical hypothesis. Here's another: we have
+There are many such skeptical hypotheses. Here's another: we have
 [no reason to believe that the laws of physics will continue to hold five
-minutes from now](/dream/future.html). A third is that you cannot know whether
-the physical world around you really exists, or if it is all a dream. Any
-argument you try to make against it ("but then I ought to be able to fly!") is
-easily countered if you're honest ("you're just not
-[lucid](https://en.wikipedia.org/wiki/Lucid_dream) yet").
+minutes from now](/blog/pages/dream/future.html). A third is that you cannot
+know whether a physical world really exists, or if it is all a dream of sorts.
+Depending on what (impossible to verify) assumptions you make about the reality
+*outside* the dream, this hypothesis could be very likely or very unlikely.
 
-So we cannot rationally say that any of these possibilities are "unlikely." What
-we *can* do, however, is say that they are pointless. Life clearly goes much 
+We cannot rationally conclude that any of these possibilities are "unlikely,"
+despite the overwhelming urge to do so. What we *can* do, however, is say 
+that they are pointless. Life clearly goes much 
 more smoothly if you assume that things are as they seem, whether you have 
 purely rational justification or not. Russell himself recognized this:
 
@@ -80,15 +88,19 @@ cannot defend his reason by reason.*
 But these great thinkers were missing something crucial. If you merely try and
 *believe* that the past is an illusion, a powerful defense mechanism deep in
 your mind will prevent you from making much progress. To actually experience
-what life is like free of your rigid certainties about reality, and thereby
-determine the *true* value of radical skepticism, we must go deeper.
+what life is like free of your rigid certainties, and thereby determine 
+the *true* value of radical skepticism, we must go deeper.
 
 ## Meditation
 
-In breathing meditation, you allow your mind to rest on the sensations of the
-breath, and gently guide it back when you notice that you are distracted. From
-the outside, this looks like purely a method to train attention, but it is much
-more than that. Author Sam Harris says:
+Have you ever had the experience of reading a book, only to discover minutes 
+later that your eyes have been scanning the page while your mind was elsewhere?
+If interrupted and asked what you were thinking about, you could probably answer. 
+So your thinking wasn't exactly unconscious -- and yet you weren't aware of it.
+In a similar way, your mind is constantly doing a lot of stuff, semi-consciously,
+without you suspecting it. And yet most of us will never discover this.
+
+Author Sam Harris:
 
 > [B]eginning meditators often think that they are able to concentrate on a
 single object, such as the breath, for minutes at a time, only to report after
@@ -99,7 +111,7 @@ of concentration to even notice how distracted you are.
 As a young adult, I spent three months meditating full time in a Tibetan
 Buddhist center, and what Harris describes kept unfolding. At first, my mind was
 filled with an endless stream of coarse thoughts: what I was going to eat for
-dinner, what time it was, etc. When I began to notice those, I patted myself on
+dinner, what time it was, etc. As I began to notice those, I patted myself on
 the back, only to discover underneath them a more subtle stream of narration. As
 those settled, even more faint ideation became apparent. It is like waves on
 the ocean: the tiny fluctuations only become visible as the large ones subside
@@ -128,12 +140,12 @@ will convince yourself in a million ways that you *need* to take your beliefs
 function *as though* reality operates in the standard way, without taking it
 literally. And something surprising happens when you do.
 
-When you finally cut through this thicket of unfounded assumptions about the
-nature of reality, you may have an experience that can genuinely be called
-"transcendent" -- in that it transcends every notion of reality you currently
-hold. In addition to seeing what you *don't* (and cannot) know, you also finally
-come into contact with what you *do* know -- and in a strange and delightful
-sense, always *have* known, somehow without realizing it.
+When you finally cut through this thicket of unfounded assumptions, you may 
+have an experience that can genuinely be called "transcendent" -- in that it
+transcends every notion of reality you currently hold. And in addition to 
+seeing what you *don't* (and cannot) know, you also finally come into contact
+with the one thing you *do* know -- and in a strange and delightful sense,
+have *always* known, somehow without realizing it.
 
 ## The Light
 
@@ -150,7 +162,7 @@ sense, always *have* known, somehow without realizing it.
 As you can imagine, this will be hard to communicate, but let's try.
 
 Close your eyes and listen to a sound. Now see if you can recognize the sheer
-experience of sound as being "made of" your own mind, illuminated. The defining
+experience of sound as being "made of" the light of your mind. The defining
 characteristic of the mind is its capacity to experience. That potentiality
 manifests in the *form of* particular experiences (such as sound). In this
 sense, it is not that your mind is merely *experiencing* a sound; its intrinsic
@@ -165,27 +177,28 @@ the same bird chirped, air molecules vibrated, your ears transduced the signal,
 etc., if those neurons weren't firing, there would be no chirp-experience.
 Conversely, even if there were no actual bird (like in a dream), those neurons
 firing would still be experienced as the sound of chirping. That sound *is* your
-brain. Now forgetting the physicalist description, that sound is your *mind*
+brain. Now forgetting the physicalist assumption, that sound is your *mind*
 -- your sheer capacity for experience -- shining out in all its glory.
 
-The mind glows in the form of your other sense fields, too, as well as in the
+The mind shines in the form of your other sense fields, too, as well as in the
 form of thoughts, emotions, memories, etc. (which together are sometimes,
 confusingly, *also* defined as "the mind"). Everything you've ever experienced
 as "the world" has been your mind, illuminated. Even if you cannot know anything
 about the true *cause* of this luminosity, the one thing you *can* know is that 
 whatever it is, it *is* shining right now.
 
-This fact may seem obvious, but it is normally heavily obscured by your constant
-mental chatter. When you experience the luminosity completely nakedly --
-finally free of your assumptions about its cause and nature -- something
-remarkable can happen. You may experience joy, wonder, awe, gratitude, and love
-beyond your wildest imagination; beyond what can normally fit inside the
-confines of your mind. You rediscover the unspeakable magic of life.
+If this fact feels dull or obvious, it is because part of your mind is still
+dead certain that it can *explain* this luminosity: it's caused by a world out
+there, a brain in here, etc. When you experience the luminosity completely
+nakedly -- finally free of your unfounded assumptions about its cause and 
+nature -- something remarkable can happen. You may experience joy, wonder, awe,
+gratitude, humility, and love beyond your wildest imagination; beyond what
+can normally fit inside the confines of your mind. You rediscover the
+unspeakable and mind-shattering magic of *life*.
 
-At this point, the temptation is *very strong* to reorient yourself using the
-safety blanket you've become so familiar with: "oh, never mind; I can explain
-this all in terms of my brain and an external world." If you somehow manage to
-resist this most cunning trap, the mystery deepens further.
+The rational mind cannot stand not knowing, and will try to reassert its
+dominance. If you somehow manage to resist its cunning traps, the mystery
+opens out further.
 
 ## What lies beyond
 
@@ -220,46 +233,47 @@ the dream are all one.
 
 When you lose lucidity (as generally happens) and return to being Character, all
 the knowledge you gained while lucid becomes suspect. You rationalize that
-there's no way to *know* that it's a dream and that you're all one. It was
-probably just a trick of the goop inside your skull. In fact, the dream may even
-evolve in a way that lets you "prove" that. You're left with vague platitudes
-like "life is a miracle" -- which some lucky lass at Hallmark can put on
-greeting cards that will grace the shelves of Walmart.
+there's no way to *know* that it's a dream and that you're all one. That insight
+was probably just a trick of the goop inside your skull. In fact, the dream may 
+even evolve in a way that lets you "prove" this. You're left with vague platitudes
+like "life is a miracle" -- which some lucky lass at Hallmark can stamp on
+greeting cards that will grace the shelves of your local Walmart.
 
 I'm not going to tell you that this reality is a dream in the mind of a
-transcendent power. Or that the purpose of the dream is to wake up to this fact,
-by recognizing your unity with and love for all beings. Or that every moment is
-a miracle beyond your wildest imagination, and that you *really* ought to
+transcendent power that is "looking out your eyes" in a sense. Or that the 
+purpose of the dream is to wake up to this fact, by recognizing your unity with,
+and unconditional love for, all beings. Or that every moment is
+a miracle literally beyond comprehension, and that you *really* ought to
 realize this before your character dissolves back into the transcendent ground.
 All of that would be too cliché, I have no evidence to give you, and it would 
-cause you to expect far too much of me.
+cause you to expect far too much of me personally.
 
 But I very strongly *will* advise you to have the experience yourself, so that
-you can decide for yourself what it means.
+you can decide for yourself what it means. It would do us all a lot of good.
 
 ## The fate of humanity
 
 The modern Western worldview does not allow consciousness or life to be anything
 more than illusions; mere labels we attach to sufficiently complex biochemical
-soups. We "know" that what *really* exists is inert matter and mindless physical
-law. The whole place is a glorified heap of interchangeable stuff, randomly
-banging around for no particular reason. It is only *within* this framework that
-we permit ourselves to interpret statements like "life is wondrous, precious,
-and miraculous." Deep down, we know that even these ideas are merely mechanical
+soups. We "know" that what *really* exists is inert matter pushed around by
+mindless physical law. It is only *within* this framework that we permit 
+ourselves to interpret statements like "life is wondrous, precious, and 
+miraculous." Deep down, we know that even these beliefs are merely mechanical
 rearrangements of neurotransmitters, driven by the evolutionary process only to
 help us spread our selfish genes.
 
-It is *this* constellation of unjustified beliefs that is causing our current
-planetary crisis.
+It is *this* constellation of unjustified beliefs -- and moreover, our cocksure
+certainty that they circumscribe all of reality -- that is at the heart of our
+current planetary crisis.
 
 The ecological collapse, climate catastrophe, biodiversity crisis, anxiety and
 depression epidemics, etc., are all rooted in our deep conviction that reality
-is fundamentally lifeless. As long as that belief is in place, we can do no
-better than *make* this place lifeless. I cannot prove it, but until we learn to
-see ourselves, each other, and nature as intrinsically *alive* -- in a sense
-that transcends our modern, impoverished notion of the word -- we will continue
-to destroy it all. We will not be able to cleverly engineer our way out of this
-mess while preserving the underlying mindset that inevitably generates it.
+is fundamentally lifeless. I cannot prove it, but until we learn to see
+ourselves, each other, and nature as intrinsically *alive* -- in a sense
+that transcends the modern, impoverished notion of the word -- we will
+continue to *make* it lifeless. We will not be able to simply engineer our
+way out of this mess while preserving the underlying mindset that inevitably
+generates it.
  
 Even as I wrote these paragraphs, I can feel the judgment of modern scientific
 reductionism weighing down on me. "Come on, are you really trying to convince
@@ -268,13 +282,16 @@ that's just your superstitious monkey brain rebelling against the cold, hard,
 irrefutable facts of reality, unable to cope?"
 
 Against such a claim, I am powerless. All I can do is urge you to reconsider
-your unassailable yet misguided assurance regarding the most basic "facts" about
-the world, as laid out above. If the very nature of reality is *far stranger*
-than you have been led to believe, you won't discover that through any of the
-obvious routes. Guys like Elon Musk are said to be testing the hypothesis that
-reality is a simulation, but they're looking in the wrong direction. The dreamer
-is looking out your eyes, even as you read this. *So close you can't see it*.
+your unassailable yet misguided assurance regarding the most basic "facts"
+about the world. If the very nature of reality is *far stranger* than you have
+been led to believe, you won't discover that through any of the obvious routes.
 
-The world is alive. Life is magical. Let's rediscover the profound meaning of
-these words before it's too late.
+Guys like Elon Musk are said to be testing the hypothesis that reality is a
+simulation, but they're looking in the wrong direction. The dreamer is
+looking out your eyes, even as you read this. You must turn the light of
+awareness back upon itself, until it rediscovers its own primordial *aliveness.*
 
+*So close you can't see it*.
+
+The world *is* alive. Life *is* magical. Let's rediscover the profound meaning
+of these words before it's too late.
