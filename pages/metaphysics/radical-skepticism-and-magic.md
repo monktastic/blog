@@ -138,14 +138,14 @@ the darkness we so tragically proliferate.
 
 The subtlest layers are even more profound.
 
-At all times, you are continually reinforcing your assumptions about the nature
-of reality. While this is happening, it is indeed "psychologically impossible"
-(as Russell said) to genuinely consider that they may be *dead wrong*. You will
-convince yourself in a million clever ways that *obviously* they're true,
-philosophical sophistry be damned. And in any case, you *must* believe them, or
-else you'll go crazy. But it isn't true. It is possible to function *as though*
-reality operates in the standard way, without taking it literally. And something
-surprising happens when you do.
+At all times, you are continually reinforcing your unfounded assumptions about
+the nature of reality. While this is happening, it is indeed "psychologically
+impossible" (as Russell said) to genuinely consider that they may be *dead
+wrong*. You will convince yourself in a million clever ways that *obviously*
+they're true, philosophical sophistry be damned. And in any case, you *must*
+believe them, or else you'll go crazy. But it isn't true. It is possible to
+function *as though* reality operates in the standard way, without taking it
+literally. And something surprising happens when you do.
 
 When you finally cut through this thicket of unfounded assumptions, you may have
 an experience that can genuinely be called "transcendent" -- in that it

@@ -44,20 +44,19 @@
 
 What is it that prevents methods of wisdom from leading to insanity?
 
-A reasonable first guess is that techniques for wisdom are not meant
-to be taken literally. This is not *really* a dream; you are not *really*
-the Buddha; events don't *really* have anything to do with you. These are just 
-tools meant figuratively.
+Perhaps it is simply that these techniques are not meant to be taken literally.
+This is not *really* a dream; you are not *really* the Buddha; events don't
+*really* have anything to do with you. These are just meant figuratively.
 
 But there's another possibility. Wisdom traditions exist to prepare your mind
 for insights that it otherwise could not handle. The reason that psychedelic
 trips sometimes result in very difficult symptoms isn't because "some 
 neurotransmitters something something," it's because they can reveal *genuine 
 insights* that we may not be ready for, and that get mangled in translation
-into our inflexible minds.
+into our unprepared minds.
 
 There *is* a sense in which this *is* your dream; you really *are* the Buddha; 
-and everything in this life *is* related to you. It's just that "you" doesn't
+and everything you encounter *is* relevant to you. It's just that "you" doesn't
 mean what you think it does.
 
 Rather than try to communicate this myself, I'd like to share a beautiful piece.
@@ -72,7 +71,7 @@ Rather than try to communicate this myself, I'd like to share a beautiful piece.
 >
 > &nbsp;
 >
-> G – Thought is limited. What the mind can know is limited. What can be known is infinite. When something limited comes up against something infinite, it reveals itself as being infinitely small. Some people, for whatever reason, have an experience of this infinity, this nothingness out of which all manifestation springs. When that happens, their consciousness undergoes a revolution. This is what happened to Jesus, to the Buddha, and to a great many more people who we have never heard of. This is also what happens to what we call schizophrenics, although their consciousnesses are prevented from undergoing the same revolution due mainly to fear. They are afraid—and this is not a judgement of them—of letting go of their egos, of their thoughts, and of falling back into that infinite nothingness that they have become aware of. Of course, it is impossible to try to figure out infinity, and to carry the ego into infinity.
+> G – Thought is limited. What the mind can know is limited. What can be known is infinite. When something limited comes up against something infinite, it reveals itself as being infinitely small. Some people, for whatever reason, have an experience of this infinity, this nothingness out of which all manifestation springs. When that happens, their consciousness undergoes a revolution. This is what happened to Jesus, to the Buddha, and to a great many more people who we have never heard of. This is also what happens to what we call schizophrenics, although their consciousnesses are prevented from undergoing the same revolution due mainly to fear. They are afraid -- and this is not a judgement of them -- of letting go of their egos, of their thoughts, and of falling back into that infinite nothingness that they have become aware of. Of course, it is impossible to try to figure out infinity, and to carry the ego into infinity.
 >
 > &nbsp;...
 >
@@ -84,7 +83,7 @@ Rather than try to communicate this myself, I'd like to share a beautiful piece.
 >
 > &nbsp;
 >
-> G – No, you become what you are in essence, which is what Jesus was in essence—pure love. You are that which has always been aware of your thoughts, of your ego. You become the swimmer instead of the bag of stones.
+> G – No, you become what you are in essence, which is what Jesus was in essence -- pure love. You are that which has always been aware of your thoughts, of your ego. You become the swimmer instead of the bag of stones.
 
 ---
 
